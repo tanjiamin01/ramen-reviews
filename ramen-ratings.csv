@@ -1,0 +1,2616 @@
+ID,Country,Brand,Type,Package,Rating
+1,IDN,Brand A,Seaweed Instant Noodle,Cup,5
+2,KOR,Brand B,Beef Ramen,Cup,3.3
+3,JPN,Brand C,Chicken Ramen,Cup,3.8
+4,JPN,Brand D,Shoyu Ramen,Cup,5
+5,JPN,Brand E,Miso Ramen,Cup,5
+6,SGP,Brand F,Curry Ramen,Cup,3.5
+7,THA,Brand G,Tom Yum Ramen,Cup,5
+8,USA,Brand A,Chicken Instant Noodle,Cup,4
+9,KOR,Brand B,Mushroom Instant Noodle,Cup,5
+10,JPN,Brand C,Beef and Mushroom Instant Noodle,Cup,4.8
+11,JPN,Brand D,Kimchi Ramen,Cup,4.3
+12,JPN,Brand E,Shoyu Ramen,Cup,2
+13,JPN,Brand F,Shoyu Ramen,Cup,2
+14,JPN,Brand G,Shoyu Ramen,Cup,3.8
+15,JPN,Brand A,Tantannen,Cup,3.8
+16,TWN,Brand B,Noodles Spicy Hot Sesame Spicy Hot Sesame Guan-miao Noodles,Pack,1
+17,USA,Brand C,Cup Noodles Chicken Vegetable,Cup,2.3
+18,TWN,Brand D,GGE Ramen Snack Tomato Flavor,Pack,2.8
+19,IDN,Brand E,SGP Curry,Pack,3.8
+20,KOR,Brand F,Kimchi song Song Ramen,Pack,4.8
+21,JPN,Brand A,Spice Deli Tantan Men With Cilantro,Cup,4
+22,JPN,Brand B,Nabeyaki Kitsune Udon,Tray,3.8
+23,JPN,Brand C,Hokkaido Soy Sauce Ramen,Pack,0.3
+24,SGP,Brand D,The Original Spicy Stir-Fried Noodles,Pack,2.5
+25,THA,Brand E,Creamy tom Yum Kung Flavour,Pack,5
+26,USA,Brand F,Yokohama Tonkotsu Shoyu,Pack,5
+27,KOR,Brand G,Mr. Bibim Stir-Fried Kimchi Flavor,Pack,4.3
+28,JPN,Brand A,Deka Buto Kimchi Pork Flavor,Bowl,4.5
+29,HKG,Brand B,Demae Ramen Bar Noodle Aka Tonkotsu Flavour Instant Noodle,Pack,5
+30,SGP,Brand C,Mushroom Flavour Instant Noodles,Cup,3.5
+31,IDN,Brand D,Mario Masala Noodles,Pack,3.8
+32,USA,Brand E,Tokyo Shoyu Ramen,Pack,5
+33,VNM,Brand F,Mi Hai Cua,Pack,4
+34,KOR,Brand G,Premium Gomtang,Pack,4
+35,HKG,Brand A,Cup Noodles Laksa Flavour,Cup,4.3
+36,USA,Brand B,Beef Ramen,Pack,5
+37,SGP,Brand C,Creamy Soup With Crushed Noodles Hot & Sour Fish Flavor,Cup,5
+38,USA,Brand D,Sapporo Miso Ramen,Pack,4.8
+39,IDN,Brand E,Hot Garlic Instant Noodles,Pack,4.3
+40,KOR,Brand F,Song Song Kimchi Big Bowl,Bowl,4.3
+41,Ghana,Brand A,Instant Noodles Beef In Light Soup Flavour,Pack,3.5
+42,JPN,Brand B,Hakata Ramen Noodle White Tonkotsu,Bowl,4.8
+43,MYS,Brand C,Penang White Curry Rice Vermicelli Soup,Bowl,5
+44,SGP,Brand D,Signature Tom Yum Flavor Instant Noodles,Pack,4
+45,KOR,Brand E,Paegaejang Ramen,Pack,5
+46,IDN,Brand F,Gekikara Ramen Extra Hot Ramen Goreng,Pack,4.5
+47,KOR,Brand G,Plain Instant Noodle No Soup Included,Pack,#VALUE!
+48,CHN,Brand A,Chongqing Spicy Hot Noodles,Bowl,4
+49,JPN,Brand B,Sugo-Men Kyoto Backfat Shoyu Ramen,Bowl,3.8
+50,SGP,Brand C,Instant Noodles Laksa Singapura Flavour,Pack,5
+51,USA,Brand D,Cup-A-Soup Chicken Noodle With White Meat Instant Soup,Box,1.5
+52,SGP,Brand E,Curry Flavour Instant Noodles,Cup,5
+53,JPN,Brand F,Super Cup Yochan Ika Yakisoba,Tray,1.5
+54,USA,Brand G,Cup Noodles Very Veggie Spicy Chicken Flavor Ramen Noodle Soup,Cup,5
+55,TWN,Brand A,GGE Noodle Snack Wheat Crackers Mexican Spicy,Pack,3.3
+56,HKG,Brand B,Demae Iccho Tonkotsu Flavour Instant Noodle,Cup,3.8
+57,USA,Brand C,Cup Noodles Very Veggie Beef Flavor Ramen Noodle Soup,Cup,5
+58,SGP,Brand D,Cup NoodlesTom Yam Seafood (More Shrimptacular),Cup,5
+59,Ghana,Brand E,Instant Noodles Beef,Pack,3.5
+60,USA,Brand F,Cup Noodles Very Veggie Chicken Flavor Ramen Noodle Soup,Cup,5
+61,JPN,Brand A,Hokkaido Hakodate Shoyu Ramen,Pack,4
+62,KOR,Brand B,Shin Ramyun Black,Pack,5
+63,JPN,Brand C,Nippon Onomichi Ramen,Bowl,4.8
+64,CHN,Brand D,Pickled Cabbage Beef,Pack,4.3
+65,KOR,Brand E,Ppushu Ppushu Noodle Snack Honey Butter ,Pack,2
+66,JPN,Brand F,Gotsumori Chanpon Ramen,Bowl,4.5
+67,SGP,Brand G,Juzz's Mee Creamy Chicken Flavour (Export Version),Pack,5
+68,VNM,Brand A,Mushroom Flavor,Pack,0
+69,KOR,Brand B,Jjamppong Big Bowl,Bowl,4.5
+70,JPN,Brand C,Curry Udon,Pack,3.5
+71,SGP,Brand D,Straits Reborn Laksa,Pack,5
+72,KOR,Brand E,Budae Jjigae Noodle Soup,Pack,4.5
+73,JPN,Brand F,Hearty JPNese Style Curry Udon,Pack,5
+74,SGP,Brand G,Cup Noodles Potato Chips Black Pepper Crab Flavour,Pack,4.5
+75,SGP,Brand A,Cup Noodles Blacl Pepper Crab Flavour (More Angry Crab),Cup,5
+76,KOR,Brand B,Anchovy Flavor Guava Rice Noodles,Tray,1
+77,JPN,Brand C,Umami Ramen,Pack,4
+78,JPN,Brand D,Nabeyaki Tempura Udoin,Bowl,4.5
+79,JPN,Brand E,Hokkaido Hakodate Miso Ramen,Pack,3.5
+80,TWN,Brand F,Man Han Feast Spicy Beef Flavor Instant Noodles,Bowl,5
+81,JPN,Brand A,Kirin Giraffe Shoyu Ramen,Pack,4.5
+82,USA,Brand B,Nissin Top Ramen Chicken Flavor Potato Crisps ,Can,3.5
+83,TWN,Brand C,Dan Dan Noodle,Pack,5
+84,KOR,Brand D,Samyang Ramen Classic Edition,Bowl,5
+85,MYS,Brand E,Penang Red Tom Yum Goong Noodle,Pack,5
+86,IDN,Brand F,Hot Heads Green Chilli Noodles,Pack,3.5
+87,KOR,Brand G,Mala Buldak Bokkeummyun,Pack,3.8
+88,IDN,Brand A,RMy Noodlez Rumput Laut,Pack,4
+89,SGP,Brand B,Delight Chicken Flavor Instant Non-Fried Noodles,Pack,3.8
+90,JPN,Brand C,Super Cup Torigawa Shoyu,Bowl,3.5
+91,KOR,Brand D,Shin Ramyun,Pack,3
+92,CHN,Brand E,Sweet Potato Instant Noodle Sout-Hot Flavor,Bowl,0
+93,NGA,Brand F,Onion Chicken Flavor,Pack,1.5
+94,TWN,Brand G,Toona Paste Noodle,Pack,4
+95,MYS,Brand A,Supreme Creamy Tom Yum Noodle,Box,5
+96,SGP,Brand B,Creamy Soup With Crushed Noodles Chicken Flavor,Cup,5
+97,DEU,Brand C,Demae Ramen Spicy Beef,Pack,3.8
+98,DEU,Brand D,Cup Noodles Spicy,Cup,3.8
+99,DEU,Brand E,Soba Thai,Pack,4.5
+100,DEU,Brand F,Cup Noodles Huhn (Chicken),Cup,3.8
+101,DEU,Brand A,Demae Ramen Korean Kimchi,Pack,3.5
+102,DEU,Brand B,Cup Noodles Curry,Cup,3.8
+103,HUN,Brand C,Smack Chili,Pack,3.8
+104,DEU,Brand D,Soba Yakitori Chicken,Cup,5
+105,DEU,Brand E,Demae Ramen Garlic Chicken,Pack,3.5
+106,DEU,Brand F,Cup Noodles Ente (Duck),Cup,3
+107,DEU,Brand G,Demae Ramen Thai Tom Yum,Pack,3.8
+108,DEU,Brand A,Soba Sukiyaki Beef,Cup,4.5
+109,DEU,Brand B,Demae Ramen Spicy,Pack,3.5
+110,DEU,Brand C,Cup Noodles Shrimps,Cup,3
+111,DEU,Brand D,Demae Ramen Tokyo Soy Sauce,Pack,4
+112,KOR,Brand E,Bul Jjamppong,Bowl,5
+113,TWN,Brand F,Chicken With Chinese Shaoxing Wine,Pack,4.8
+114,KOR,Brand G,Buldak Bokkeummyun,Cup,3.8
+115,JPN,Brand A,Pork Wantan Men,Bowl,4.3
+116,MYS,Brand B,Instant Noodles Chicken Flavour,Pack,4
+117,TWN,Brand C,Scallion Oil & Soy Sauce Noodle,Pack,5
+118,TWN,Brand D,Sichuan Spices Flavor Noodle,Pack,5
+119,KOR,Brand E,Kimchi Stew Ramyun,Bowl,4
+120,JPN,Brand F,Seimen Red Spicy Dandan Men,Bowl,4.8
+121,KOR,Brand A,Ppushu Ppushu Noodle Snack Chilli Cheese Flavor,Pack,4.3
+122,JPN,Brand B,Mini Instant Noodle Mild Curry Flavor,Pack,2
+123,TWN,Brand C,Noodle Snack Wheat Cracks Seaweed Flavor,Pack,3.5
+124,HKG,Brand D,Cup Noodles Mini Seafood Flavour,Cup,5
+125,USA,Brand E,Udon JPNese Style Noodles With Soup Base Hot & Sour Flavor,Pack,3.8
+126,SGP,Brand F,Signature Curry Flavor Instant Noodles,Cup,3.5
+127,JPN,Brand G,Dossari Yasai Chanpon,Cup,4.3
+128,KOR,Brand A,Volcano Curry Kkokkomyun,Pack,3.5
+129,HKG,Brand B,Instant Noodle King Pepper Duck Flavour Soup,Pack,4
+130,CHN,Brand C,Cup Noodles XO Sauce Seafood,Cup,3.8
+131,KOR,Brand D,Extreme Spicy Hot Chicken Flavor Udon,Bowl,2
+132,IDN,Brand E,Gekikara Ramen Rasa Pedas,Pack,3.3
+133,TWN,Brand F,Sesame Oil Chicken Noodle With Rice Wine,Bowl,5
+134,JPN,Brand G,Hokkaido Hakodate Shio Ramen,Pack,4.5
+135,USA,Brand A,Katsuo Bowl Udon,Bowl,5
+136,JPN,Brand B,Cup Noodles MUG Shoyu & Seafood,Pack,3.5
+137,KOR,Brand C,Sari Ramen,Pack,#VALUE!
+138,SGP,Brand D,Instant Noodles Chicken Satay Flavour,Pack,3.5
+139,SGP,Brand E,Signature Spicy SGP Fried Noodles Instant Noodles,Pack,4.3
+140,SGP,Brand F,Creamy Soup With Crushed Noodles Sweet Corn Flavor,Cup,5
+141,SGP,Brand A,Silk Beef Pho Flavor Instant Rice Fettuccine,Bowl,3.3
+142,SGP,Brand B,Delight Spicy Sesame Flavor Instant Non-Fried Noodles,Pack,4.5
+143,SGP,Brand C,Signature Laksa Singapura Instant Noodles,Bowl,5
+144,SGP,Brand D,Delight Spicy Black Pepper Flavor Instant Non-Fried Noodles,Pack,5
+145,SGP,Brand E,Purple Wheat Noodles Chili & Lime Flavor,Pack,4
+146,SGP,Brand F,Delight Tomato Flavor Instant Non-Fried Noodles,Pack,5
+147,SGP,Brand G,Seafood Flavor Instant Noodles,Cup,3.5
+148,SGP,Brand A,Signature Stir-Fry Original Flavor Instant Noodles,Pack,3
+149,SGP,Brand B,Creamy Soup Witrh Crushed Noodles Curry Flavor,Cup,5
+150,SGP,Brand C,Delight Laksa Singapura Flavor Instant Non-Fried Noodles,Pack,4.3
+151,SGP,Brand D,Silk Spicy Marinara Instant Rice Fettuccine,Bowl,5
+152,SGP,Brand E,Signature Chicken Flavor Instant Noodles,Cup,3.8
+153,MEX,Brand F,Cup Noodles Sopa Nissin Hot Sauce Con Camaron,Cup,3.5
+154,JPN,Brand G,Penang Hokkien Prawn Flavor Noodle,Box,5
+155,CHN,Brand A,Roasted Pork Noodle,Pack,4.5
+156,TWN,Brand B,Man Han Feast Super Hot Pot Beef Flavor Instant Noodles,Bowl,5
+157,IDN,Brand C,Mi Goreng Original Flavour Fried Noodles,Pack,5
+158,JPN,Brand D,Raoh Nojyuku Toro Tonkotsu Ramen,Bowl,4.5
+159,HKG,Brand E,Artificial Dongpo's Braised Pork Flavour,Pack,4.8
+160,VNM,Brand F,Lau Tom Chua Cay,Pack,3.5
+161,TWN,Brand A,Old Beijing Fried Bean Sauce Noodle,Pack,4.3
+162,JPN,Brand B,Cup Noodles IDN Mie Goreng,Cup,3.8
+163,THA,Brand C,Yummy Spicy Rice Soup With Seafood,Bowl,3.5
+164,USA,Brand D,Udon JPNese Style Fresh Noodle,Bowl,3.8
+165,MYS,Brand E,MeeKuali Bihun Sup Rempah Perisa Daging,Pack,5
+166,JPN,Brand F,T's Restaurant Sura Tanmen,Cup,4
+167,TWN,Brand G,Sesame Oil Chicken With Rice Wine Noodle,Bowl,5
+168,JPN,Brand A,HALAL Chicken Shoyu Sauce Ramen,Pack,2.5
+169,USA,Brand B,Vegan Pad Thai Noodle Soup,Cup,0
+170,HKG,Brand C,Seafood Flavour Rice Vermicelli,Cup,5
+171,KOR,Brand D,Cheese Type Buldak Bokkeummyun (Black Pkg),Pack,3.8
+172,TWN,Brand E,Kung-Fu Instant Oriental Noodles Soup Artificial Onion Flavor,Pack,3.5
+173,MEX,Brand F,Cup Noodles Sopa Nissin Con Camaron Picante,Cup,3.3
+174,TWN,Brand G,Baseball Snack Noodle,Pack,5
+175,CHN,Brand A,Cup Noodles Spicy Seafood Flavor,Cup,3.8
+176,JPN,Brand B,Penang Red Tom Yum Goong,Box,5
+177,JPN,Brand C,Yomise No Yakisoba Karashi Mentaiko Flavor,Tray,4.5
+178,IDN,Brand D,Bihun Kuah Rasa Baso Sapi,Pack,3.8
+179,CHN,Brand E,Hot & Sour Beef Noodles,Bowl,4.3
+180,JPN,Brand F,Kitsune Udon Donbei (West),Bowl,5
+181,TWN,Brand A,THA Green Curry Instant Noodle,Bowl,5
+182,HKG,Brand B,Cup Noodles Beef Flavour,Cup,2.5
+183,USA,Brand C,Sanukiya Udon Shrimp Flavor,Pack,3.3
+184,USA,Brand D,Chicken Fajita Flavor Instant Ramen Noodles,Pack,3.8
+185,USA,Brand E,Lamb Stew Flavor Instant Ramen Noodles,Pack,3.8
+186,USA,Brand F,Seafood Gumbo Flavor Instant Ramen Noodles,Pack,3.5
+187,USA,Brand G,Chicken Taco Flavor Instant Ramen Noodles,Pack,3.8
+188,TWN,Brand A,Chuan Wei Spicy Guan-miao Noodles,Pack,4.5
+189,CHN,Brand B,Sweet Potato Instant Noodle Braised Spicy Chitterling Flavor,Pack,0.3
+190,HKG,Brand C,Cup Noodles Mini Spicy Seafood,Cup,4
+191,SGP,Brand D,Penang Hokkien Prawn Noodle Soup,Pack,5
+192,USA,Brand E,Yakisoba JPNese Style Noodle,Bowl,4.8
+193,IDN,Brand F,Nutri-licious Pazzta Tomato Twist,Pack,3.8
+194,CHN,Brand G,Chongqing Noodles Burning Dry Noodles,Bowl,5
+195,SGP,Brand A,Cup Noodles Tom Yam Seafood Flavour,Cup,5
+196,IDN,Brand B,My Noodles Mi Goreng Pizza Cheese,Pack,4
+197,CHN,Brand C,Shaanxi Cold Noodle: Mustard Spicy,Tray,1
+198,KOR,Brand D,Cheese Buldak Bokkeummyun (Black),Bowl,4
+199,FJI,Brand E,2 Minute Noodles Chicken Flavour,Pack,3.3
+200,CHN,Brand F,Chicken Flavor Instant Noolde,Pack,4.3
+201,HKG,Brand A,Cup Noodles Prawn Flavour,Cup,3.8
+202,JPN,Brand B,Hokkaido Miso Ramen,Pack,3
+203,MYS,Brand C,Penang Red Tom Yum Goong Rice Vermicelli Soup,Bowl,5
+204,KOR,Brand D,Jin Jjambbong Spicy Seafood Ramyun,Pack,5
+205,HKG,Brand E,Rice Vermicelli Pickled Vegetable Pork Flavour,Cup,3.8
+206,USA,Brand F,Imitation Chicken Flavor,Cup,4
+207,CHN,Brand G,Three Fresh Delicacies Instant Noodle,Pack,4.3
+208,HKG,Brand A,Demae Iccho Sesame Oil Flavour Instant Noodle,Bowl,3.5
+209,FJI,Brand B,2 Minute Noodles Curry Flavour,Pack,4
+210,TWN,Brand C,Man Han Feast Chilli Beef Flavor Instant Noodles,Bowl,4.8
+211,CHN,Brand D,9999 Chongqing Artificial Beef Flavor Instant Noodle,Pack,4.3
+212,USA,Brand E,Cup Noodles Beef Flavor Ramen Noodle Soup (New Recipe),Cup,3.5
+213,KOR,Brand F,Seaweed Instant Noodle,Cup,0.5
+214,HKG,Brand G,Demae Iccho Seafood Flavour Instant Noodle,Cup,4.8
+215,KOR,Brand A,Non-Fried Ramyun With Spicy Beef Broth,Pack,3.8
+216,USA,Brand B,Cup Noodles Hot & Spicy Shrimp Flavor Ramen Noodle Soup (New Recipe),Cup,2.5
+217,HKG,Brand C,Non-Fried Mix Noodle Black Pepper XO Sauce Flavoured,Pack,4.5
+218,MYS,Brand D,Penang White Curry Instant Noodle (JPN Version),Box,5
+219,THA,Brand E,Disney Cuties Instant Chicken With Corn Flavour,Cup,3.3
+220,TWN,Brand F,Man Han Feast Braised Pork Flavor Instant Noodles,Bowl,5
+221,IDN,Brand A,Mi Goreng Garlic Flavour Fried Noodles,Pack,4.5
+222,IDN,Brand B,Top Ramen Atta Nooldes Masala,Pack,4.5
+223,CHN,Brand C,Instant Spicy Rice Noodle,Bowl,4
+224,JPN,Brand D,Tanuki Soba,Cup,3.5
+225,KOR,Brand E,Zzaldduck Buldak Bokkeummyun Snack,Pack,4.5
+226,KOR,Brand F,Curry Buldak Bokkeummyun,Pack,4.3
+227,KOR,Brand G,Cool/Ice Buldak Bokkeummyun,Pack,3.8
+228,KOR,Brand A,2x Spicy Haek Buldak Bokkeummyun,Pack,4
+229,KOR,Brand B,Buldak Bokkeummyun Snack,Pack,5
+230,KOR,Brand C,Stew Buldak Bokkeumtangmyun,Pack,5
+231,KOR,Brand D,Cheese Buldak Bokkeummyun,Pack,4
+232,KOR,Brand E,Buldak Bokkeummyun (New Packaging),Pack,4
+233,CHN,Brand F,Bowl Instant Noodles Artificial Spicy Beef Flavor,Bowl,4
+234,HKG,Brand G,Demae Iccho Chicken Flavour Instant Noodle (Bowl Noodle),Bowl,5
+235,IDN,Brand A,Instant Noodles Artificial Chicken Flavoured,Pack,2
+236,JPN,Brand B,Kitsune Udon,Cup,2
+237,CHN,Brand C,Pickled Cabbage Flavor Instant Vermicelli,Bowl,4
+238,HKG,Brand D,Noodle King Artificial Wonton Soup Flavored,Bowl,5
+239,KOR,Brand E,Spicy Shrimp Cup Noodle,Cup,4
+240,JPN,Brand F,Nagasaki Agodashi Shoyu Ramen,Pack,4
+241,VNM,Brand A,Viet Cuisine Bun Rieu Cua Sour Crab Soup Instant Rice Vermicelli,Bowl,5
+242,JPN,Brand B,"Cup Noodles Rich Garlic, Egg Yolk & Oxtail",Cup,4
+243,TWN,Brand C,Minced Pork Flavor Instant Noodles,Pack,1
+244,IDN,Brand D,Chatpat Masala,Pack,4
+245,HKG,Brand E,Cup Noodles BIG XO Sauce Seafood Flavour,Cup,4
+246,AUS,Brand F,Noodles Chicken & Corn Flavour,Cup,3
+247,JPN,Brand G,Hokkaido Salt Ramen,Pack,3
+248,HKG,Brand A,Demae Iccho Tonkotsu Flavour Instant Noodle (Bowl Noodle),Bowl,3
+249,PAK,Brand B,Chatt Patta Instant Noodles,Pack,1
+250,KOR,Brand C,Clam Flavor Soup Kal-guksu,Pack,5
+251,MEX,Brand D,Cup Noodles Sopa Nissin Sabor A Pollo,Cup,4
+252,MEX,Brand E,Maxi Sopa Nissin Cuchareable Sabor A Jugo De Carne,Cup,4
+253,MEX,Brand F,Sopa Nissin Sabor A Camaron Sopa Instantanea Tipo Ramen,Pack,4
+254,MEX,Brand G,Cup Noodles Sopa Nissin Sabor A Carne De Res,Cup,4
+255,MEX,Brand A,RapiFideo Sabor A Tomate Y Pollo,Cup,4
+256,MEX,Brand B,"Cup Noodles Sopa Nissin Sabor Camaron, Habanero Y Limon",Cup,3
+257,MEX,Brand C,Sopa Nissin Sabor A Pollo Sopa Instantanea Tipo Ramen,Pack,4
+258,MEX,Brand D,Cup Noodles Sopa Nissin Con Camaron,Cup,3
+259,MEX,Brand E,Maxi Sopa Nissin Cuchareable Sabor A Camaron Picante,Cup,3
+260,MEX,Brand F,Cup Noodles Gourmet Sabor A Caldo De Camaron,Cup,5
+261,MEX,Brand A,"Sopa Nissin Sabor Mariscos, Habanero Y Limon",Cup,4
+262,MEX,Brand B,Maxi Sopa Nissin Cuchareable Sabor A Pollo,Cup,4
+263,MEX,Brand C,Sopa Nissin Sabor A Res Instantanea Tipo Ramen,Pack,4
+264,MEX,Brand D,Cup Noodles Sopa Nissin Hot Sauce Sabor A Pollo,Cup,4
+265,TWN,Brand E,Little Prince(ss) Brand Snack Noodles Artificial Mexican Pizza Flavor,Pack,4
+266,IDN,Brand F,Atta Noodles Jhatpat Banao Befikr Khao,Pack,5
+267,CHN,Brand G,Shaanxi Cold Noot Hot & Sour Flavor,Pack,3
+268,USA,Brand A,Cup Noodles Spicy Lime Flavor Ramen Noodle Soup (New Recipe),Cup,4
+269,HKG,Brand B,Demae Iccho Tokyo Shoru Tonkotsu Instant Noodle,Cup,4
+270,BGD,Brand C,Mr. Noodles Curry Flavor Instant Noodles,Pack,4
+271,KOR,Brand D,Bul Jjajangmyeon,Pack,5
+272,JPN,Brand E,Kirin Giraffe Shio Ramen,Pack,5
+273,JPN,Brand F,Mie Kamayama Ramen Gyukotsu Misoaji,Bowl,3
+274,HKG,Brand G,Black Pepper XO Sauce Flavour,Bowl,5
+275,JPN,Brand A,Nupasta Bolognese Flavour Instant Noodle,Cup,4
+276,KOR,Brand B,Saeutang Sabalmyeon,Bowl,3.5
+277,TWN,Brand C,Sichuan Spicy Flavor,Pack,5
+278,THA,Brand D,Instant Bowl Noodles Shrimp (Tom Yum) Flavor Base,Bowl,4
+279,JPN,Brand E,Cup Noodle Spicy Curry Chicken,Cup,5
+280,USA,Brand F,Ramen Noodles Miso Flavor,Bowl,3
+281,HKG,Brand A,Cup Noodles Spicy Beef Flavour,Cup,4
+282,TWN,Brand B,Sesame Oil With Garlic Flavor Thin Noodle,Pack,3.5
+283,TWN,Brand C,Traditional Shallot & Onion Oil Noodle,Pack,5
+284,TWN,Brand D,Sesame Sauce Matcha Noodle,Pack,3.8
+285,BGD,Brand E,Mr. Noodles Instant Noodles Beef Flavour,Pack,4
+286,HKG,Brand F,Cup Noodles Big Seafood Flavour,Cup,4
+287,AUS,Brand G,Noodles Chicken Chow Mein Flavour,Cup,4
+288,MEX,Brand A,Ramyun Sabor Pollo,Pack,4
+289,HKG,Brand B,Demae Iccho Black Garlic Oil Tonkotsu Flavour Instant Noodles,Cup,4
+290,JPN,Brand C,Chicken Flavor Ramen,Pack,4
+291,IDN,Brand D,2 Minute Noodles Masala Spicy,Pack,5
+292,MEX,Brand E,Sopa Maruchan Sobar A Camaron,Pack,3
+293,JPN,Brand F,Yakisoba,Tray,5
+294,AUS,Brand G,Noodle With Oriental Chicken Flavour,Cup,3
+295,HKG,Brand A,Demae Ramen Spicy Xo Sauce Seafood Flavour Instant Noodle,Pack,4
+296,MYS,Brand B,Mi Segera Mmm... Original,Pack,3
+297,USA,Brand C,Cup Noodles Spicy Chile Chicken (New Recipe),Cup,4
+298,CHN,Brand D,Bowl Instant Noodles Artificial Beef With Sauerkraut Flavor,Bowl,3
+299,AUS,Brand E,Noodles With Chicken Flavour,Cup,3
+300,CHN,Brand F,Cup Noodles Seafood,Cup,4
+301,JPN,Brand A,Tabimen AizuKitakata Gyokai Shoyu Ramen,Bowl,4
+302,HKG,Brand B,Nupasta Bacon In Carbonara Sauce Flavour Instant Noodle,Pack,5
+303,CHN,Brand C,Chongqing Noodles Spicy Hot Flavor,Pack,5
+304,KOR,Brand D,Buldak Bokkummyun Cheese Flavor,Pack,4
+305,HKG,Brand E,Demae Ramen Straight Noodle Black Garlic Oil Tonkotsu Flavour Instant Noodle,Pack,5
+306,JPN,Brand F,Shin Toyama Black Ramen,Bowl,4
+307,HKG,Brand G,Cup Noodles Tom Yum Goong Flavour,Cup,4
+308,CHN,Brand A,Artificial Abalone Crab Flavor Instant Noodle,Pack,0
+309,HKG,Brand B,Noodle King Artificial Abalone And Chicken Soup Flavored,Bowl,4
+310,AUS,Brand C,Noodles Beef Flavour,Cup,3
+311,HKG,Brand D,Korean Kimchi Flavour Vermicelli,Cup,4
+312,JPN,Brand E,Raoh Pork Bone Soy Soup Noodle,Pack,5
+313,KOR,Brand F,Gold Jjamppong Fried Noodle,Pack,5
+314,HKG,Brand G,Demae Iccho Red Hot Seafood Flavour Instant Noodle,Cup,4
+315,CHN,Brand A,Chongqing Noodles Hot & Sour Flavor,Pack,4
+316,HKG,Brand B,Demae Iccho Spicy Tonkotsu Flavour Instant Noodle (Bowl Noodle),Bowl,5
+317,JPN,Brand C,Raoh Tantanmen,Pack,5
+318,USA,Brand D,Ramen Noodles Soy Sauce Flavor,Bowl,3
+319,USA,Brand E,Cup Noodles With Shrimp Ramen Noodle Soup (New Recipe),Cup,3
+320,CHN,Brand F,Hot & Sour Beef Noodles,Pack,4
+321,AUS,Brand A,Noodles With Braised Beef Flavour,Cup,4
+322,TWN,Brand B,A Q Bucket Noodle Korean Kimchi Flavor,Bowl,4
+323,HKG,Brand C,Demae Iccho Spicy Kimchi Pot Flavour Instant Noodle (Bowl Noodle),Bowl,4
+324,CHN,Brand D,Chongqing Noodles Burning Dry Noodles,Pack,5
+325,KOR,Brand E,Fresh Bibimmyun Fried Noodle,Pack,4
+326,IDN,Brand F,Instant Noodles Veg Masala Flavour,Pack,4
+327,HKG,Brand G,Nupasta Neapolitan Flavour Instant Noodle,Pack,5
+328,USA,Brand A,Karami Ramen Spicy Chili Flavour JPNese Style Noodle With Soup Base,Pack,2
+329,THA,Brand B,Disney Cuties Instant Noodle Crab Flavour,Cup,4
+330,JPN,Brand C,Cup Noodles Rich Soft Shelled Turle Soup,Cup,3
+331,TWN,Brand D,Instant Vegetarian Beehoon Rice Vermicelli,Pack,1
+332,CHN,Brand E,Broad Noodle Artificial Beef Flavor Hot Pot,Pack,4
+333,USA,Brand F,Curry Flavour Instant Noodles,Cup,5
+334,JPN,Brand G,Tohokuno Aji Yonezawa Ramen,Bowl,4
+335,TWN,Brand A,Science Noodle (X'Mas Edition),Pack,5
+336,USA,Brand B,Pho Beef Flavor VNMese Rice Noodle Soup,Bowl,3.8
+337,HKG,Brand C,Instant Wonton Noodles Scallop Lobster Soup Flavour,Bowl,4.3
+338,HKG,Brand D,Tom Yam Soup Instant Noodle,Pack,2.3
+339,USA,Brand E,Ramen Noodles Artificially Flavored Tonkotsu,Bowl,3
+340,JPN,Brand F,Hiroshima Flavor Yakisoba,Tray,5
+341,THA,Brand A,Disney Cuties Instant Noodle Seaweed Flavour,Cup,3
+342,AUS,Brand B,Instant Noodles Mi Goreng Flavour,Cup,4
+343,JPN,Brand C,Sugomen Sano Ramen,Bowl,5
+344,MEX,Brand D,Ramyon Sabor Y Camaron,Pack,4
+345,HKG,Brand E,Demae Iccho Spicy XO Sauce Seafood Flavour,Pack,4
+346,TWN,Brand F,Sun Dried Noodle - Fruity Soy Bean Paste,Pack,4
+347,USA,Brand G,Shin Noodle Soup,Cup,5
+348,JPN,Brand A,Sapporo Noukou Miso Ramen,Bowl,5
+349,USA,Brand B,Soy Sauce,Cup,4
+350,HKG,Brand C,VNMese Chicken Coriander Flavour Vermicelli,Cup,4
+351,HKG,Brand D,Artificial Spicy Beef Flavour,Pack,4
+352,HKG,Brand E,Cup Noodles Black Pepper Crab Flavour,Cup,4
+353,CAN,Brand F,Beef Style Noodles With Vegetables,Cup,3
+354,HKG,Brand G,Spicy Soup Instant Noodle Beef Flavour,Pack,4
+355,KOR,Brand A,Rice Noodle Anchovy Flavor,Bowl,3
+356,USA,Brand B,Cup Noodles Chicken Flavor Ramen Noodle Soup (New Recipe),Cup,4
+357,NPL,Brand C,Rumpum Gundruk Flavour,Pack,1
+358,JPN,Brand D,Cup Noodle Light+ Bagna Cauda,Cup,5
+359,JPN,Brand E,Gotsumori Koku Tonkotsu Ramen,Bowl,4
+360,THA,Brand F,Tom Yum Shrimp Creamy Flavour Instant Noodles,Bowl,4
+361,KOR,Brand A,Bibim Men,Bowl,5
+362,HKG,Brand B,Cup Noodles Milk Seafood Flavour,Cup,4
+363,JPN,Brand C,Spicy Chikin Donburi,Bowl,5
+364,AUS,Brand D,Noodle Chicken Flavour,Cup,4
+365,JPN,Brand E,Kuroma-Yu Tonkotsu Kumamoto Ramen,Pack,4
+366,HKG,Brand F,Artificial Beef With Sauerkraut Flavour,Pack,4
+367,JPN,Brand G,Raoh Shoyu Ramen,Bowl,5
+368,USA,Brand A,Ramen Noodle Soup Sriracha Chicken Flavor,Pack,4
+369,JPN,Brand B,Hiyashi Soba Taidashi Goma,Pack,3
+370,HKG,Brand C,Bowl Chicken Flavour Instant Rice Vermicelli,Bowl,4
+371,IDN,Brand D,X-Press Flavour Of Pizza In Noodles Proprietary Food,Pack,4
+372,SGP,Brand E,Rice Noodles Fragrant Chicken Pho Ga Flavour,Pack,4
+373,MYS,Brand F,Vegetarian Penang White Curry,Pack,5
+374,JPN,Brand G,Cup Noodle Seafood,Cup,5
+375,KOR,Brand A,Budae Jjigae,Pack,5
+376,AUS,Brand B,Noodles Crispy Bacon Flavour,Cup,1
+377,TWN,Brand C,Spicy Braised Pork Flavor,Pack,4
+378,HKG,Brand D,Demae Ramen Spicy Seafood Flavour Instant Noodle,Pack,5
+379,TWN,Brand E,Chow Mein Spicy Flavor,Tray,3
+380,SGP,Brand F,Mee Goreng Spicy Flavour,Pack,5
+381,JPN,Brand A,Tabimen Nagasaki Chanpon,Bowl,4
+382,VNM,Brand B,Oh! Ricey Pork Flavour,Pack,4
+383,KOR,Brand C,Bul Jjamppong,Pack,4
+384,THA,Brand D,Disney Cuties Instant Noodle Roast Pork Flavour,Cup,3
+385,PAK,Brand E,Instant Noodles Masala,Pack,4
+386,HKG,Brand F,Demae Ramen Spicy Hot tonkotsu Flavour Instant Noodle,Pack,5
+387,USA,Brand G,Ramen JPNese Style Quick-Cooking Alimentary Paste With Chicken Artificially Flavored Soup Base,Pack,0
+388,HKG,Brand A,Big Cup Noodles Tonkotsu Flavour,Cup,3
+389,JPN,Brand B,Deka Buto Kuro M-yu Tonkotsu,Bowl,5
+390,USA,Brand C,Bowl Taste Of Asia Hearty Pork Flavor Tonkotsu Ramen,Bowl,4
+391,BRA,Brand D,Cup Noodles Sabor Galinha Caipira,Cup,4
+392,USA,Brand E,Bowl Noodle Soup Independence Day Limited Edition Spicy Chicken Flavor,Bowl,4
+393,HKG,Brand F,Nupasta Vongole Flavour Instant Noodle,Cup,4
+394,UK,Brand G,Penang Chicken Curry Laksa,Cup,2
+395,UK,Brand A,Shaolin Monk Vegetables,Cup,5
+396,UK,Brand B,Tai Chi Chicken,Cup,3
+397,UK,Brand C,Dragon Fire Mushroom,Cup,3
+398,UK,Brand D,HKG Street Beef,Cup,5
+399,UK,Brand E,Warrior Fighting Shrimp,Cup,3.3
+400,JPN,Brand F,Gyorai Inaniwa Chuka Soba,Bowl,5
+401,HKG,Brand A,Chicken Flavour Instant Noodle,Pack,4
+402,PAK,Brand B,Chicken Flavored Instant Noodles,Pack,3
+403,MYS,Brand C,Penang White Curry Instant Noodle,Pack,5
+404,TWN,Brand D,XO Scallops Sauce Dry Noodles,Pack,4
+405,JPN,Brand E,Barikata Noukou Tonkotsu Shoyu,Bowl,4.8
+406,HKG,Brand F,Demae Ramen Sesame Oil Flavour Cup,Cup,4
+407,AUS,Brand G,Instant Noodles Chicken Flavour,Cup,2.5
+408,KOR,Brand A,Non-Fried Ramyun Noodle (Crab Flavor),Pack,5
+409,CHN,Brand B,Assorted Seafood Noodles,Pack,4
+410,JPN,Brand C,Raoh Hot & Sour Ramen,Pack,5
+411,THA,Brand D,Coriander Instant Rice Noodles,Bowl,2.8
+412,THA,Brand E,Instant Rice Noodles Moo Nam Tok Flavour,Pack,3.5
+413,THA,Brand F,Instant Rice Vermicelli Clear Soup,Pack,3.5
+414,THA,Brand G,Instant Rice Noodles Chicken Flavour,Pack,4
+415,THA,Brand A,Pho Ga Rice Noodles With Artificial Chicken Flavour,Bowl,3
+416,THA,Brand B,Oriental Kitchen Instant Rice Vermicelli In Gravy,Pack,5
+417,THA,Brand C,Instant Tom Yam Rice Noodles,Pack,4
+418,THA,Brand D,Instant Rice Noodles Vegetable Flavour,Pack,4
+419,THA,Brand E,Instant Rice Vermicelli Yentafo Tom Yam Mohfai,Pack,5
+420,THA,Brand F,Instant Flat Noodles Clear Soup,Pack,4
+421,THA,Brand A,Cup Rice Noodles Tom Saab Flavour,Cup,5
+422,THA,Brand B,Instant Rice Noodles Stew Beef Flavour,Pack,4
+423,THA,Brand C,Instant Rice Noodles Phnom Penh Style,Pack,4
+424,THA,Brand D,Instant Flat Noodles Tom Yam Flavour,Pack,4
+425,USA,Brand E,Ramen Noodle soup Mushroom Flavor,Pack,4
+426,SGP,Brand F,Vegetable Flavour Instant Noodles,Pack,4
+427,TWN,Brand G,Rice Noodle Shallot With Braised Pork Flavor,Pack,5
+428,CAN,Brand A,Vegetable Flavour Noodles With Vegetables,Cup,3
+429,CHN,Brand B,Instant Noodle Artificial Beef Flavor 7 sour Pickled Cabbage,Pack,4
+430,AUS,Brand C,Noodles With Hot & Spicy Flavour,Cup,3
+431,TWN,Brand D,Rice Noodle Chinese Mushroom With Soybean Vegetarian Braised Pork Flavor,Pack,5
+432,JPN,Brand E,Piritto Karakuchi Tantan Udon,Bowl,4
+433,TWN,Brand F,Rice Noodle Seafood Laksa Flavour,Pack,5
+434,KOR,Brand G,Chal Bibim Myun,Pack,5
+435,JPN,Brand A,JPNese Yakisoba Umami Sauce,Bowl,5
+436,MEX,Brand B,Sazon Casero Sopa Con Tomate Y Sabor Pollo,Pack,3
+437,TWN,Brand C,Chow Mein Original Flavor,Tray,5
+438,CHN,Brand D,Artificial Mushroom Chicken Flavor Instant Noodle,Pack,4
+439,TWN,Brand E,Chow Mein Oyster Sauce BBQ Flavor,Tray,2
+440,TWN,Brand F,Aloe Vera Guan Mian Purple Sweet Potato Noodle With Spicy Miso Sauce,Pack,4
+441,TWN,Brand A,Black Eyes Bean Original Noodle With Sesame Sauce,Pack,4
+442,TWN,Brand B,Aloe Vera Guan Mian Pumpkin Noodle With Basil Sauce,Pack,4
+443,TWN,Brand C,Black Eyes Bean Cyanobacteria Noodle With Ginger Oil Sauce,Pack,5
+444,TWN,Brand D,Aloe Vera Guan Mian Original Noodle With Sesame Sauce,Pack,5
+445,TWN,Brand E,Black Eyes Bean Purple Sweet Potato Noodle With Spicy Miso Sauce,Pack,3
+446,TWN,Brand F,Aloe Vera Guan Mian Cyanobacteria Noodle With Ginger Oil Sauce,Pack,5
+447,TWN,Brand G,Black Eyes Bean Pumpkin Noodles With Basil Sauce,Pack,5
+448,USA,Brand A,Instant Lunch Pork Flavor Ramen Noodles With Vegetables,Cup,3
+449,JPN,Brand B,Kun Ramen Sumo-kuchikin (Smoked Chicken),Bowl,3
+450,USA,Brand C,Tonkotsu,Cup,3
+451,BRA,Brand D,Lamen Sabor Picanha,Pack,4
+452,VNM,Brand E,Lemon Chicken Flavour Instant Noodles,Pack,3
+453,USA,Brand F,Bowl Taste Of Asia Miso Chicken Flavor Spicy Miso Ramen,Bowl,4
+454,JPN,Brand G,Men Shokunin Kaoruyasai Shio,Bowl,5
+455,KOR,Brand A,Rice Noodle Seafood Flavour,Bowl,5
+456,HKG,Brand B,Superior Soup Instant Noodles (Mfg in THA),Pack,4
+457,HKG,Brand C,Superior Soup Instant Noodles (Mfg in VNM),Pack,4
+458,HKG,Brand D,Demae Ramen Spicy Curry Flavour Instant Noodles,Pack,4
+459,HKG,Brand E,Demae Ramen Roast Beef Flavour Instant Noodles,Pack,4
+460,HKG,Brand F,Instant Noodle Supreme Abalone And Chicken Flavour,Pack,2
+461,HKG,Brand A,Chicken Flavour Instant Noodle,Pack,4
+462,JPN,Brand B,Kimchi Chikin Ramen Donburi,Bowl,5
+463,USA,Brand C,Instant Lunch Chipotle Chicken Flavor Ramen Noodle Soup,Cup,5
+464,SGP,Brand D,Mee Goreng Thai Tom Yum Flavour,Pack,4
+465,HKG,Brand E,Artificial Salted Beef With Mushrooms Flavour,Pack,4
+466,MYS,Brand F,Hot & Spicy Dry Curry With Chives Soup,Pack,5
+467,JPN,Brand G,Taimeiken Yousyoku Yasangatsukutta Omumen,Cup,4
+468,AUS,Brand A,Noodles With Chicken & Sweet Corn Flavour,Cup,2.3
+469,JPN,Brand B,Mennippon Oumi Chanpon,Bowl,5
+470,SGP,Brand C,Curry Flavour Instant Noodles,Pack,4
+471,THA,Brand D,Nissin Instant Noodles Tom Yum Seafood Creamy Flavour King Cup,Bowl,3.5
+472,THA,Brand E,Cup Noodles Tom Yum Shrimp Sabb Flavour,Cup,5
+473,THA,Brand F,Chilli Noodles Stir Fried Holy Basil Flavour,Pack,5
+474,THA,Brand G,Instant Noodles Moo Manao Flavour,Pack,4
+475,THA,Brand A,Super Tom Yum Shrimp,Cup,3.5
+476,THA,Brand B,Cup Noodles Minced Pork Flavour,Cup,3.5
+477,THA,Brand C,Chilli Noodles Tom Yum Shrimp Creamy Soup Flavour,Cup,3.3
+478,THA,Brand D,Nissin Instant Noodles Shrimp Ma Nao Lui Suan Flavour King Cup,Bowl,4
+479,THA,Brand E,Instant Noodles Tom Yum Shrimp Saab Flavour,Pack,4
+480,THA,Brand F,Cup Noodles Moo Manao Flavour,Cup,4
+481,THA,Brand A,Instant Noodles Minced Pork Flavour,Pack,3.5
+482,THA,Brand B,Cup Noodles Seafood Creamy Flavour,Cup,4
+483,THA,Brand C,Chilli Noodles Spicy Tom Yum Flavour,Pack,4
+484,HKG,Brand D,Cup Noodles Chilli Crab Flavour,Cup,3.8
+485,CAN,Brand E,Vegetarian Flavour Ramen Noodles,Pack,3
+486,TWN,Brand F,Tuna With Shallot Flavor Noodle,Pack,4.3
+487,TWN,Brand G,GGE Noodle Snack Wheat Crackers Original Ramen,Pack,1
+488,BRA,Brand A,Lamen Sabor Frango Assado Com Toque De Limao,Pack,4.5
+489,JPN,Brand B,Onion Flavor Shoyu Ramen,Pack,3.5
+490,USA,Brand C,Ramen Noodle Soup Chicken Tortilla Flavor,Pack,3
+491,KOR,Brand D,Rice Noodle Kimchi Flavor,Bowl,4
+492,USA,Brand E,Ramen JPNese Style Quick-Cooking Alimentary Paste With Beef Artificially Flavored Soup Base,Pack,0
+493,JPN,Brand F,Cup Noodles SGP Laksa,Cup,5
+494,KOR,Brand G,Pojangmacha Udon,Pack,4
+495,SGP,Brand A,Mee Goreng Original Flavour,Pack,4
+496,JPN,Brand B,Yakibuta Ramen,Bowl,4
+497,USA,Brand C,Kimchi Flavor Noodle Soup,Cup,5
+498,MYS,Brand D,Otentiq Cheezy Mushroom Instant Noodles (Improved Taste),Pack,5
+499,JPN,Brand E,Seimen Noukou Toro Tonkotsu,Bowl,4
+500,SGP,Brand F,Straits Kitchen Laksa,Pack,5
+501,KOR,Brand A,Champong Noodle Soup Spicy Seafood Flavor,Pack,5
+502,TWN,Brand B,Seaweed Flavour Noodle,Pack,2
+503,HKG,Brand C,Instant Noodle Preserved Vegetable Flavour,Pack,4
+504,MYS,Brand D,Penang Hokkien Prawn Noodle Authentic Taste,Cup,5
+505,HKG,Brand E,Nupasta Salmon In White Sauce Flavour Instant Noodle,Pack,5
+506,HKG,Brand F,Big Cup Noodles Seafood Curry Flavour,Cup,5
+507,HKG,Brand G,Demae Iccho Beef Flavour Instant Noodle,Bowl,4
+508,HKG,Brand A,Mie Goreng IDN Stir Noodle Original Flavour,Pack,4
+509,HKG,Brand B,Demae Ramen Sesame Flavour Instant Noodles,Pack,5
+510,HKG,Brand C,Superior Soup Instant Rice Vermicelli,Bowl,5
+511,HKG,Brand D,Demae Ramen Straight Noodle Kyushu Tonkotsu Instant Noodle,Pack,5
+512,HKG,Brand E,Taisho Fried Noodle Sesame Paste Flavour Instant Noodle,Pack,5
+513,HKG,Brand F,Cup Noodles Pork Chowder Flavour,Cup,4
+514,HKG,Brand G,Cup Mifun Spicy Beef Flavour,Cup,4
+515,HKG,Brand A,Non-Fried Superior Soup Noodle,Pack,4
+516,HKG,Brand B,Nupasta Carbonara Flavour Instant Noodle,Cup,5
+517,HKG,Brand C,Demae Iccho Curry Beef Flavour,Cup,4
+518,HKG,Brand D,Cup Noodles Big Spicy Seafood Flavour,Cup,5
+519,HKG,Brand E,Demae Iccho Black Garlic Oil Tonkotsu,Bowl,3.8
+520,IDN,Brand F,Mi Segera Mi Goreng Ayam Krispi,Pack,4.5
+521,MEX,Brand A,Cup Noodles Sabor Pollo Habanero Y Limon Sopa Instantanea,Cup,3.5
+522,CAN,Brand B,Spicy Ramen Noodles,Pack,4
+523,USA,Brand C,Bowl Taste Of Asia Beef Flavor Sukiyaki Ramen,Bowl,5
+524,TWN,Brand D,Tainan Noodle Original Sauce,Pack,5
+525,JPN,Brand E,Negi Ramen,Bowl,1.8
+526,HKG,Brand F,Instant Noodle Vegetarian Flavour,Pack,3.8
+527,AUS,Brand G,Fusian Special Edition Ow... Ow... Spicy Cow Mi Goreng,Pack,5
+528,KOR,Brand A,Fresh Jjajang,Pack,4.5
+529,JPN,Brand B,Hakata Tonkotsu Ramen,Pack,5
+530,HKG,Brand C,Kung Tak Lam Vegetarian Noodle (Mushroom),Pack,3
+531,USA,Brand D,Arrabiata Rice Bucatini,Pack,5
+532,HKG,Brand E,Pepper Noodles Vegetarian,Pack,3.3
+533,MEX,Brand F,Ramyon Sabor Mariscos,Pack,3.8
+534,HKG,Brand G,Dried Mix Noodles Scallop Seafood Flavoured,Tray,4.3
+535,JPN,Brand A,Cup Noodle Light+ Cheese Fondue,Cup,5
+536,HKG,Brand B,Beef And Radish Flavour Instant Noodle,Pack,2.5
+537,THA,Brand C,Instant Noodle Shrimp Tom Yam Flavoured,Pack,3.8
+538,MEX,Brand D,RapiFideo Sabor A Chile Y Limon,Cup,3.8
+539,USA,Brand E,Garlic Pepper Reduced Sodium Ramen,Pack,0
+540,JPN,Brand F,Tokyo Tokunou Gyokai Tonkotsu,Bowl,5
+541,AUS,Brand A,Noodles Curried Prawn Flavour,Cup,3.3
+542,USA,Brand B,Instant Lunch Sriracha Chicken Flavor Ramen Noodle Soup,Cup,3.8
+543,IDN,Brand C,Pop Mie Mi Instan Cup Rasa Ayam,Cup,3.5
+544,CHN,Brand D,Artificial Pork Ribs Flavour Instant Noodle,Pack,3.5
+545,MYS,Brand E,Penang Red Tom Yum Goong Noodle Authentic Taste,Cup,5
+546,MEX,Brand F,Ramyon Sabor A Res,Pack,4
+547,JPN,Brand G,Kadomen Koikoku Tonkotsu,Bowl,3.8
+548,TWN,Brand A,XO Sauce Noodle,Pack,5
+549,MYS,Brand B,Perisa Asam Pedas Mi Segera,Pack,4
+550,CAN,Brand C,Chicken Style Ramen Noodles,Pack,3.5
+551,HKG,Brand D,Hello Kitty Dim Sum Noodle JPNese Soy Sauce Flavour,Cup,3
+552,MYS,Brand E,MYS Green Curry Noodle,Bowl,5
+553,AUS,Brand F,Noodles Mi Goreng,Cup,4.3
+554,CHN,Brand G,Tomato Sauce Instant Noodle,Pack,4.5
+555,BRA,Brand A,Cup Noodles Sabor Franhp Com Requeijao,Cup,5
+556,JPN,Brand B,Yakibuta Ramen,Bowl,5
+557,MYS,Brand C,Vegetarian Herbal Noodle,Pack,1.5
+558,KOR,Brand D,Hovenia Ramen Vegetable Flavor,Pack,3.5
+559,TWN,Brand E,Hakka BBQ Sauce Noodle,Pack,4.3
+560,JPN,Brand F,Maru Uma Curry Udon,Cup,3.5
+561,AUS,Brand A,Noodles Oriental Flavour,Cup,3.3
+562,IDN,Brand B,Instant Noodles Artificial Chicken & Shrimp Flavored,Pack,2.5
+563,HKG,Brand C,Noodle King Artificial Beef Soup Flavored,Bowl,3.8
+564,MYS,Brand D,Otentiq Cheezy Curry Instant Noodles (Improved Taste),Pack,5
+565,JPN,Brand E,Charumera Atyificial Tonkotsu Shouyu Flavor,Pack,3.8
+566,AUS,Brand F,Instant Noodles Beef Flavour,Cup,2
+567,MEX,Brand G,"Sopa Maruchan Sabor a Camaron, Limon y Habanero",Pack,3.5
+568,JPN,Brand A,Shinshu Miso Ramen,Bowl,5
+569,MYS,Brand B,Penang White Curry Authentic Taste Cup,Cup,4.8
+570,UK,Brand C,Authentic Street Food Chow Mein,Cup,2
+571,UK,Brand D,Authentic Street Food Pad Thai,Cup,2.5
+572,UK,Brand E,Authentic Street Food Black Bean,Cup,0
+573,UK,Brand F,Authentic Street Food Thai Red Curry,Cup,3
+574,UK,Brand G,Authentic Street Food Satay,Cup,5
+575,CHN,Brand A,Artificial Roasted Beef,Pack,3.5
+576,JPN,Brand B,Seabura Tonkotsu Ramen,Cup,3.8
+577,KOR,Brand C,Noodle With Spicy Oyster Soup,Pack,4
+578,KOR,Brand D,Honey & Cheese Big Bowl,Bowl,0
+579,CAN,Brand E,Chicken Style Noodles With Vegetables,Cup,3.5
+580,MYS,Brand F,Perisa Kari Mi Segera (Improved Taste),Pack,5
+581,TWN,Brand A,Ghost Pepper Noodle,Pack,4.5
+582,CAN,Brand B,Beef Style Ramen Noodles,Pack,3.5
+583,THA,Brand C,Vegetarian Instant Noodles Shiitake Flavour,Pack,2
+584,AUS,Brand D,2 Minute Laksa Flavour Noodles,Pack,2
+585,MMR,Brand E,Rangers Snack Noodles Popcorn Flavour,Pack,3.8
+586,NLD,Brand F,Oriental Noodles Soto Ajam,Cup,3
+587,CHN,Brand G,Hot spicy Flavor Instant Vermicelli,Bowl,3.5
+588,USA,Brand A,Rice Fettucini Alfredo,Pack,3.8
+589,HKG,Brand B,Wonton Noodles Beef Flavour,Bowl,3.8
+590,TWN,Brand C,Hakka Spicy Barbeque Sauce,Pack,4.5
+591,JPN,Brand D,Donbei Dashi Shoyu Yakiudon,Bowl,3.8
+592,JPN,Brand E,Raoh Rich Miso Flavor,Bowl,5
+593,JPN,Brand F,Cup Noodles Tom Yum Goong,Cup,3.8
+594,JPN,Brand G,Cup Noodle Big Seafood Clam Chowder,Cup,4
+595,JPN,Brand A,Chikin Ramen Donburi,Bowl,5
+596,JPN,Brand B,Curry Udon,Cup,5
+597,JPN,Brand C,Men Shokunin Shoyu,Bowl,5
+598,JPN,Brand D,Cup Noodle Vegeta Buta-kyabetsu Tonkotsu,Cup,4.3
+599,JPN,Brand E,Cup Noodle Pasta Style Tarako Spaghetti,Cup,4
+600,JPN,Brand F,Cup Noodle Big Cheese Mexican Chilli,Cup,5
+601,JPN,Brand A,Gyoretsu-no-Dekiru-Mise-no-Ramen (Shrimp Tantanmen),Bowl,5
+602,JPN,Brand B,Raoh Tonkotsu,Pack,5
+603,JPN,Brand C,Cup Noodle Light Plus Ratatouille,Cup,4.5
+604,JPN,Brand D,Cup Noodle Milk Chikin Ramen,Cup,5
+605,JPN,Brand E,Cup Noodle,Cup,5
+606,MYS,Brand F,Penang White curry Noodle Authentic Taste,Pack,5
+607,MMR,Brand G,Instant Noodles Chicken Soup Flavour,Pack,3.5
+608,JPN,Brand A,Yokohama Walker Iekei Ramen,Bowl,4.5
+609,TWN,Brand B,Quinoa Noodle With Oyster Sauce And Vegetables,Pack,4.3
+610,SGP,Brand C,SGP Prawn Soup La Mian,Pack,5
+611,HKG,Brand D,Chinese Tan Tan Vermicelli,Cup,5
+612,JPN,Brand E,Tokushima Ramen,Pack,4
+613,CHN,Brand F,Assorted Pork Bone Noodle,Pack,4
+614,MYS,Brand G,Penang Red tom Yum Goong Noodle Authentic Taste,Pack,5
+615,AUS,Brand A,Noodles Witrh Prawn & Chicken Flavour,Cup,3.5
+616,JPN,Brand B,BIG Cup Noodle Ajillo,Cup,3
+617,MYS,Brand C,Nyonya Curry Laksa (Improved Taste),Pack,5
+618,MYS,Brand D,MYS Penang Green Curry Vermicelli (New Package),Pack,5
+619,JPN,Brand E,Kumamoto Spicy Ramen,Pack,4.3
+620,DEU,Brand F,Soba Fried Noodles Classic,Pack,3.3
+621,KOR,Brand A,Cheese Curry Ramyun,Pack,5
+622,BRA,Brand B,Cup Noodles Sabor Calabresa,Pack,4.3
+623,HKG,Brand C,Spicy Flavour Instant Mifun,Pack,2.8
+624,JPN,Brand D,Horse Crab Flavour Ramen,Pack,3.5
+625,MYS,Brand E,MYS Penang Red Curry Noodle,Pack,5
+626,USA,Brand F,Noodle Soup Seasoned With Real Kimchi,Pack,4.8
+627,USA,Brand G,Top Ramen Chicken Flavor Ramen Noodle Soup (New Packaging),Pack,3.5
+628,JPN,Brand A,Kinchan Ramen,Pack,4.5
+629,TWN,Brand B,GGE Noodle Snack Wheat Crackers Soy Sauce Ramen,Pack,3.8
+630,MYS,Brand C,Penang Spicy Prawn Soup Noodle Authentic Taste,Pack,5
+631,MMR,Brand D,Instant Noodles Coconut Milk Flavour,Pack,5
+632,UK,Brand E,Rice Noodles Vegetable Laksa,Cup,3.8
+633,UK,Brand F,Rice Noodles Chicken Pho,Cup,3.5
+634,UK,Brand G,Chicken Ramen,Cup,4.3
+635,UK,Brand A,Chilli Chicken Ramen,Cup,4
+636,JPN,Brand B,Charumera Shoyu Ramen,Pack,4
+637,USA,Brand C,Mi Goreng Bento Noodles In A Box Curry Masala Flavour,Tray,4
+638,THA,Brand D,Cup Vegetarian Instant Noodles Tom Yum Flavour,Cup,4
+639,JPN,Brand E,Spicy Tomato Salsa Ramen,Cup,0
+640,USA,Brand F,Raoh Ramen Noodle Soup Umami Soy Sauce Flavor,Pack,4.8
+641,NLD,Brand A,Island Of Flavours Spicy Thai Chicken Instant Noodles Soup,Pack,2
+642,SGP,Brand B,SGP Fish Soup La Mian,Pack,5
+643,TWN,Brand C,Kung-Fu Brand Instant Oriental Noodle Soup Artificial Beef Flavor,Pack,3.8
+644,USA,Brand D,Cup Noodles Ramen Noodle Soup Hearty Chicken Flavor [New Package],Cup,4.3
+645,JPN,Brand E,Red King Crab Flavour Ramen,Pack,4
+646,THA,Brand F,Oriental Style Instant Noodles Shrimp Flavour (Tom Yum),Pack,3.5
+647,CHN,Brand G,Artificial Pickled Cabbage Fish Flavor Instant Vermicelli,Pack,1.5
+648,SGP,Brand A,SGP Laksa Wholegrain La Mian,Pack,5
+649,JPN,Brand B,Raoh Shio Ramen,Pack,4.8
+650,BGD,Brand C,Oriental Style Instant Noodles Masala Flavour,Pack,3.5
+651,TWN,Brand D,GGE Noodle Snack Wheat Crackers Hot Spicy,Pack,5
+652,JPN,Brand E,Sugomen Niigata Seabura Shoyu Ramen,Bowl,5
+653,MYS,Brand F,Always Mi Goreng Perisa Sambal Udang,Pack,3.5
+654,NLD,Brand G,Good Noodles Tandoori,Pack,2.5
+655,JPN,Brand A,Cup Noodle Pasta Style Bolognese,Cup,5
+656,MMR,Brand B,Instant Noodles Shrimp Creamy Tom Yum Flavour,Pack,5
+657,JPN,Brand C,Donbei Kamodashi Soba,Bowl,5
+658,MMR,Brand D,Chicken Soup Flavour Cup Noodles,Cup,3.8
+659,USA,Brand E,Rice Noodle Coconut Curry,Pack,1
+660,TWN,Brand F,Guanmiao Dried Noodles With Oleum Sesami,Pack,3.8
+661,TWN,Brand A,Guanmiao Dried Noodles With Spicy Sauce,Pack,5
+662,TWN,Brand B,Guanmiao Dried Noodles With Authentic Sauce,Pack,4.5
+663,TWN,Brand C,Guanmiao Dried Noodles With Shallot Flavor,Pack,3.8
+664,HUN,Brand D,Instant Noodles chicken Flavour,Pack,3.8
+665,NLD,Brand E,Island Of Flavours Lemongrass Instant Noodles Soup,Pack,0.3
+666,KHM,Brand F,Instant Noodles Minced Pork Flavour,Pack,3.5
+667,THA,Brand G,Instant Noodles Oriental Style Chicken Flavour,Pack,3
+668,JPN,Brand A,Kogashi Megiiri Tonkotsu Kagoshima Ramen,Bowl,3.5
+669,USA,Brand B,Bowl Noodles Hot & Spicy Chicken Flavor Less Sodium Ramen Noodle Soup,Bowl,4
+670,SGP,Brand C,Juzz's Mee Creamy Chicken Flavour,Pack,5
+671,CHN,Brand D,Broad Noodle Artificial Beef Flavor,Pack,3.5
+672,NLD,Brand E,Oriental Noodles Teriyaki,Cup,0.5
+673,IDN,Brand F,Instant Cup Mi Kuah Rasa Baso Spesial,Cup,1.5
+674,USA,Brand G,Cup Noodles Ramen Noodle Soup Chicken Flavor [New Package],Cup,3.5
+675,JPN,Brand A,Ramen Tonkotudou Kumamoto Noodles,Pack,0.8
+676,JPN,Brand B,Shiroi Chikara Mochi Udon,Bowl,4.5
+677,NLD,Brand C,Instant Noodles chicken Flavour,Pack,3.5
+678,USA,Brand D,Mi Goreng Bento Noodles In A Box Hot Sweet & Sour Flavor,Tray,0.3
+679,DEU,Brand E,Soba Fried Noodles Teriyaki,Pack,3
+680,JPN,Brand F,Yuzu Sesame Sauce Udon,Bowl,4.5
+681,SGP,Brand A,Juzz's Mee Curry Flavour,Pack,5
+682,USA,Brand B,Mushroom Rice Noodle Soup Bowl,Bowl,0
+683,MMR,Brand C,Instant Noodles Chicken Sichek Flavour,Pack,3.8
+684,JPN,Brand D,Emergency Chikin Ramen Cup Noodle,Cup,5
+685,USA,Brand E,Chow Mein Pad Thai,Tray,3
+686,HUN,Brand F,Instant Noodles With Chicken Flavouring,Pack,3.5
+687,JPN,Brand G,Kuroma-yu Tonkotsu Kumamoto Ramen,Bowl,4.8
+688,SGP,Brand A,SGP Curry Wholegrain La Mian,Pack,5
+689,VNM,Brand B,Chicken Flavour Asian Style Instant Noodles,Pack,3.5
+690,FIN,Brand C,Nuudeli Kana Nudlar Kyckling,Pack,3.5
+691,HUN,Brand D,Instant Noodles Duck Flavour,Pack,3
+692,JPN,Brand E,Tonkotsu Ramen,Pack,4.5
+693,MMR,Brand F,Seafood Tom Yum Sichek Flavour,Pack,5
+694,SGP,Brand G,Juzz's Mee Original Spicy Flavour,Pack,5
+695,MYS,Brand A,Always Mi Goreng Perisa Kari Kapitan,Pack,5
+696,NLD,Brand B,Island Of Flavours Thai Royal Shrimp Instant Noodles,Pack,1.5
+697,CHN,Brand C,Spicy Fish Noodle,Bowl,3
+698,JPN,Brand D,Cup Noodle Massaman Curry,Cup,3.5
+699,HUN,Brand E,Instant Noodles Duck Flavour,Pack,3.5
+700,JPN,Brand F,Seimen Houjyun Koku Shoyu,Bowl,5
+701,MMR,Brand A,Rangers Snack Noodles BBQ Flavour,Pack,2.8
+702,JPN,Brand B,Cup Noodle Sio,Cup,5
+703,KOR,Brand C,Cheese Ramen,Pack,4
+704,USA,Brand D,Cup Noodles Homestyle Chicken,Cup,3.5
+705,JPN,Brand E,Beef Tongue Shio Mayo Ramen,Pack,4.5
+706,MMR,Brand F,Rangers Snack Noodles Sour Cream Flavour,Pack,2.8
+707,SGP,Brand G,Cup Noodles Kyushu White Flavour,Cup,3.5
+708,SGP,Brand A,Mee Poh Dry,Pack,4.3
+709,SGP,Brand B,Chicken Abalone Flavour,Bowl,3.8
+710,SGP,Brand C,Ramen Char Mee 100,Pack,3
+711,SGP,Brand D,La Ramen Spicy Mushroom Flavour Big Bowl,Bowl,4.5
+712,SGP,Brand E,Mee Goreng,Pack,4
+713,SGP,Brand F,La Ramen Spicy Lobster Hot Pot Flavour Big Bowl,Bowl,4.8
+714,SGP,Brand G,Chicken Abalone Flavour,Pack,3.5
+715,SGP,Brand A,Thai Tom Yam Flavour,Bowl,3.8
+716,SGP,Brand B,Chicken Tanmen Flavour,Pack,3.5
+717,SGP,Brand C,Extra Spicy SGP Curry Big Bowl,Bowl,5
+718,SGP,Brand D,La Ramen Spicy Mushroom Flavour,Pack,4.5
+719,SGP,Brand E,Chicken Flavour,Pack,3.8
+720,USA,Brand F,Tonkotsu Ramen Artificially Flavored Tonkotsu White Chicken Broth,Pack,5
+721,MYS,Brand A,Always Mi Goreng Perisa Thai Tom Yam,Pack,2.5
+722,TWN,Brand B,Wei Wei A Instant Noodles Chicken Flavor,Bowl,0
+723,JPN,Brand C,Hakata Ossyoi,Pack,5
+724,THA,Brand D,Cup Noodles Minced Pork Flavour,Cup,3.8
+725,HUN,Brand E,Instant Noodles With Beef Flavouring,Pack,2.8
+726,DEU,Brand F,Soba Fried Noodles Chili,Pack,3.5
+727,JPN,Brand G,Kuroma-yu Tonkotsu Kumamoto Ramen,Bowl,4
+728,THA,Brand A,Premier Bowl Instant Noodles Stewed Pork Flavour,Bowl,4
+729,MYS,Brand B,Penang Spicy Prawn Soup Noodle,Pack,5
+730,MMR,Brand C,Shrimp Tom Yum Flavour Cup Noodles,Cup,3.5
+731,USA,Brand D,Raoh Ramen Noodle Soup Umami Tonkotsu Flavor,Pack,5
+732,CHN,Brand E,Broad Noodle Pickled Vegetable Artificial Beef Flavor,Pack,0
+733,MYS,Brand F,Always Mi Goreng Perisa Asli,Pack,3.8
+734,NLD,Brand G,Oriental Noodles Groene Curry,Cup,0.5
+735,JPN,Brand A,Cupo Noodle Pasta Style Vongole,Cup,2.8
+736,KHM,Brand B,Instant Noodles chicken Green Curry Flavour,Pack,5
+737,JPN,Brand C,Wantan Men,Bowl,5
+738,USA,Brand D,Mi Goreng Bento Noodles In A Box Shallot Teriyaki Flavor,Tray,3.3
+739,IDN,Brand E,Instant Cup Noodles Mi Goreng Fried Noodles,Cup,5
+740,JPN,Brand F,Negi Man Ramen,Pack,3
+741,MMR,Brand A,Chinese Kitchen Chinese Style Instant Noodles,Pack,3.5
+742,HUN,Brand B,Instant Noodles Shrimp Flavour,Pack,3.5
+743,USA,Brand C,Udon JPNese Style Precooked Noodles With Soup Hot & Spicy Flavor,Bowl,3.3
+744,JPN,Brand D,Snow Crab Flavour Shio Ramen,Pack,3.5
+745,USA,Brand E,Raoh Ramen Noodle Soup Umami Miso Flavor,Pack,4.5
+746,MYS,Brand F,Instant Rice Vermicelli Clear Soup Flavour,Pack,3.5
+747,MYS,Brand G,Penang Red tom Yum Goong Noodle (New Version),Pack,5
+748,NLD,Brand A,Oriental Noodles Hot & Spicy,Pack,3
+749,USA,Brand B,Chow Mein Savory Sauce And Restayrant Quality Noodles Roast Chicken Flavor ,Tray,4.5
+750,BGD,Brand C,Oriental Style Instant Noodles Shrimp Flavour,Pack,3.3
+751,JPN,Brand D,Gold Sumire Ramen,Bowl,5
+752,TWN,Brand E,Sunbaked Noodles With Sesame Sauce,Pack,4.5
+753,TWN,Brand F,Purple Sweet Potato Noodles With TWNese Sauce,Pack,5
+754,TWN,Brand G,Sunbaked Noodles With Spicy Sauce,Pack,4
+755,TWN,Brand A,Sweet Potato Noodles With Sesame Paste Sauce,Pack,3.3
+756,MYS,Brand B,Taste Of MYS Penang White Curry Ramen,Pack,5
+757,MYS,Brand C,Taste Of MYS Penang Asam Laksa Fried Instant Noodle,Pack,4.5
+758,MYS,Brand D,Taste Of MYS Penang Hokkien Mee Ramen,Pack,5
+759,MYS,Brand E,Taste Of MYS Penang White Curry Fried Instant Noodle,Pack,5
+760,MYS,Brand F,Taste Of MYS Penang Asam Laksa Ramen,Pack,5
+761,MYS,Brand A,Taste Of MYS Penang Hokkien Mee Fried Instant Noodle,Pack,5
+762,MYS,Brand B,Instant Noodles With Chicken Flavour,Pack,3.8
+763,THA,Brand C,Instant Flat Shaped Noodles Boat Noodles Nam Tok Flavour,Pack,3.5
+764,JPN,Brand D,Plum Mayo Ramen,Pack,4
+765,TWN,Brand E,Sichuan Pepper Flavor,Pack,4.8
+766,TWN,Brand F,Hu Sesame Flavor,Pack,5
+767,TWN,Brand G,Scallion With Sichuan Pepper  Flavor,Pack,5
+768,KOR,Brand A,Zha Wang ((Jjawang) Noodles With Chajang Sauce,Pack,5
+769,KHM,Brand B,Instant Noodles Stewed Beef Flavour,Pack,3.5
+770,CHN,Brand C,Broad Noodle Chilli Oil Flavor,Pack,4.5
+771,USA,Brand D,Soon Veggie Noodle Soup,Cup,5
+772,MYS,Brand E,MeeKuali spicy Fried Noodle,Pack,4
+773,IDN,Brand F,Mi Kuah Rasa Baso Spesial,Pack,3.5
+774,USA,Brand G,Udon JPNese Style Pre-Cooked Noodles With Soup Beef Flavor,Bowl,3.3
+775,TWN,Brand A,Veggie King Buddha Jump Instant Noodles,Bowl,1.5
+776,THA,Brand B,Premier Bowl Instant Noodles Suki Flavour,Bowl,5
+777,JPN,Brand C,Nara Tenri Shoyu Ramen,Bowl,4.5
+778,MYS,Brand D,Penang Vegetarian Prawn Instant Bowl Noodles,Bowl,4
+779,VNM,Brand E,Asian Style Instant Noodles Artificial Beef Flavor,Bowl,3.3
+780,JPN,Brand F,Hingya no Shio Ramen,Pack,4
+781,NLD,Brand A,Island Of Flavours Tom Yum Instant Noodles Soup,Pack,3
+782,DEU,Brand B,Soba Fried Noodles Curry,Pack,4.3
+783,CHN,Brand C,Mushroom Instant Noodle,Bowl,4.3
+784,NLD,Brand D,Oriental Noodles Oosterse Groenten,Pack,3.5
+785,MYS,Brand E,Penang White Curry Noodle (New Version),Pack,5
+786,JPN,Brand F,Nagahama Hakata Tonkotsu Ramen,Bowl,4.8
+787,THA,Brand G,Vegetarian Instant Cup Noodle Tofu & Shiitake Flavour,Cup,3.5
+788,THA,Brand A,Tom Yum Goong Flavour Instant Noodle,Cup,3.5
+789,MYS,Brand B,Mi Segera Mmm... Perisa Goreng Ala IDN,Pack,3.5
+790,BGD,Brand C,Oriental Style Instant Noodles Tandoori Flavour,Pack,4
+791,HUN,Brand D,Oriental Style Instant Noodles Shrimp Creamy Tom Yum Flavour,Pack,4.8
+792,THA,Brand E,Vegetarian Instant Noodles Tom Yum Flavour,Pack,4
+793,USA,Brand F,Cup Noodles Ramen Noodles Ramen Noodle Soup Beef Flavor (New Package) ,Cup,3.5
+794,CHN,Brand G,Spicy Artificial Fei Chang Instant Vermicelli (New Recipe),Pack,3.8
+795,USA,Brand A,Soup All Natural Hot & Sour,Cup,0.3
+796,USA,Brand B,Spring Onion Rice Noodle Soup Bowl,Bowl,2.5
+797,NLD,Brand C,Instant Noodles Vegetable Flavour,Pack,2.8
+798,THA,Brand D,Instant Rice Vermicelli Crab Flavour,Pack,3.5
+799,JPN,Brand E,Salty Taste Chanko Noodle,Pack,4.8
+800,CAN,Brand F,Kimchee Flavour Noodle Soup,Pack,0
+801,MYS,Brand A,Shallot Chicken Instant Noodles,Pack,3
+802,MYS,Brand B,Mi Segera Mmm... Perisa Asam Laksa,Pack,3.5
+803,MYS,Brand C,Soup Spices Noodle Mee Rempahan Sup,Pack,3.5
+804,MYS,Brand D,Tom Yam Instant Noodles,Pack,4.3
+805,MYS,Brand E,Kimchi,Cup,4.5
+806,MYS,Brand F,Mi Segera Mmm... Perisa Ayam Cendawan,Pack,3.5
+807,MYS,Brand G,Curry Flavour Noodles,Cup,3
+808,MYS,Brand A,Kua Teaw Segera,Pack,4
+809,USA,Brand B,Chow Mein Premium Savory Sauce And Restaurant Quality Noodles Sriracha Flavor,Tray,4.3
+810,MYS,Brand C,Instant Noodles Black Pepper Crab Mi Goreng,Cup,3.5
+811,JPN,Brand D,Hakata Tonkotsu Ramen,Pack,5
+812,NLD,Brand E,Instant Noodles Creamy Tom Yum Shrimp Flavour,Pack,4.5
+813,CAN,Brand F,Beef Flavour Instant Noodles,Pack,0
+814,MYS,Brand G,Penang Hokkien Prawn Soup Rice Vermicelli (Bihun),Bowl,5
+815,KOR,Brand A,Non-Fried Noodle Blackbean Sauce Noodle With Squid,Pack,4.5
+816,TWN,Brand B,Instant Non-Fried Noodles Tomato Flavour,Pack,3.3
+817,CHN,Brand C,Spicy King Spicy Chicken,Pack,5
+818,CHN,Brand D,Supereme Bowl Noodles With Stewed Egg Spicy Flavour,Bowl,3.5
+819,CHN,Brand E,Spicy King Bowl Noodle Spicy Chicken,Bowl,5
+820,CHN,Brand F,Spicy King Bowl Noodle Spicy Beef,Bowl,4.3
+821,CHN,Brand A,Spicy King Spicy Pork,Pack,5
+822,CHN,Brand B,Supreme Bowl Noodles With Stewed Egg Sour Beans With Pork Flavour,Bowl,4
+823,CHN,Brand C,Spicy King Spicy Beef,Pack,5
+824,CHN,Brand D,Supreme Bowl Noodles With Stewed Egg Braised Beef Flavour,Bowl,3.5
+825,CHN,Brand E,Spicy King Bowl Noodle Spicy Pork,Bowl,4.5
+826,MYS,Brand F,Chef Lontong Flavour,Pack,5
+827,JPN,Brand G,Negi Miso No Ippin Ramen,Bowl,5
+828,KHM,Brand A,Instant Noodles Shrimp Tom Yum Flavour,Pack,4
+829,KOR,Brand B,Bulnak Boeummyun King Noodle,Bowl,3.5
+830,USA,Brand C,Cup Noodles Ramen Noodles With Shrimp (New Package) ,Cup,3.5
+831,FIN,Brand D,Nuudeli Tom Yum Katkarapu,Pack,3.8
+832,JPN,Brand E,Tuna Flavor Ramen,Pack,4.5
+833,TWN,Brand F,Sesame & Pepper,Pack,4
+834,USA,Brand G,Natural Quality Foods Pad Thai Noodle Bowl,Bowl,1
+835,JPN,Brand A,Homestyle Tonjiru,Bowl,4.5
+836,THA,Brand B,Cup Noodles Moo Manao Flavour,Cup,4
+837,MYS,Brand C,Duck Instant Noodles,Pack,3.5
+838,NLD,Brand D,Instant Noodles Beef Flavour,Pack,3.3
+839,TWN,Brand E,Veggie Noodle Carrot Noodle With Original Sauce,Pack,4.3
+840,BGD,Brand F,Oriental Style Instant Noodles Hot & Spicy Flavour,Pack,4
+841,KOR,Brand A,King Bowl Super Spicy Pan Stirfried Noodle,Bowl,5
+842,USA,Brand B,Garlic Rice Noodle Soup Bowl,Bowl,3.5
+843,JPN,Brand C,Mayo Ramen,Pack,4.8
+844,TWN,Brand D,Spicy & Sour Flavor,Pack,5
+845,IDN,Brand E,Instant Cup Mi Kuah Rasa Soto,Cup,5
+846,THA,Brand F,Jumbo Instant Noodles Tom Yum Kung Creamy Flavour,Pack,5
+847,CAN,Brand G,Chili Chicken Flavour Noodle Soup,Cup,3
+848,MYS,Brand A,Curry Instant Noodles,Pack,3.5
+849,JPN,Brand B,Ramen Shoyu Taste,Bowl,4.3
+850,NLD,Brand C,Good Noodles Kerrie,Pack,3.5
+851,TWN,Brand D,Veggie Noodle Baby Grass Noodle With Toona Sauce,Pack,5
+852,MMR,Brand E,Rangers Snack Noodles Shrimp Tom Yum Flavour,Pack,4.5
+853,MYS,Brand F,Curry Me! Penang White Curry Stir-fry Noodle,Pack,4.5
+854,USA,Brand G,Udon JPNese Style Pre-Cooked Noodles With Soup Chicken Flavor,Bowl,2.5
+855,CHN,Brand A,Braised Beef Noodle,Pack,4.3
+856,JPN,Brand B,Raoh Tanrei Koku Shio Ramen,Bowl,4.5
+857,THA,Brand C,Instant Noodles Shrimp Tom Yum Flavour,Cup,4.3
+858,IDN,Brand D,Instant Cup Mi Goreng,Cup,3.8
+859,MYS,Brand E,Monster Snek Mi Pedas,Pack,5
+860,CHN,Brand F,Tomato Sauce Instant Noodle,Bowl,4
+861,SGP,Brand A,Laksa Singapura,Pack,4.3
+862,DEU,Brand B,Instant Noodles Beef Flavour,Pack,3.8
+863,MYS,Brand C,Seafood Flavour Noodles,Cup,3.3
+864,KHM,Brand D,Instant Noodles Creamy Shrimp Tom Yum Flavour,Pack,5
+865,TWN,Brand E,BBQ Pork Flavor Chow Mein,Pack,4.5
+866,TWN,Brand F,Zan Vegetarian Instant Noodle Series Shiitake Mushroom Flavour,Cup,2.8
+867,JPN,Brand G,Tenobe Somen,Bowl,3.3
+868,TWN,Brand A,Jah Jan Men,Bowl,5
+869,VNM,Brand B,Oh! Ricey Pho Ga,Bowl,3
+870,TWN,Brand C,Veggie Noodle Black Sesame Noodle,Pack,3.3
+871,FIN,Brand D,Nuudeli Liha Nudlar Kott,Pack,3.5
+872,CHN,Brand E,Artificial Beef Instant Noodles With Soup Base,Pack,3.8
+873,MYS,Brand F,Otentiq Cheezy Curry Instant Noodles,Pack,4.5
+874,IDN,Brand G,Mi Goreng Dengan Abon,Pack,4.3
+875,MYS,Brand A,Chef Lontong Flavour,Cup,5
+876,THA,Brand B,Grilled Pork Flavour Instant Noodles,Bowl,2.5
+877,VNM,Brand C,Hao Hao Sate Onion Flavour,Cup,2.5
+878,MYS,Brand D,MYS White Laksa Instant Noodle,Pack,4
+879,MMR,Brand E,Instant Noodles Egg Protein Noodles,Pack,3.5
+880,THA,Brand F,Instant Noodles Minced Pork Flavor,Pack,3.8
+881,CHN,Brand A,Sichuan Hot Spicy Fish,Pack,3.8
+882,MYS,Brand B,Otentiq Cheezy Mushroom Instant Noodles,Pack,5
+883,JPN,Brand C,Organic Miso Ramen,Pack,4.5
+884,MYS,Brand D,Vegetarian Penang Laksa,Pack,4
+885,TWN,Brand E,Instant Non-Fried Noodles Vegetable Curry Flavor,Pack,5
+886,HUN,Brand F,Instant Noodles With Shrimp Flavouring,Pack,4
+887,MYS,Brand G,Sibu Instant Kampua Original,Pack,4
+888,CAN,Brand A,Hot & Spicy Flavour Noodle Soup,Bowl,3.5
+889,MYS,Brand B,Hot Cup Goreng Perencah Cili Fiesta,Cup,4.8
+890,MYS,Brand C,Gold Bihun Kari Heritage Instant Rice Vermicelli,Pack,4.5
+891,CHN,Brand D,Sour & Spicy Flavour,Pack,3.8
+892,THA,Brand E,Super Tom Yum Shrimp,Cup,3.5
+893,JPN,Brand F,Seafood Noodle,Cup,2.8
+894,JPN,Brand G,Organic Shoyu Ramen,Pack,4.3
+895,TWN,Brand A,Hakka Flat Noodle With Za Jiang Sauce,Pack,4
+896,MYS,Brand B,Mi goreng Pedas Chewy & springy,Pack,3.5
+897,USA,Brand C,Instant Lunch Chicken Tortilla Flavor Ramen Noodles With Vegetables,Cup,4
+898,MYS,Brand D,Instant Kampua Dark Soy Sauce,Pack,5
+899,THA,Brand E,Cup Yentafo Tom Yum Mohfai,Cup,5
+900,THA,Brand F,Cup Shrimp Creamy Tom Yum,Cup,5
+901,THA,Brand A,Instant Rice Vermicelli Bihun Goreng Original Flavour,Pack,4.8
+902,MMR,Brand B,Instant Noodles coconut Milk Flavour,Cup,5
+903,BGD,Brand C,Oriental Style Instant Noodles Chicken Flavour,Pack,3.3
+904,THA,Brand D,Instant Cup Noodles Minced Prok Flavor,Cup,3.5
+905,CHN,Brand E,Sour Bamboo Shoot & Beef If Hot Pot Flavor Noodles,Bowl,4
+906,CHN,Brand F,Tomato Beef Brisket Flavor Purple Potato Noodle,Pack,5
+907,CHN,Brand G,Sea Tangle & Sparerins Flavor Noodles,Bowl,3.8
+908,CHN,Brand A,Chef's Grains Millet Noodle,Pack,3.8
+909,CHN,Brand B,Chef's Grains Buckwheat Noodle,Pack,3.5
+910,CHN,Brand C,Chef's Grains Pea Noodle,Pack,4
+911,CHN,Brand D,Sichuan Pepper & Chicken Flavor Noodle,Bowl,4.5
+912,CHN,Brand E,Sour Soup & Minced Meat Flavor Chef's Grain Naked Oat Noodles,Pack,5
+913,CHN,Brand F,Sour Bamboo Shoot & Beef If Hot Pot Flavor Noodles,Pack,4
+914,CHN,Brand G,Sea Tangle & Sparerins Flavor Noodles,Bowl,3.8
+915,MYS,Brand A,Curry Me! Penang White Curry Soup Noodle,Pack,4.5
+916,TWN,Brand B,Veggie World Vegetarian Braised Beef Instant Noodles,Bowl,3.5
+917,USA,Brand C,Shin Black Spicy Po-Au-Feu Flavor (Mew Edition),Pack,5
+918,KOR,Brand D,Raobokki Noodle (Export Version),Pack,5
+919,MYS,Brand E,Emporer Herbs Chicken Noodle,Pack,4.3
+920,CHN,Brand F,Sauerkraut Flavor,Pack,4.5
+921,KOR,Brand A,Dare You! Habanero Ramen (New Edition),Cup,3.5
+922,TWN,Brand B,Black Cock Brand Vegetarian Chicken Noodle,Pack,3.5
+923,CAN,Brand C,Chili Seafood Flavor Noodle Soup,Cup,3.3
+924,MYS,Brand D,Penang Favourite White Curry Rice Vermicelli,Pack,5
+925,IDN,Brand E,Less Fat Noodles Grilled Chicken,Pack,3.8
+926,VNM,Brand F,Mi Ly Instant Noodles Mi Chay Vegetarian Flavor,Cup,1.3
+927,THA,Brand G,Cup Rice Vermicelli With Clear Soup,Cup,3.5
+928,TWN,Brand A,Aloe Thin Noodles With Camelia Oil Vegetable Sauce Flavor,Pack,5
+929,VNM,Brand B,Curry Instant Noodle With Chicken,Cup,3
+930,VNM,Brand C,Koreno Premium Mushroom Flavor,Pack,1.5
+931,MYS,Brand D,Seaweed Instant Noodle,Pack,2
+932,VNM,Brand E,Beef Ramen,Pack,4
+933,THA,Brand F,Chicken Ramen,Pack,5
+934,CHN,Brand G,Shoyu Ramen,Cup,3.8
+935,HKG,Brand A,Miso Ramen,Pack,3
+936,VNM,Brand B,Curry Ramen,Pack,2.8
+937,KOR,Brand C,Tom Yum Ramen,Bowl,5
+938,PAK,Brand D,Chicken Instant Noodle,Pack,2.8
+939,THA,Brand E,Mushroom Instant Noodle,Cup,3.5
+940,CHN,Brand F,Beef and Mushroom Instant Noodle,Pack,3
+941,MYS,Brand A,Kimchi Ramen,Pack,5
+942,MYS,Brand B,Shoyu Ramen,Pack,5
+943,MYS,Brand C,Shoyu Ramen,Pack,5
+944,MYS,Brand D,Shoyu Ramen,Pack,3.8
+945,KOR,Brand E,Sesame Flavor Ramen Korean Style Instant Noodle,Pack,4.3
+946,CHN,Brand F,Seafood Flavour Instant Cooking Noodles,Pack,4.3
+947,TWN,Brand G,Instant Noodles With Onion Flavour,Pack,4.3
+948,CAN,Brand A,Shrimp Flavour Oriental Noodles And Soup Mix,Cup,2.8
+949,VNM,Brand B,Spaghetti Instant Noodles,Tray,4
+950,PHL,Brand C,Supreme Jjamppong Korean Style Spicy Seafood Soup,Bowl,3.8
+951,MYS,Brand D,Vegetarian Penang Laksa Instant Bowl Noodles,Bowl,2
+952,KOR,Brand E,Dare You! Habanero Jjajang Ramen,Cup,3.5
+953,CAN,Brand F,Hearty Noodles Savoury Beef Flavour,Cup,0.3
+954,USA,Brand G,JPNese Ramen Noodle,Bowl,0
+955,TWN,Brand A,TWN Dried Noodles With Onion Oil Sauce,Pack,2
+956,MYS,Brand B,Bihun Creamy Tom Yam Flavour,Cup,3.8
+957,TWN,Brand C,Veggie Noodle Tomato Noodle With Vine Ripened Tomato Sauce,Pack,5
+958,DEU,Brand D,Instant Nudelsuppe Huhn Geschmack,Pack,3
+959,PAK,Brand E,Shoop Instant Noodles Masala Flavour,Pack,3.3
+960,THA,Brand F,Quick Zabb Tom Klong Flavour Instant Noodles,Pack,2.8
+961,KOR,Brand A,Shoyu Noodle,Cup,3.5
+962,VNM,Brand B,Mi Ly Instant Noodles Mi Bo Beef Flavor,Cup,3.5
+963,MYS,Brand C,Mi Segera Mmm... Perisa Kari,Pack,3
+964,JPN,Brand D,Donbei Tempura Soba Mini,Bowl,4
+965,CHN,Brand E,Korean Clay Pot Ramyun,Bowl,2.5
+966,MYS,Brand F,Penang Laksa Instant Bowl Noodles,Bowl,3.5
+967,CAN,Brand G,Kimchee Noodle Soup,Cup,0
+968,TWN,Brand A,Wei Wei A Instant Noodles Hot Beef Flavour,Bowl,2.5
+969,JPN,Brand B,Gonbuto Kistune Udon,Bowl,2.8
+970,THA,Brand C,Instant Rice Noodle Soup Spicy Shrimp Flavour,Bowl,5
+971,CHN,Brand D,Artificial Pork Flavour,Pack,3
+972,MYS,Brand E,Penang White Curry Noodle (New Improved Tatse),Pack,5
+973,USA,Brand F,Quick2 Hot & Spicy Noodle Soup With Habanero & Lime,Pack,4
+974,JPN,Brand G,MenWhite Creamy Tonkotsu,Bowl,3
+975,MYS,Brand A,Gold Penang Asam Laksa Bihun,Pack,3.3
+976,SGP,Brand B,Chu Qian Yi Ding Tom Yum Instant Noodles With Soup Base,Pack,3.8
+977,TWN,Brand C,Aloe This Noodles With Camellia Oil Spicy Bean Sauce Flavor,Pack,2.5
+978,MYS,Brand D,Penang Hokkien Prawn Noodle (New Improved Taste),Pack,5
+979,CHN,Brand E,Instant Noodles Artificial Spicy Beef Flavor (New Package),Pack,3.5
+980,CHN,Brand F,Shanghai Kaiyang Noodle,Pack,4
+981,MYS,Brand A,Penang White Curry Noodle,Pack,5
+982,JPN,Brand B,Kaoru Maitake Tempura Udon,Bowl,3.3
+983,PAK,Brand C,Shoop Instant Noodles Spicy Lemon Flavour,Pack,3.3
+984,PHL,Brand D,Supreme Seafood Flavor Big Cup,Bowl,4
+985,VNM,Brand E,Koreno Premium Ginseng Flavor,Pack,3
+986,JPN,Brand F,Brown Rice Ramen,Pack,0.3
+987,MYS,Brand G,Penang Vegetarian Prawn Instant Noodles,Pack,4.5
+988,JPN,Brand A,Nyumen Desse Shoyu,Bowl,2.8
+989,MYS,Brand B,Perencah Kari Letup Mi Segera,Pack,4
+990,HKG,Brand C,Demae Iccho Mushroom With Vegetables Flavour Macaroni,Pack,3.5
+991,JPN,Brand D,Mushroom Honpo Shiitake Nutritious Noodle,Pack,1
+992,IDN,Brand E,Mi Goreng Ala Jawa Dengan Sambal Cabe Asli,Pack,5
+993,VNM,Brand F,Mikochi Tom Yum Flavor Instant Noodles,Pack,3.5
+994,KOR,Brand G,Jinjja Jinjja (New),Pack,5
+995,TWN,Brand A,Instant Non-Fried Noodles Shallot Pork Flavour,Pack,5
+996,IDN,Brand B,Top Ramen Super Noodles Tomato,Pack,3.5
+997,THA,Brand C,Cup Rice Vermicelli Shrimp Creamy Tom Yum,Cup,4
+998,USA,Brand D,Original Chow Mein Premium Spicy Chicken Flavor,Tray,4
+999,MYS,Brand E,White Curry Noodle More Spicy,Pack,3
+1000,CHN,Brand F,Emporer Instant Noodles Spicy Chicken,Pack,5
+1001,JPN,Brand A,Jan Jan Dashi Shoyu Yakisoba,Cup,2.3
+1002,KOR,Brand B,Tteokgukmyun,Pack,4.3
+1003,TWN,Brand C,Vegan Chilli With Sesame Sauce,Pack,5
+1004,MYS,Brand D,Perisa Sayuran,Pack,3.5
+1005,MYS,Brand E,Perisa Kari Sayuran,Pack,3.8
+1006,MYS,Brand F,Mi Perencah Ayam Jagung,Pack,3.8
+1007,MYS,Brand G,Perisa Bayam,Pack,3.5
+1008,MYS,Brand A,Plain Noodles,Pack,#VALUE!
+1009,MYS,Brand B,Snek Mi Perisa Ayam,Pack,3.8
+1010,MYS,Brand C,Nyonya Curry Laksa,Pack,5
+1011,MYS,Brand D,Mi Perencah Asam Pedas,Pack,3.8
+1012,MYS,Brand E,Snek Mi Perisa BBQ,Pack,4
+1013,MYS,Brand F,Perisa Kari / Curry Flavour,Pack,4
+1014,VNM,Brand G,3 Con Tom Instant Noodles THA Sour Shrimp Flavor,Pack,2.8
+1015,KOR,Brand A,Dare You! Habanero Ramen (New Edition),Pack,3.8
+1016,MYS,Brand B,Penang Authentic White Curry Noodle,Pack,4
+1017,JPN,Brand C,Gonbuto Tempura Udon,Bowl,4
+1018,THA,Brand D,Pork Flavour Whole Wheat Noodle,Pack,3.8
+1019,IDN,Brand E,Authentic IDNn Noodles Vegetable Atta Masala,Pack,3.8
+1020,KOR,Brand F,Jjajangmen Chajang Noodle King Bowl,Bowl,5
+1021,TWN,Brand A,Steam Vegetarian Flavor Noodles,Pack,3.5
+1022,MYS,Brand B,Penang White Curry Instant Bowl Noodles,Bowl,4.8
+1023,CHN,Brand C,Artificial Seafood Flavor Instant Noodle,Pack,3.8
+1024,MYS,Brand D,Choice Instant Noodles Curry Flavour,Pack,3.5
+1025,JPN,Brand E,"Big Cup Ramen Corn, Salt & Butter Flavor",Bowl,5
+1026,MYS,Brand F,Mi Goreng Perencah Kari Ori,Pack,4
+1027,THA,Brand G,Instant Noodles Cup Beef Flavour,Cup,3.5
+1028,JPN,Brand A,Emergency Cup Noodle,Cup,4.3
+1029,IDN,Brand B,Cup Noodles Tomato Enjoy Noodles With Hot Soup,Cup,3.3
+1030,JPN,Brand C,Baby Star Snack Noodle Chicken Flavour,Pack,2.5
+1031,VNM,Brand D,Mì Ly Instant Noodles Mì Thịt Xào Pork Flavor,Cup,3
+1032,USA,Brand E,Shin Ramyun Noodle Soup (New Edition),Pack,4.3
+1033,SGP,Brand F,Purple Wheat Noodles Soy & Vinegar Flavor,Pack,2.8
+1034,MYS,Brand G,White Curry Noodle,Pack,4.5
+1035,THA,Brand A,Instant Rice Noodle Spicy Seafood,Tray,3.8
+1036,CHN,Brand B,Spicy Beef Flavor Instant Noodle,Pack,4
+1037,CAN,Brand C,Beef Flavour Oriental Noodles And Soup Mix,Cup,2
+1038,MYS,Brand D,Penang Laksa ,Pack,3.5
+1039,IDN,Brand E,Hot Garlic Instant Noodles,Pack,3.8
+1040,UK,Brand F,Instant Noodles Taste Sensation Mixed Vegetable Flavour,Pack,3.5
+1041,SWE,Brand A,Asia Fast Noodles Snabbnudlar Räksmak,Pack,3
+1042,MYS,Brand B,Mi Segera Perisa Itik,Pack,3.8
+1043,THA,Brand C,Oriental Style Instant Noodles Pa-Lo Duck Flavour,Pack,3.5
+1044,JPN,Brand D,Men Black Seafood Tonkotsu,Bowl,3.5
+1045,MYS,Brand E,Penang White CurryMee,Pack,5
+1046,CAN,Brand F,Chow Mein JPNese Style Noodles Yakisoba,Pack,5
+1047,JPN,Brand G,Curry Noodle,Cup,3.8
+1048,TWN,Brand A,Volcano Spicy Pork Noodle,Bowl,4.3
+1049,HKG,Brand B,Demae Rice Vermicelli Beef Flavour,Pack,3.5
+1050,MYS,Brand C,Penang Asam Pedas Hot & Sour Noodle,Pack,5
+1051,USA,Brand D,Pad Thai Instant rice Noodles & Sauce,Tray,1.5
+1052,IDN,Brand E,2 Minute Noodles Hungrooo Masala Spicy,Pack,3.8
+1053,SGP,Brand F,Noodles Beef Flavour,Cup,2.5
+1054,TWN,Brand G,Steam Pork Flavour,Pack,3.8
+1055,CHN,Brand A,Instant Noodles Artificial Shallot Beef Flavour,Pack,4.3
+1056,JPN,Brand B,Kimchi Noodle,Bowl,3.5
+1057,HKG,Brand C,Oat Noodle Tomato Soup Flavored,Pack,4.5
+1058,THA,Brand D,Quick Zabb Chili Paste Tom Yum Flavour Instant Noodles,Pack,3.8
+1059,VNM,Brand E,Koreno Premium Shrimp Flavor,Pack,3.3
+1060,HKG,Brand F,Oat Noodle Pork Rib Flavored,Pack,3.5
+1061,MYS,Brand A,Seafood Instant Noodles,Pack,3.8
+1062,VNM,Brand B,Sate Flavor Instant Noodles,Pack,3.8
+1063,PHL,Brand C,Special Instant Noodles Jjamppong Flavor,Pack,4.5
+1064,PHL,Brand D,Special Instant sopas Chicken Flavor,Pack,3.8
+1065,PHL,Brand E,Spicy Beef Mami Instant Noodle Soup,Pack,4
+1066,PHL,Brand F,Special Instant Curly Spaghetti With Yummy Red Sauce,Pack,4
+1067,PHL,Brand G,Supreme Pinoy Chicken Instant Noodles,Cup,3.3
+1068,PHL,Brand A,Special Baked Mac Style Instant Macaroni,Pack,4.5
+1069,PHL,Brand B,La Paz Batchoy Instant Noodle Soup,Pack,3.8
+1070,MYS,Brand C,Instant Kua Teow Tom Yam,Cup,3.8
+1071,SGP,Brand D,Chu Qian Yi Ding Spicy Sesame Flavour Instant Noodles With Soup Base,Pack,3.5
+1072,KOR,Brand E,Jjamppong Seafood Noodle King Bowl,Bowl,5
+1073,VNM,Brand F,Instant Porridge Seafood Flavour,Pack,3.3
+1074,JPN,Brand G,Gotsumori Sauce Yakisoba,Tray,5
+1075,THA,Brand A,Oriental Style Instant Noodles Wasabi Flavour,Pack,3
+1076,IDN,Brand B,Manchurian Instant Noodles,Pack,3.5
+1077,MYS,Brand C,Chef Gold Recipe Bihun Kari Seribu Rasa,Pack,4.5
+1078,SWE,Brand D,Instant Noodles Spicy Chili,Pack,3.5
+1079,JPN,Brand E,Miso Ramen,Pack,3.8
+1080,KOR,Brand F,Neoguri Udon Seafood & Mild,Pack,4
+1081,MYS,Brand A,Royale Penang Seafood Curry,Pack,4.5
+1082,THA,Brand B,Instant Noodles Tom Yum Pork Flavour,Pack,4
+1083,HKG,Brand C,JPNese Fried Ramen Noodles Kyoto Barbecue Sauce Flavour,Pack,1.8
+1084,TWN,Brand D,Tainan Yi Mien With Sesame Oil Sauce,Pack,3.3
+1085,HKG,Brand E,Quick Serve Macaroni Wonton Broth,Pack,3.3
+1086,JPN,Brand F,Donbei Kitsune Udon Mini,Bowl,3.5
+1087,MYS,Brand G,Chef Gold Recipe Mi Kari Seribu Rasa,Pack,5
+1088,SGP,Brand A,Chu Qian Yi Ding Prawn Flavour Instant Noodles With Soup Base,Pack,3.5
+1089,IDN,Brand B,Cup Noodles Mug Noodles Spicy Vegetable,Pack,3.8
+1090,PAK,Brand C,Shoop Instant Noodles BBQ Flavour,Pack,3.3
+1091,CHN,Brand D,Stewed Beef Flavor Cooking Noodle,Pack,4.3
+1092,USA,Brand E,Bowl Noodle Soup Shrimp Habanero Lime Flavor,Bowl,3.3
+1093,CHN,Brand F,Artificial Pork Flavor Noodles,Pack,4
+1094,JPN,Brand G,Ohmori Chukafu Yakisoba,Tray,3.3
+1095,MYS,Brand A,Penang Red Tom Yum Goong Noodle,Pack,5
+1096,VNM,Brand B,Instant Noodles Xi Gon Artificial Stewed Beef Flavor,Pack,3.3
+1097,KOR,Brand C,Sogokimyun Hot Flavor Noodle Soup,Pack,3.5
+1098,USA,Brand D,Easy Fideos Picante Lime Shrimp Flavor Ramen Noodle Soup,Cup,3.5
+1099,CHN,Brand E,Mianba Pork Ribs Flavor Instant Noodles,Pack,4.5
+1100,MYS,Brand F,Instant Noodles Mee Goreng,Cup,3.8
+1101,IDN,Brand A,Pop Mie Chicken Flavour Cup Noodles,Cup,3.5
+1102,JPN,Brand B,Magomi-an Kitsune Udon (Eastern JPN Flavor),Bowl,4.3
+1103,THA,Brand C,Quick Zabb Tom Yum Shrimp Flavour Instant Noodles,Pack,4
+1104,KOR,Brand D,Potato Ramen,Pack,3.8
+1105,DEU,Brand E,Soba Chili Noodles With JPNese Yakisoba Sauce,Cup,3.5
+1106,IDN,Brand F,Multigrainz Noodles Spice Remix,Pack,3.3
+1107,TWN,Brand G,Sichuan Spicy Flavor,Pack,5
+1108,SWE,Brand A,Asia Snabbnudlar Kycklingsmak,Pack,3.3
+1109,TWN,Brand B,Onion Oil & Shrimp Flavor,Pack,5
+1110,USA,Brand C,Spicy Tonkotsu Noodle Soup,Pack,5
+1111,MYS,Brand D,Mee Baa..Gus Mi Goreng Spicier Original Flavour,Pack,3.8
+1112,HKG,Brand E,Hot & Spicy Instant Noodle (Mushroom & Beef Flavour),Pack,4
+1113,JPN,Brand F,I Want To Eat Ramen' Shoyu Flavor,Pack,4
+1114,CHN,Brand G,Mushroom Stew Chicken Ramen,Pack,3.5
+1115,KOR,Brand A,Jjol Bibim Men,Pack,4
+1116,USA,Brand B,Cup Noodles Easy Fideos Tomato Chicken Flavor Ramen Noodle Soup,Cup,3.5
+1117,THA,Brand C,Tom Yam Flavour Instant Noodles,Pack,4
+1118,THA,Brand D,Instant Noodles Moo Nam Tok Flavour,Pack,4
+1119,DEU,Brand E,Instant Nudelsuppe Shrimp Flavour,Pack,3.5
+1120,THA,Brand F,Cup Oriental Style Instant Noodles Chicken Flavour,Cup,3.3
+1121,THA,Brand A,Instant Noodle Shrimp Tom Yum Flavour Jumbo Pack,Pack,4
+1122,THA,Brand B,Instant Cup Noodles Shrimp Tom Yum Flavour (Extreme),Cup,5
+1123,THA,Brand C,Chicken Masala Flavour Instant Fried Noodles,Pack,3.8
+1124,THA,Brand D,Instant Noodles Shrimp Creamy Tom Yum Flavour Jumbo Pack,Pack,5
+1125,THA,Brand E,Instant Cup Noodles Spicy Cheese Flavour,Cup,3.5
+1126,DEU,Brand F,Oriental Style Instant Noodles Beef Flavour,Pack,3.3
+1127,THA,Brand G,Instant Cup Noodles Seafood Pad Kee Mao Flavour,Cup,5
+1128,THA,Brand A,Creamy Tom Yam Instant Noodles,Pack,4.5
+1129,THA,Brand B,Oriental Style Instant Noodles Green Curry Flavour Jumbo Pack,Pack,5
+1130,DEU,Brand C,"Shrimp ""Tom Yum"" Instant Nudelsuppe",Pack,3.5
+1131,MYS,Brand D,Penang White curry Noodle With Nanyang Chilli Paste,Pack,4.8
+1132,USA,Brand E,Instant Lunch California Vegetable Ramen Noodles With Vegetables,Cup,3.5
+1133,TWN,Brand F,Steam Instant Noodles Korean Salt & Rib Soup Flavour,Bowl,2.3
+1134,SGP,Brand G,Cup Noodles Black Pepper Crab Flavour,Cup,4
+1135,SGP,Brand A,Premium Instant Noodles Spicy Beef Flavour,Pack,3.8
+1136,SGP,Brand B,Cup Noodles Tom Yam Veg Flavour,Cup,4
+1137,SGP,Brand C,Premium Instant Noodles Roasted Beef Flavour,Bowl,3.8
+1138,SGP,Brand D,Chu Qian Yi Ding Sesame Oil Flavour,Pack,3.8
+1139,SGP,Brand E,Cup Noodles Chicken Flavour,Cup,3.5
+1140,SGP,Brand F,Premium Instant Noodles XO Sauce Seafood Flavour,Pack,3.8
+1141,SGP,Brand A,Cup Noodles Chilli Crab Flavour,Cup,4
+1142,SGP,Brand B,JPNese Ramen Kyushu Black Instant Noodles With Soup Base,Pack,5
+1143,SGP,Brand C,Premium Instant Noodles Spicy Beef Flavour,Bowl,3.8
+1144,SGP,Brand D,Cup Noodles Tom Yam Seafood Flavour,Cup,4
+1145,SGP,Brand E,JPNese Ramen Tokyo Shoyu Instant Noodles With Soup Base,Pack,5
+1146,SGP,Brand F,Cup Noodles Seafood Curry Flavour,Cup,4
+1147,SGP,Brand G,Premium Instant Noodles Roasted Beef Flavour,Pack,4.3
+1148,SGP,Brand A,Cup Noodles Cream Of Chicken Flavour,Cup,4
+1149,JPN,Brand B,Ippei-Chan Jumbo Night Market Style Yakisoba,Tray,4.5
+1150,MYS,Brand C,Penang Hokkien Prawn Noodle,Pack,5
+1151,USA,Brand D,Instant Lunch Jalapeno Cheddar Flavor Ramen Noodles,Cup,3.5
+1152,USA,Brand E,Harmony Korean Spicy Noodle Dish With Chipotle,Pack,4.3
+1153,SGP,Brand F,2 Minute Noodles Tom Yam Flavour,Pack,3.5
+1154,USA,Brand G,Souper Meal Chili Picante Chicken With Lime Flavor Ramen Noodle Soup,Bowl,3.5
+1155,TWN,Brand A,Dried Noodle With Beef Flavor Sauce,Pack,3
+1156,MYS,Brand B,Mi Segera Mi Goreng Pedas Instant Noodles,Pack,3.5
+1157,JPN,Brand C,Old Style Miso Ramen,Pack,3.5
+1158,HKG,Brand D,Quick Serve Macaroni Abalone & Chicken Flavour,Pack,3
+1159,CHN,Brand E,Rice Noodle Beef With Brown Sauce,Cup,3.5
+1160,SGP,Brand F,2 Minute Noodles Assam Laksa Flavour,Pack,4
+1161,MYS,Brand A,Hot Cup Perisa Kari,Cup,3.5
+1162,SGP,Brand B,2 Minute Noodles Curry Flavour,Pack,3.8
+1163,SGP,Brand C,Senses Laksa Instant Noodles,Pack,5
+1164,SGP,Brand D,Extra Spicy Curry Instant Noodles,Pack,5
+1165,KOR,Brand E,Buldak Bokkummyeon,Bowl,4
+1166,COL,Brand F,Sabor A Gallina Fideos Con Instantanea,Pack,3.5
+1167,JPN,Brand G,Chukazanmai Beijing Style Salt Ramen,Pack,3
+1168,USA,Brand A,Miso Ramen,Bowl,3.8
+1169,KOR,Brand B,Cheese Bokki,Bowl,4
+1170,MYS,Brand C,Instant Penang White Curry Noodles,Pack,4.5
+1171,UK,Brand D,Curry Flavour Instant Noodles,Pack,1.5
+1172,VNM,Brand E,King Chef Seafood With Kimchi Flavour,Pack,3
+1173,USA,Brand F,Pan Asian Kitchen Spicy Szechuan Chicken Flavor Ramen Noodles,Tray,3
+1174,CHN,Brand G,Korean Clay Pot Ramyun Noodle,Cup,2.8
+1175,JPN,Brand A,I Want To Eat Ramen Shio,Pack,3.8
+1176,VNM,Brand B,Ngon-Ngon Tom Yum Minced Pork Noodle,Cup,3.5
+1177,KOR,Brand C,Ppushu Ppushu Grilled Chicken Flavor,Pack,1
+1178,TWN,Brand D,Oat Noodle Abalone Flavored,Pack,1.8
+1179,JPN,Brand E,Chukazanmai Szechuan Style Miso,Pack,2
+1180,HKG,Brand F,Instant Rice Vermicelli Original Flavour,Pack,0.5
+1181,KOR,Brand A,Cheese Ramyun (for US market),Pack,5
+1182,TWN,Brand B,Curry La-Men,Pack,5
+1183,HKG,Brand C,Non-Fried Ramen Noodles TWN Roast Pork Flavour,Pack,4
+1184,TWN,Brand D,Prince Katsu Snack Noodles,Pack,4
+1185,MYS,Brand E,Mi Segera Tom Yam Instant Noodles,Pack,3.3
+1186,CHN,Brand F,Spicy Artificial Beef Flavour Instant Noodles With Soup Base,Pack,3.5
+1187,PHL,Brand G,Chicken Sopas Creamy Macaroni Soup,Cup,3.5
+1188,USA,Brand A,Ramen House Thai Coconut Ramen,Pack,5
+1189,IDN,Brand B,Spaghetti With Mushroom Sauce,Pack,3.8
+1190,IDN,Brand C,Masala Dumdaar Noodles,Pack,3.8
+1191,THA,Brand D,Instant Noodles Seafood Flavour,Cup,4
+1192,UK,Brand E,Everyday Value Chicken & Mushroom Flavour,Cup,0.5
+1193,IDN,Brand F,Spesial Rasa Kari Ayam Pedas,Pack,3.8
+1194,JPN,Brand G,Yomise No Yakisoba Shiodare Flavor With Black Pepper Mayonnaise,Tray,3.8
+1195,KOR,Brand A,Nature Is Delicious Non-Fried Ramyun (Spicy Flavor) (New Version),Pack,3.8
+1196,VNM,Brand B,Oh! Ricey Pho Bo Instant Rice Noodles,Bowl,3.8
+1197,SGP,Brand C,Fried Noodle Specialist Tom Yam Mee Goreng Flavour,Pack,3
+1198,TWN,Brand D,Steam Seafood Flavor Ramen,Pack,4
+1199,JPN,Brand E,Baby Star Snack Noodle Yakisoba Flavor,Pack,4.8
+1200,USA,Brand F,SGP Laksa Curry Soup Bowl,Bowl,4.3
+1201,KOR,Brand A,Mild Kokomen (Prototype),Pack,4.5
+1202,MYS,Brand B,Sajimee Curry Soup Flavour,Pack,4.3
+1203,USA,Brand C,Miso Marvellous Soup,Pack,4
+1204,PAK,Brand D,Shoop Instant Noodles Chicken Flavour,Pack,3.5
+1205,IDN,Brand E,Mi Goreng Rasa Iga Penyet,Pack,4.8
+1206,UK,Brand F,Traveller's Choice Thai Red Curry Flavour Instant Noodles,Pack,1.8
+1207,KOR,Brand G,Barbecue Ramyun (Prototype),Pack,3.8
+1208,JPN,Brand A,Red Pepper 7 Garlic Peperoncino,Pack,4
+1209,JPN,Brand B,Sukiyaki Style Noodle Stew,Pack,4.5
+1210,JPN,Brand C,Yaki-Udon Roast Soy Sauce,Pack,3.8
+1211,JPN,Brand D,Hiyashi Udon Bonito Sauce,Pack,3
+1212,JPN,Brand E,Futomen Yakisoba,Pack,4.8
+1213,JPN,Brand F,Hiyashi Chuka Lemon Sauce,Pack,4.8
+1214,JPN,Brand G,Curry Udon,Pack,5
+1215,JPN,Brand A,Chanpon,Pack,3.8
+1216,JPN,Brand B,Shio Yakisoba,Pack,4
+1217,JPN,Brand C,Yakisoba,Pack,5
+1218,JPN,Brand D,Yaki-Udon Mild Spicy Sauce,Pack,4.3
+1219,JPN,Brand E,Katsuo Dashi Udon,Pack,3.8
+1220,JPN,Brand F,Spaghetti Napolitan,Pack,4
+1221,JPN,Brand A,Spicy Garlic Ramen,Pack,3.3
+1222,UK,Brand B,Everyday Value Beef & Tomato Flavour Noodles,Cup,2
+1223,KOR,Brand C,Nagasaki Jjamppong,Cup,3.8
+1224,CAN,Brand D,Hearty Noodles Thai Flavour,Cup,0
+1225,THA,Brand E,Oriental Style Instant 'Kua-Chap',Pack,3.3
+1226,TWN,Brand F,Hello Kitty Za Jiang (Soybean Sauce),Pack,3.3
+1227,DEU,Brand G,Soba Teriyaki Noodles With JPNese Yakisoba Sauce,Cup,3
+1228,UK,Brand A,Instant Noodles Vegetable & Mushroom Flavour,Pack,1.5
+1229,USA,Brand B,Sir Long Tang Creamy Beef Noodle Soup,Cup,4.3
+1230,HKG,Brand C,Seaweed Hot & Spicy Instant Noodle Mushroom & Beef Flavour,Bowl,3.5
+1231,CHN,Brand D,Korean Style Stew Pork Flavour Noodle Soup,Bowl,1.8
+1232,HKG,Brand E,Instant Noodle King Won Ton Flavor,Pack,2.8
+1233,MYS,Brand F,Instant Noodles Curry Flavour,Pack,3.5
+1234,MYS,Brand G,Chef Creamy Tom Yam Flavour,Pack,5
+1235,MYS,Brand A,Monster BBQ Flavour Snack Noodles,Pack,3.8
+1236,MYS,Brand B,Chef Curry Laksa Flavour,Cup,5
+1237,MYS,Brand C,SLLRRRP! Asam Laksa,Pack,4
+1238,MYS,Brand D,Mie Goreng IDN Spicy Sambal,Cup,5
+1239,MYS,Brand E,Chef Spicy Chicken Shiitake Flavour,Pack,3.3
+1240,MYS,Brand F,Instant Vermicelli Chicken Flavour,Pack,3.3
+1241,MYS,Brand A,Chef Creamy Tom Yam Flavour,Cup,4.8
+1242,MYS,Brand B,Instant Noodles Vegetarian Flavour,Pack,3.8
+1243,MYS,Brand C,SLLRRRP! Kari Berapi,Pack,3.8
+1244,MYS,Brand D,Monster Chicken Flavour Snack Noodles,Pack,4
+1245,MYS,Brand E,Chef Curry Laksa Flavour,Pack,5
+1246,MYS,Brand F,Mie Goreng IDN Original Flavour,Cup,4.5
+1247,MYS,Brand G,Instant Vermicelli Tom Yam Flavour,Pack,3.8
+1248,KOR,Brand A,Bulnak Bokkummyun Spicy Fried Octopus Ramyun,Pack,4
+1249,JPN,Brand B,Baby Star Ramen Round Consomme Mini,Pack,3.8
+1250,USA,Brand C,Forbidden Rice Ramen,Pack,2.3
+1251,USA,Brand D,Millet & Brown Rice Ramen,Pack,4
+1252,USA,Brand E,Jade Pearl Rice Ramen,Pack,3.3
+1253,MYS,Brand F,White Curry Noodle,Pack,4.5
+1254,CAN,Brand G,Cuisine Adventures Chicken Pho Soup,Bowl,5
+1255,IDN,Brand A,Taste Of Asia Mi Goreng Rasa Bulgogi Ala Korea,Pack,2.8
+1256,THA,Brand B,Seaweed Instant Noodle,Tray,3.8
+1257,UK,Brand C,Beef Ramen,Pack,1.5
+1258,USA,Brand D,Chicken Ramen,Pack,4.3
+1259,USA,Brand E,Shoyu Ramen,Pack,3.8
+1260,USA,Brand F,Miso Ramen,Pack,4
+1261,USA,Brand A,Curry Ramen,Pack,3.8
+1262,USA,Brand B,Tom Yum Ramen,Pack,3.8
+1263,USA,Brand C,Chicken Instant Noodle,Pack,3.8
+1264,IDN,Brand D,Mushroom Instant Noodle,Pack,3.8
+1265,JPN,Brand E,Beef and Mushroom Instant Noodle,Tray,5
+1266,VNM,Brand F,Kimchi Ramen,Cup,1.3
+1267,TWN,Brand G,Shoyu Ramen,Pack,3.8
+1268,CHN,Brand A,Shoyu Ramen,Pack,3
+1269,MYS,Brand B,Shoyu Ramen,Pack,3.8
+1270,SGP,Brand C,Spicy Shrimp Tom Yam Flavour,Cup,3.3
+1271,THA,Brand D,Instant Noodles Stewed Beef Flavour,Pack,3.5
+1272,CHN,Brand E,Korean Style Mushroom Chicken Flavour Cooking Noodle,Pack,2
+1273,KOR,Brand F,Instant Noodle Udon Hot & Spicy,Pack,4
+1274,JPN,Brand G,Fresh Chow Mein Noodles With Seasoning,Pack,3.8
+1275,THA,Brand A,Instant Noodles Cup Seafood Flavour,Cup,3.8
+1276,MYS,Brand B,Mi Segera Kari Ayam Instant Noodles,Pack,4.3
+1277,JPN,Brand C,Spa Oh Tarako Spaghetti,Bowl,4
+1278,TWN,Brand D,Little Prince Brand Snack Noodles Original Flavor,Pack,2.5
+1279,KOR,Brand E,Japchae Vermicelli Noodle,Pack,2.8
+1280,UK,Brand F,Chicken Flavour Instant Noodles,Pack,2.8
+1281,KOR,Brand A,Korean Traditional Beef Gomtangmen,Pack,5
+1282,IDN,Brand B,Green Barley Noodle Vegetable Soup,Pack,3.3
+1283,JPN,Brand C,I Want To Eat Ramen Miso Flavor,Pack,3.8
+1284,IDN,Brand D,Spesial Rasa Soto Ayam,Pack,4
+1285,USA,Brand E,Rice Noodle Cart Thai Peanut,Tray,3
+1286,THA,Brand F,Oriental Style Instant Noodles Seafood Flavour,Cup,3.8
+1287,KOR,Brand G,Soon Veggie Noodle Soup,Pack,5
+1288,JPN,Brand A,Cup Noodle Cheese Curry,Cup,3.8
+1289,SGP,Brand B,Oriental Style Instant Noodles Tom Yam Flavour,Pack,2.5
+1290,TWN,Brand C,Instant Noodle Original Flavor,Pack,3.8
+1291,HKG,Brand D,Demae Ramen Shoyu Tonkotsu Artificial Pork Flavour,Pack,4.8
+1292,CAN,Brand E,Instant Noodles In A Cup Chicken Flavour,Cup,1.5
+1293,THA,Brand F,Instant Noodles Yentafo Tom Yum Mohfai Flavour,Pack,5
+1294,HKG,Brand G,Quick Serve Macaroni Shrimp Broth,Pack,3.3
+1295,KOR,Brand A,Red Nagasaki Jjampong,Pack,5
+1296,CAN,Brand B,Noodles In A Cup Spicy Chicken Simulated Flavour,Cup,1
+1297,KOR,Brand C,Lightning Beef Bone Tteokguk Rice Cake Soup,Bowl,4
+1298,IDN,Brand D,Mie Gepeng Kuah Rasa Ayam Lada Hitam,Pack,3.3
+1299,TWN,Brand E,Ramen With Pickled Mustard Flavor,Pack,3.5
+1300,TWN,Brand F,Steam Mushroom Flavor Ramen,Pack,3.3
+1301,THA,Brand A,Instant Noodles Chicken Flavour,Cup,3
+1302,SGP,Brand B,Prawn Noodles,Pack,4.3
+1303,COL,Brand C,Cup Noodles Sabor A Carne Sopa Con Fideos,Cup,3
+1304,VNM,Brand D,Mì Ly Instant Noodles Mì Tôm Shrimp Flavor,Cup,3.3
+1305,KOR,Brand E,Sain Sain Garlic Teriyaki Fresh Cooked Udon Pasta,Tray,4.5
+1306,CHN,Brand F,Braised Beef Noodles,Pack,4
+1307,HKG,Brand G,QQ Scallop Seafood Vermicelli,Bowl,3.8
+1308,JPN,Brand A,Kumamoto Tonkotsu Ramen,Pack,5
+1309,UK,Brand B,Super Noodles Roast Beef & Onion Flavour,Pack,3.3
+1310,PHL,Brand C,Supreme Chow Mein Seafood Flavor Instant Stir-Fried Noodles,Bowl,3.3
+1311,USA,Brand D,Rice Noodle Cart Sweet Citrus Ginger,Tray,4.3
+1312,KOR,Brand E,Oolongmen Kimchi Cup Noodle Soup Mix,Cup,4
+1313,SGP,Brand F,Purple Wheat Noodles Aglio Olio,Pack,2.8
+1314,JPN,Brand G,Jet Black Sesame Oil Pork Tonkotsu,Bowl,2.3
+1315,TWN,Brand A,Instant Noodle Udon Hot & Spicy,Pack,5
+1316,UK,Brand B,Fresh Chow Mein Noodles With Seasoning,Pack,3.5
+1317,KOR,Brand C,Instant Noodles Cup Seafood Flavour,Pack,3.3
+1318,VNM,Brand D,Mi Segera Kari Ayam Instant Noodles,Pack,2
+1319,MYS,Brand E,Spa Oh Tarako Spaghetti,Pack,4.3
+1320,TWN,Brand F,Little Prince Brand Snack Noodles Original Flavor,Pack,4.5
+1321,TWN,Brand A,Japchae Vermicelli Noodle,Pack,3.8
+1322,UK,Brand B,Chicken Flavour Instant Noodles,Pack,3.3
+1323,KOR,Brand C,Korean Traditional Beef Gomtangmen,Pack,3.5
+1324,SGP,Brand D,Green Barley Noodle Vegetable Soup,Pack,5
+1325,UK,Brand E,I Want To Eat Ramen Miso Flavor,Pack,5
+1326,HKG,Brand F,Spesial Rasa Soto Ayam,Pack,2.5
+1327,TWN,Brand G,Rice Noodle Cart Thai Peanut,Pack,3.3
+1328,IDN,Brand A,Oriental Style Instant Noodles Seafood Flavour,Cup,3.8
+1329,IDN,Brand B,Soon Veggie Noodle Soup,Cup,4
+1330,IDN,Brand C,Cup Noodle Cheese Curry,Cup,3.8
+1331,IDN,Brand D,Oriental Style Instant Noodles Tom Yam Flavour,Cup,4.3
+1332,JPN,Brand E,Instant Noodle Original Flavor,Cup,4.3
+1333,IDN,Brand F,Demae Ramen Shoyu Tonkotsu Artificial Pork Flavour,Cup,3.8
+1334,IDN,Brand G,Instant Noodles In A Cup Chicken Flavour,Cup,3.8
+1335,IDN,Brand A,Instant Noodles Yentafo Tom Yum Mohfai Flavour,Pack,5
+1336,IDN,Brand B,Quick Serve Macaroni Shrimp Broth,Cup,3.8
+1337,IDN,Brand C,Red Nagasaki Jjampong,Pack,4.5
+1338,IDN,Brand D,Noodles In A Cup Spicy Chicken Simulated Flavour,Cup,4
+1339,IDN,Brand E,Lightning Beef Bone Tteokguk Rice Cake Soup,Cup,4.3
+1340,THA,Brand F,Mie Gepeng Kuah Rasa Ayam Lada Hitam,Cup,3.3
+1341,HKG,Brand A,Ramen With Pickled Mustard Flavor,Bowl,2.8
+1342,USA,Brand B,Steam Mushroom Flavor Ramen,Tray,3.8
+1343,UK,Brand C,Instant Noodles Chicken Flavour,Pack,2.3
+1344,THA,Brand D,Prawn Noodles,Pack,3.5
+1345,KOR,Brand E,Cup Noodles Sabor A Carne Sopa Con Fideos,Bowl,3.8
+1346,COL,Brand F,Mì Ly Instant Noodles Mì Tôm Shrimp Flavor,Cup,2.8
+1347,TWN,Brand G,Sain Sain Garlic Teriyaki Fresh Cooked Udon Pasta,Pack,4
+1348,JPN,Brand A,Braised Beef Noodles,Pack,4
+1349,USA,Brand B,QQ Scallop Seafood Vermicelli,Pack,4
+1350,HKG,Brand C,Kumamoto Tonkotsu Ramen,Pack,3.5
+1351,CHN,Brand D,Super Noodles Roast Beef & Onion Flavour,Pack,3.8
+1352,HKG,Brand E,Demae Rice Vermicelli Chicken Flavour Instant Rice Vermicelli With Soup Base,Pack,1.8
+1353,USA,Brand F,Garlic Chili Instant Rice Noodles & Sauce,Tray,4
+1354,JPN,Brand G,Donbei Kansai Soy Sauce Flavor Udon,Pack,3.8
+1355,MYS,Brand A,Big Kari Perencah (Big Curry Flavor) 2 Minute Noodles,Pack,4
+1356,IDN,Brand B,Rasa Ayam Spesial,Pack,4
+1357,JPN,Brand C,Sesame Ramen,Pack,5
+1358,THA,Brand D,Instant Noodles Creamy Tom Yum Minced Pork Flavour,Pack,3.5
+1359,KOR,Brand E,Dare You Habanero Ramyun,Cup,3.3
+1360,HKG,Brand F,Demae Ramen Miso Tonkotsu Artificial Pork Flavor Ramen Noodle,Pack,3.8
+1361,UK,Brand A,Barbecue Beef Flavour Instant Noodles,Pack,2.8
+1362,COL,Brand B,Sabor A Pollo Sopa Instantánea Con Fideos,Pack,3.3
+1363,IDN,Brand C,Mie Gepeng Kuah Rasa Ayam Bawang Pedas,Pack,3.3
+1364,TWN,Brand D,Instant Noodle Shallot Flavor,Pack,3.8
+1365,MYS,Brand E,Sajimee Original Soto Soup Flavor,Pack,4
+1366,JPN,Brand F,Tonkotsu Ramen MEGA Dragon,Pack,2.5
+1367,JPN,Brand G,Seimen JPNese Instant Ramen Noodles Shio Aji,Pack,3.8
+1368,CAN,Brand A,Chicken Kimchi Oriental Style Noodles With Soup Base,Bowl,0.5
+1369,CHN,Brand B,Artificial Braised Beef Flavor Instant Noodle,Bowl,3.8
+1370,USA,Brand C,Pan Asian Kitchen Sweet & Sour Chicken Flavor Ramen Noodles,Tray,3.8
+1371,KOR,Brand D,Premium Noodle House Seafood Ramyun,Pack,4
+1372,MYS,Brand E,Instant Noodles Prawn Oriental Flavour,Pack,2.5
+1373,DEU,Brand F,Soba Classic Noodles With JPNese Yakisoba Sauce,Cup,3.8
+1374,IDN,Brand G,Selera Pedas Hot Semur Chicken Flavour,Pack,4.5
+1375,JPN,Brand A,Ultraman Instant Noodle Pork Flavour,Cup,3
+1376,JPN,Brand B,Mini Instant Noodle Spicy Flavor,Pack,3.5
+1377,CHN,Brand C,Ho Fan Beef Soup Flavored,Pack,3.8
+1378,HKG,Brand D,Hello Kitty Dim Sum Noodle JPNese Curry Flavour,Cup,3.5
+1379,UK,Brand E,Super Low Fat Noodles Chilli Chicken Flavour,Pack,1
+1380,IDN,Brand F,Mi Instan Cup Milk Chicken Soup,Cup,4.8
+1381,IDN,Brand A,Rendang Beef Flavour Fried Instant Noodle,Cup,5
+1382,CHN,Brand B,Hot -Dry Instant Noodles Chilli Flavour,Tray,0.5
+1383,THA,Brand C,Instant Noodles Tom Yum Flavour,Pack,3.5
+1384,HKG,Brand D,Demae Iccho Instant Noodle With Soup Base Artificial Chicken Flavour,Bowl,3
+1385,TWN,Brand E,Hell Spicy Mala,Pack,4
+1386,UK,Brand F,Instant Noodle Udon Hot & Spicy,Pack,3.3
+1387,CHN,Brand G,Fresh Chow Mein Noodles With Seasoning,Pack,3.5
+1388,JPN,Brand A,Instant Noodles Cup Seafood Flavour,Bowl,5
+1389,TWN,Brand B,Mi Segera Kari Ayam Instant Noodles,Pack,1
+1390,THA,Brand C,Spa Oh Tarako Spaghetti,Pack,3.5
+1391,COL,Brand D,Little Prince Brand Snack Noodles Original Flavor,Cup,3.5
+1392,IDN,Brand E,Japchae Vermicelli Noodle,Pack,3.5
+1393,JPN,Brand F,Chicken Flavour Instant Noodles,Pack,3.3
+1394,TWN,Brand G,Korean Traditional Beef Gomtangmen,Pack,4.3
+1395,JPN,Brand A,Green Barley Noodle Vegetable Soup,Pack,3.8
+1396,THA,Brand B,I Want To Eat Ramen Miso Flavor,Pack,3.8
+1397,KOR,Brand C,Spesial Rasa Soto Ayam,Pack,5
+1398,JPN,Brand D,Rice Noodle Cart Thai Peanut,Cup,4.5
+1399,USA,Brand E,Oriental Style Instant Noodles Seafood Flavour,Bowl,3.5
+1400,MYS,Brand F,Soon Veggie Noodle Soup,Pack,2.5
+1401,KOR,Brand A,Cup Noodle Cheese Curry,Bowl,4
+1402,DEU,Brand B,Oriental Style Instant Noodles Tom Yam Flavour,Cup,3.8
+1403,TWN,Brand C,Instant Noodle Original Flavor,Pack,3.8
+1404,IDN,Brand D,Demae Ramen Shoyu Tonkotsu Artificial Pork Flavour,Pack,4
+1405,JPN,Brand E,Instant Noodles In A Cup Chicken Flavour,Bowl,3.8
+1406,JPN,Brand F,Instant Noodles Yentafo Tom Yum Mohfai Flavour,Bowl,5
+1407,CHN,Brand G,Quick Serve Macaroni Shrimp Broth,Cup,3
+1408,KOR,Brand A,Red Nagasaki Jjampong,Cup,3.5
+1409,COL,Brand B,Noodles In A Cup Spicy Chicken Simulated Flavour,Pack,3.8
+1410,UK,Brand C,Lightning Beef Bone Tteokguk Rice Cake Soup,Pack,3.3
+1411,JPN,Brand D,Mie Gepeng Kuah Rasa Ayam Lada Hitam,Cup,3.5
+1412,KOR,Brand E,Ramen With Pickled Mustard Flavor,Pack,5
+1413,UK,Brand F,Steam Mushroom Flavor Ramen,Pack,3.8
+1414,KOR,Brand G,Instant Noodles Chicken Flavour,Pack,4
+1415,TWN,Brand A,Prawn Noodles,Pack,3.8
+1416,JPN,Brand B,Cup Noodles Sabor A Carne Sopa Con Fideos,Pack,4.3
+1417,USA,Brand C,Mì Ly Instant Noodles Mì Tôm Shrimp Flavor,Cup,5
+1418,IDN,Brand D,Sain Sain Garlic Teriyaki Fresh Cooked Udon Pasta,Pack,4
+1419,JPN,Brand E,Braised Beef Noodles,Pack,3.5
+1420,IDN,Brand F,QQ Scallop Seafood Vermicelli,Pack,4.3
+1421,JPN,Brand A,Kumamoto Tonkotsu Ramen,Pack,4
+1422,IDN,Brand B,Super Noodles Roast Beef & Onion Flavour,Pack,3.5
+1423,USA,Brand C,Seaweed Ramen Made With Organic Noodles,Pack,2.8
+1424,UK,Brand D,Traveller's Choice IDNn Tikka Masala Flavour,Pack,3
+1425,JPN,Brand E,Jan Jan Yakisoba,Cup,3.8
+1426,CAN,Brand F,Noodles In A Cup Beef Simulated Flavour,Cup,1.8
+1427,JPN,Brand G,Donbei Curry Udon (West JPNese),Bowl,3.3
+1428,UK,Brand A,Miso Ramen,Cup,3.8
+1429,TWN,Brand B,Man Han Feast Sichuan Chilli Eel Flavor,Bowl,5
+1430,USA,Brand C,Chow Mein With Shrimp Chow Mein Noodles,Tray,3.8
+1431,CAN,Brand D,Bowl Chicken Simulated Flavour,Bowl,2
+1432,CHN,Brand E,Rice Vermicelli Spicy Beef With Chilli Flavour,Pack,3.3
+1433,JPN,Brand F,Chanpon Ramen,Pack,4.8
+1434,IDN,Brand G,100 Green Chilli Soto Flavour,Pack,3.8
+1435,KOR,Brand A,Chacharoni,Pack,3.8
+1436,JPN,Brand B,Yakisoba,Tray,5
+1437,HKG,Brand C,Demae Iccho XO Sauce Seafood Flavour,Bowl,4
+1438,UK,Brand D,The Nation's Noodle Beef & Tomato Flavour,Cup,4.3
+1439,VNM,Brand E,Oriental Style Instant Vermicelli Sour Crab Flavour Soup,Pack,3.8
+1440,USA,Brand F,Savory Ramen ,Bar,5
+1441,CHN,Brand A,Korean Style Shrimp Flavour Cooking Noodle,Pack,3.5
+1442,TWN,Brand B,Spicy Flavor Tomato Ramen,Pack,4
+1443,JPN,Brand C,Tomato & Basil Shio Ramen,Pack,4
+1444,NPL,Brand D,Fatafat Vegetable Flavor,Pack,3.8
+1445,NPL,Brand E,Krrish Instant Noodles Chicken Flavor,Pack,3.5
+1446,NPL,Brand F,Preeti Instant Noodles Chicken Soup Base,Pack,3.5
+1447,NPL,Brand G,Miteri Instant Noodles Vegetable Flavor,Pack,3.5
+1448,NPL,Brand A,Rumpum Chicken Soup Base,Pack,3.5
+1449,NPL,Brand B,2pm Precooked Noodles Chicken Curry Delight,Pack,3.5
+1450,NPL,Brand C,Fatafat Chicken Flavor,Pack,3.8
+1451,NPL,Brand D,Krrish Instant Noodles Vegetable Curry Flavor,Pack,3.5
+1452,NPL,Brand E,Rumpum Vegetable Soup Base,Pack,4.3
+1453,NPL,Brand F,Miteri Instant Noodles Chicken Flavor,Pack,4
+1454,NPL,Brand G,Joker Ready To Eat Noodles,Pack,3.3
+1455,NPL,Brand A,Preeti Instant Noodles Veg Soup Base,Pack,5
+1456,NPL,Brand B,Gaurav Chicken Seasoning,Pack,3.8
+1457,JPN,Brand C,Downtown Ramen Shop Shoyu,Pack,4.8
+1458,SGP,Brand D,Oriental Style Instant Noodles Crab Flavour,Pack,3.8
+1459,JPN,Brand E,Yakisoba,Pack,5
+1460,IDN,Brand F,Instant Noodle Beef & Lime Flavour,Pack,4.3
+1461,KOR,Brand A,Katsuo Udon,Pack,4
+1462,HKG,Brand B,E-Men Noodles Abalone Soup Flavor,Pack,3.8
+1463,UK,Brand C,Kimchi Bowl Noodles Oriental Noodle With Soup Base,Cup,1.5
+1464,TWN,Brand D,spicy Pad Thai Instant Noodles & Sauce,Pack,3.8
+1465,USA,Brand E,Mini Instant Noodles Artificial Chicken Flavor,Cup,3.5
+1466,JPN,Brand F,Pan Asian Kitchen Sukiyaki Beef Flavor Savory Soy Sauce Ramen Noodles,Pack,3.5
+1467,PHL,Brand G,Special Instant Pancit Bihon With Kalamansi,Pack,3.3
+1468,CAN,Brand A,Savory Ramen ,Cup,2.8
+1469,IDN,Brand B,Korean Style Shrimp Flavour Cooking Noodle,Pack,4
+1470,USA,Brand C,Spicy Flavor Tomato Ramen,Pack,5
+1471,KOR,Brand D,Tomato & Basil Shio Ramen,Bowl,4.3
+1472,JPN,Brand E,Fatafat Vegetable Flavor,Pack,4.3
+1473,JPN,Brand F,Krrish Instant Noodles Chicken Flavor,Pack,4.3
+1474,CHN,Brand G,Preeti Instant Noodles Chicken Soup Base,Pack,3.8
+1475,IDN,Brand A,Selera Pedas Mi Rebus Hot Gulai Flavor,Pack,4.8
+1476,UK,Brand B,Taste Sensation Instant Noodles Curry Flavour,Pack,3.8
+1477,CAN,Brand C,Kimchi Bowl Noodles Oriental Noodle With Soup Base,Bowl,2.8
+1478,USA,Brand D,spicy Pad Thai Instant Noodles & Sauce,Tray,4.3
+1479,JPN,Brand E,Mini Instant Noodles Artificial Chicken Flavor,Pack,5
+1480,USA,Brand F,Pan Asian Kitchen Sukiyaki Beef Flavor Savory Soy Sauce Ramen Noodles,Tray,3.8
+1481,IDN,Brand A,Vegetarian Fried Noodles (Mie Goreng),Pack,4
+1482,KOR,Brand B,Samyang Ramyun (SK Version),Cup,3.5
+1483,THA,Brand C,Oriental Style Instant Kua-Chap Clear Soup,Pack,3.8
+1484,CHN,Brand D,Korean Style Stew Beef Cooking Noodle,Pack,3.3
+1485,KOR,Brand E,Gonghwachun Jjajangmyun,Pack,4.5
+1486,IDN,Brand F,Spaghetti With Bolognese Sauce,Box,4.3
+1487,CHN,Brand G,Spicy Beef,Cup,3.5
+1488,HKG,Brand A,Demae Ramen Kimchi Flavour Instant Noodle With Soup Base,Bowl,3.5
+1489,JPN,Brand B,Raoh Rich Soy Sauce With Roast Pork (2 Slices),Bowl,4.5
+1490,KOR,Brand C,Doong Ji Authentic Korean Cold Noodles With Chili Sauce,Tray,5
+1491,CAN,Brand D,Instant Noodles Chicken Flavour,Pack,3.5
+1492,JPN,Brand E,Ippei-chan Yomise No Yakisoba Teriyaki Mayo Flavor,Tray,5
+1493,UK,Brand F,Super Noodles Mild Mexican Chilli,Pack,3
+1494,IDN,Brand G,Spicy Chicken Mi Instan Cup,Cup,4.3
+1495,EST,Brand A,Instant Noodles With Chicken Flavour Broth,Pack,3.8
+1496,EST,Brand B,Instant Noodles With Beef Flavour Broth,Pack,3.3
+1497,IDN,Brand C,Low Fat Noodles Hainan Chicken,Pack,3.8
+1498,TWN,Brand D,Homely Dried Noodles - Sesame Pate,Pack,3.8
+1499,TWN,Brand E,Tachia Noodles - Hot & Spicy Sauce,Pack,3.5
+1500,TWN,Brand F,Tachia Dried Noodles - Fried Shallot,Pack,3.3
+1501,TWN,Brand A,Thin Noodles - Sesame Oil,Pack,4.3
+1502,TWN,Brand B,Hakka Flat Noodles - Satay Sauce,Pack,4.5
+1503,TWN,Brand C,Tachia Dried Noodles - Rou Zhou Meat Sauce,Pack,5
+1504,TWN,Brand D,Homely Dried Noodles - Original Flavor ,Pack,4
+1505,TWN,Brand E,Dried Noodles - Spicy Sauerkraut,Pack,3.3
+1506,TWN,Brand F,Hakka Flat Noodles - Fried Bean Sauce,Pack,4.3
+1507,TWN,Brand G,Tachia Dried Noodles - Peppery,Pack,3.8
+1508,MYS,Brand A,Penang White Curry Noodle,Pack,5
+1509,UK,Brand B,IDNn Curry Flavour,Pack,3
+1510,VNM,Brand C,Hao Hao Mi Goreng Shrimp & Onion Flavour,Pack,3.5
+1511,CAN,Brand D,Noodles In A Cup Chicken Simulated Flavour,Cup,1.5
+1512,JPN,Brand E,GooTa Demi Hamburg-Men,Cup,4.8
+1513,IDN,Brand F,Mi Goreng Cabe Ijo,Pack,4.5
+1514,TWN,Brand G,Aloe Noodle Sesame Sauce,Pack,3.3
+1515,TWN,Brand A,Black Eyed Beans Noodle Basil Sauce & Sesame Sauce,Pack,3.5
+1516,TWN,Brand B,Aloe Noodle Vegetable Sauce,Pack,5
+1517,TWN,Brand C,Black Eyed Beans Noodle Spicy Soybean Sauce & Sesame Sauce,Pack,3.8
+1518,TWN,Brand D,Aloe Noodle Red Onion & Sesame Sauce,Pack,5
+1519,TWN,Brand E,Black Eyed Beans Noodle Vegetable Sauce & Sesame Sauce,Pack,3.8
+1520,TWN,Brand F,Aloe Noodle With Basil Sauce,Pack,5
+1521,TWN,Brand A,Pollen Noodles Sesame Sauce & Soy Sauce,Pack,4.3
+1522,TWN,Brand B,Black Eyed Bean Noodle Red Onion Sauce & Sesame Sauce,Pack,3.8
+1523,TWN,Brand C,Aloe Noodle With Spicy Soybean Sauce,Pack,4
+1524,JPN,Brand D,Raoh Soy Sauce Taste,Pack,4
+1525,KOR,Brand E,Premium Noodle House Pork & Seafood Flavor,Pack,4
+1526,JPN,Brand F,Raoh Rich Miso Flavor,Bowl,5
+1527,SGP,Brand G,Oriental Instant Noodles Stir Fried Noodles,Pack,3.8
+1528,JPN,Brand A,Cup Noodle Red Shock,Cup,3.8
+1529,USA,Brand B,1 Step-1 Minute Asian Noodles Pad Thai,Pack,3.5
+1530,USA,Brand C,1 Step-1 Minute Asian Noodles Kung Pao,Pack,4.3
+1531,USA,Brand D,1 Step-1 Minute Asian Noodles Mushroom Lo Mein,Pack,4
+1532,USA,Brand E,1 Step-1 Minute Asian Noodles Thai Basil,Pack,3.8
+1533,USA,Brand F,1 Step-1 Minute Asian Noodles Lemongrass Ginger,Pack,3.8
+1534,USA,Brand G,1 Step-1 Minute Asian Noodles Toasted Sesame,Pack,4
+1535,USA,Brand A,Happy Pho VNMese Brown Rice Noodle Soup Garlic Goodness,Pack,3.8
+1536,MYS,Brand B,Oriental Noodles Curry Flavour,Pack,3.3
+1537,TWN,Brand C,Dry Noodle Mandarin Noodle - Original Sauce,Pack,4
+1538,TWN,Brand D,Dry Noodle Hakka Noodle - Spicy Sesame Oil Sauce,Pack,3.5
+1539,TWN,Brand E,Dry Noodle Mandarin Noodle - Onion Oil Sauce,Pack,5
+1540,TWN,Brand F,Dry Noodle QQ Thin Noodle - BBQ Sauce,Pack,5
+1541,TWN,Brand A,No. 10 Mandarin Noodle - Black Pepper Sauce,Pack,3.8
+1542,TWN,Brand B,Dry Noodle Tainan Noodle - Sesame Sauce,Pack,4
+1543,TWN,Brand C,Dry Noodle Hakka Noodle - Chili Sauce,Pack,4.3
+1544,JPN,Brand D,Seimen JPNese Instant Ramen Noodles Soy Sauce Taste,Pack,3.8
+1545,HKG,Brand E,JPNese Pork Bone Flavour Quick Serve Macaroni,Pack,3
+1546,CAN,Brand F,Bowl Beef Simulated Flavor,Bowl,2
+1547,KOR,Brand G,Cheese Bokki,Cup,3.5
+1548,JPN,Brand A,Yakisoba Noodle,Tray,4
+1549,USA,Brand B,Stir Fry Noodles JPNese Style Noodles With Sauce,Pack,4
+1550,USA,Brand C,Chow Mein Chicken,Tray,3.5
+1551,CHN,Brand D,Shin Ramyun Noodle Spicy Mushroom,Bowl,3.3
+1552,CHN,Brand E,Rice Vermicelli Satay Chicken,Pack,3
+1553,CHN,Brand F,Potato Pork Ramyun,Pack,5
+1554,UK,Brand G,Instant Noodles Super Chow Mein,Pack,4
+1555,CAN,Brand A,Instant Noodles Vegetable Flavour,Pack,1
+1556,USA,Brand B,Bowl Hot & Spicy Shrimp Flavor Ramen Noodles With Vegetables,Bowl,4.3
+1557,JPN,Brand C,Chanponmen,Pack,4.3
+1558,KOR,Brand D,Dare You Habanero Jjamppong,Pack,4
+1559,CHN,Brand E,Korean Style Spicy Shrimp Noodle Soup,Bowl,3.5
+1560,TWN,Brand F,Spicy Sichuan Flavor Instant Noodle,Bowl,3.5
+1561,CAN,Brand A,Instant Noodles In A Cup Spicy Chicken,Cup,2.3
+1562,JPN,Brand B,King Cup Noodle BBQ Chicken & Onion,Cup,3.8
+1563,THA,Brand C,Authentic Thai Cuisine Pad Thai,Pack,4
+1564,KOR,Brand D,Premium Noodle House Don Ramyun,Pack,4
+1565,KOR,Brand E,60 Ingredients Assorted Vegetable SK Version,Pack,3.8
+1566,KOR,Brand F,Nagasaki Crab Jjampong,Pack,5
+1567,KOR,Brand G,Buldalk Bokkeummyeon (Hot Fried Chicken Ramyun),Pack,4
+1568,KOR,Brand A,Yukgaejang Beef Ramyun,Bowl,4
+1569,KOR,Brand B,Bajirak Kalgugsu,Pack,3.8
+1570,KOR,Brand C,Hot Chacharoni,Pack,3.8
+1571,KOR,Brand D,Premium Noodle House Tofu Fried Noodle,Pack,3.5
+1572,KOR,Brand E,Samyang Ramyun,Pack,4.5
+1573,KOR,Brand F,Premuim Noodle House Crab Jjampong,Pack,5
+1574,KOR,Brand G,Beef Flavor Ramyun (SK Version),Pack,4.3
+1575,KOR,Brand A,Nagasaki Jjampong,Bowl,4.8
+1576,KOR,Brand B,Kimchi Ramyun (SK Version),Pack,4
+1577,KOR,Brand C,Ganjjampong,Pack,4.3
+1578,KOR,Brand D,Sutah (SK Version),Pack,3.8
+1579,USA,Brand E,Big Cup Noodles Habanero Lime Chicken Flavor Ramen Noodle Soup,Cup,3.5
+1580,USA,Brand F,Oriental Style Ramen Noodle Soup,Pack,2.8
+1581,JPN,Brand A,King Spa Oh Peperoncino Spaghetti (日清生タイプSpa王 ペペロンチーノ),Bowl,4.3
+1582,VNM,Brand B,Chicken Ramen,Pack,3.5
+1583,NLD,Brand C,Good Noodles Oosterse Kip (Oriental Chicken),Pack,3.5
+1584,USA,Brand D,Bowl Hot & Spicy Chicken Flavor Ramen Noodles With Vegetables,Bowl,4
+1585,CHN,Brand E,Korean Style Spicy Beef Noodle Soup,Bowl,3.8
+1586,CAN,Brand F,Instant Noodles In A Cup Oriental,Cup,2
+1587,KOR,Brand G,Sesame Flavor Noodle Bowl,Bowl,3.5
+1588,HKG,Brand A,Demae Ramen Sesame Oil Flavour Noodles With Soup Base,Bowl,4.5
+1589,POL,Brand B,Barszcz czerwony (Borscht),Pack,4
+1590,CHN,Brand C,Chicken Flavour,Bowl,2.8
+1591,THA,Brand D,Artificial Pork Flavour,Pack,3
+1592,USA,Brand E,Chow Mein Spicy Teriyaki Beef,Tray,4.5
+1593,CAN,Brand F,Bowl Spicy Chicken Simulated Flavour,Bowl,2
+1594,KOR,Brand G,1 Step-1 Minute Asian Noodles Pad Thai,Pack,3.5
+1595,USA,Brand A,1 Step-1 Minute Asian Noodles Kung Pao,Tray,4.3
+1596,UK,Brand B,1 Step-1 Minute Asian Noodles Mushroom Lo Mein,Cup,1.5
+1597,KOR,Brand C,1 Step-1 Minute Asian Noodles Thai Basil,Cup,4.5
+1598,JPN,Brand D,1 Step-1 Minute Asian Noodles Lemongrass Ginger,Pack,4.3
+1599,USA,Brand E,1 Step-1 Minute Asian Noodles Toasted Sesame,Bowl,4
+1600,UK,Brand F,Instant Noodles Beef,Pack,3
+1601,THA,Brand A,Tom Yum Shrimp Flavour,Pack,3.3
+1602,NLD,Brand B,Sate,Pack,3.5
+1603,SGP,Brand C,SGP Laksa La Mian,Pack,5
+1604,SGP,Brand D,SGP Curry La Mian,Pack,5
+1605,USA,Brand E,Pan Asian Kitchen Spicy Pad Thai,Tray,2.8
+1606,KOR,Brand F,Gonghwachun Jjamppong,Pack,4
+1607,POL,Brand G,Ogorkowa,Pack,3.3
+1608,AUS,Brand A,SGP Soft Noodles,Pack,2.8
+1609,KOR,Brand B,Jong-Gah-Jip Kimchi Ramen,Pack,4
+1610,UK,Brand C,Go Noodles Thai Hot & Spicy Tom Yum,Cup,1
+1611,USA,Brand D,Ramen Shoyu Flavor,Tray,5
+1612,USA,Brand E,Tantanmen Spicy Sesame (Mild),Tray,3.8
+1613,USA,Brand F,Ramen Miso Flavor,Tray,5
+1614,USA,Brand G,Saimin,Pack,4
+1615,USA,Brand A,Cold Ramen Soy Sauce Vinaigrette,Tray,4
+1616,USA,Brand B,Nama Soba Buckwheat Noodle,Tray,4
+1617,USA,Brand C,Ramen Pork Flavor,Tray,5
+1618,USA,Brand D,Yakisoba,Pack,4.5
+1619,JPN,Brand E,Donbei Tensoba,Bowl,4
+1620,KOR,Brand F,Spaghetti Ramen,Bowl,4.5
+1621,UK,Brand A,Chilli Beef Flavour,Cup,2.3
+1622,USA,Brand B,Ramen House Spicy Chicken Ramen,Pack,4
+1623,CHN,Brand C,Spinach With Organic Noodles,Pack,3
+1624,USA,Brand D,Soup Bowl Chinese Chicken,Bowl,4.3
+1625,USA,Brand E,Noodle Express Spicy Szechuan,Tray,2
+1626,USA,Brand F,Soup Bowl VNMese Pho,Bowl,4
+1627,USA,Brand G,Noodle Express Teriyaki,Tray,3
+1628,USA,Brand A,Soup Bowl KORn Kimchi,Bowl,4.5
+1629,USA,Brand B,Ramen House Spring Vegetable Ramen,Pack,4
+1630,USA,Brand C,Noodle Express Chinese Chow Mein,Tray,3.8
+1631,JPN,Brand D,Raoh Backfat Rich Soy Sauce Flavor,Bowl,5
+1632,UK,Brand E,Mr. Chu’s Golden Noodle No. 7 Sticky Rib,Cup,3.3
+1633,USA,Brand F,Bowl Noodle Soup Spicy Seafood Flavor (New Version),Bowl,4.3
+1634,AUS,Brand G,Chow Mein Soft Noodles,Pack,2.8
+1635,USA,Brand A,Bowl Noodles Hot & Spicy Super Picante,Bowl,3.3
+1636,JPN,Brand B,ARCHE Naturküche Ramen Mit Ingwer,Pack,3.3
+1637,JPN,Brand C,Soy Sauce Ramen,Bowl,4.3
+1638,JPN,Brand D,100% Vegetarian Soy Sauce Flavor,Pack,4.3
+1639,JPN,Brand E,Sesame Noodles,Pack,5
+1640,JPN,Brand F,Miso Ramen,Bowl,4
+1641,JPN,Brand A,ARCHE Naturküche JPNische Nudelsuppe,Pack,3.3
+1642,JPN,Brand B,Soy Sauce Ramen,Pack,4.8
+1643,UK,Brand C,Sweet & Spicy,Cup,3.5
+1644,POL,Brand D,Pomidorowa (Mild Tomato),Pack,4
+1645,KOR,Brand E,Kiss Myon,Cup,3.8
+1646,UK,Brand F,Instant Noodles Chicken ,Pack,3.5
+1647,AUS,Brand G,Hot & Spicy 2 Minute Noodles,Pack,3.5
+1648,USA,Brand A,Yakisoba Jalapeno Cheddar,Tray,4
+1649,USA,Brand B,Dr. McDougall's Vegan Chicken Ramen,Cup,1.8
+1650,UK,Brand C,Jamaican Jerk!,Cup,2.8
+1651,THA,Brand D,Oriental Style Instant Noodles (Dry method),Pack,3
+1652,POL,Brand E,Zurek,Pack,3.3
+1653,CHN,Brand F,E-men Lobster Soup,Pack,3.3
+1654,UK,Brand G,Go Noodles Chicken Special,Pack,3.8
+1655,THA,Brand A,Sour Soup Flavor,Pack,3.5
+1656,UK,Brand B,Sweet & Sour,Cup,3.8
+1657,USA,Brand C,Yakisoba Four Cheese,Tray,3.8
+1658,THA,Brand D,Shrimp (TOM YUM),Pack,3.8
+1659,USA,Brand E,Mild Tonkotsu,Pack,5
+1660,USA,Brand F,Beef,Cup,3.5
+1661,USA,Brand A,Jinjja Jinjja Flamin' Hot & Nutty,Pack,5
+1662,KOR,Brand B,Kokomen Spicy Chicken,Cup,4.5
+1663,KOR,Brand C,Namja Ramen (USA version),Pack,5
+1664,CHN,Brand D,dried Mix Noodles Soya Bean Paste,Tray,3.8
+1665,USA,Brand E,35% Less Sodium Beef,Cup,3.5
+1666,VNM,Brand F,Good Artificial Minced Pork Bean Vermicelli,Pack,3.8
+1667,CHN,Brand G,Dried Mix Noodles Artificial Spicy Pork,Tray,4
+1668,KOR,Brand A,Kokomen Spicy Chicken,Bowl,4.8
+1669,MYS,Brand B,VegeMee Vegetarian Flavour,Pack,2.8
+1670,KOR,Brand C,Dare You! Habanero Ramen,Pack,3.8
+1671,USA,Brand D,35% Less Sodium Chicken,Pack,3.8
+1672,MYS,Brand E,LadMee Hot Pepper,Pack,3.5
+1673,THA,Brand F,Shitake Mushroom Vernicalli,Bowl,1.3
+1674,KOR,Brand G,Jjajang Bokki,Bowl,3.5
+1675,USA,Brand A,Hot & Spicy Udon,Pack,3
+1676,USA,Brand B,35% Less Sodium Beef,Pack,3.5
+1677,KOR,Brand C,Tempura Udon Flavor Cup Ramyun,Cup,4.5
+1678,VNM,Brand D,Good Chicken Abalone Bean Vermicelli,Pack,3.3
+1679,JPN,Brand E,Seafood Flavor JPNese Noodles,Bowl,4.3
+1680,THA,Brand F,Casserole Beef Flavour,Pack,3.5
+1681,JPN,Brand A,Ramen Shop Sapporo Miso,Pack,4
+1682,KOR,Brand B,Spicy Shrimp Cup Ramyun,Cup,4.3
+1683,USA,Brand C,Instant Lunch Shrimp,Cup,3.8
+1684,USA,Brand D,Top Ramen Cucharealo Habanero Shrimp,Pack,3.8
+1685,KOR,Brand E,Namja Ramyun,Bowl,4.3
+1686,IDN,Brand F,Kriuuk Bawang,Pack,4.3
+1687,USA,Brand G,Original Flavor,Cup,3.5
+1688,KOR,Brand A,Neoguri Spicy Seafood,Cup,4
+1689,MYS,Brand B,Kari 365 Curry Flavour,Pack,5
+1690,USA,Brand C,Vegetable Instant Noodle soup,Cup,3.3
+1691,JPN,Brand D,Ippei-chan Yomise-No Yakisoba Oriental,Tray,4.8
+1692,KOR,Brand E,Rice Noodle With Seafood Flavored Soup,Tray,3.5
+1693,THA,Brand F,Pho Bo Beef Flavour Rice Stick,Bowl,3.3
+1694,IDN,Brand G,Rasa Ayam Bawang,Pack,3.5
+1695,USA,Brand A,Instant Lunch Chicken,Cup,3.5
+1696,FJI,Brand B,Chow Tomato ,Pack,4.3
+1697,CHN,Brand C,Crystal Noodles Savory Shoyu,Cup,1.5
+1698,FJI,Brand D,Chow Masala,Pack,4
+1699,VNM,Brand E,Good Tomyum Kung Bean Vermicelli,Pack,3.5
+1700,IDN,Brand F,Sedaaap Mi Goreng,Pack,5
+1701,KOR,Brand A,Rice Noodle With Kimchi Flavored Soup,Tray,3
+1702,KOR,Brand B,Bowl Noodle Shrimp Flavor,Bowl,3.3
+1703,IDN,Brand C,Selera Pedas Hot Tomato Soup Flavor,Pack,4.5
+1704,VNM,Brand D,Hao Hao Mushroom,Pack,2.8
+1705,VNM,Brand E,Mushroom Flavor Ramen Noodles,Pack,3.5
+1706,USA,Brand F,Rich Shoyu Ramen,Pack,4
+1707,USA,Brand G,Nagasaki Sara Udon Chicken ,Pack,4.3
+1708,USA,Brand A,Cold Noodles With Lemon Soy Dressing,Pack,4
+1709,USA,Brand B,Tonkotsu-Shoyu Rich Pork Flavor Ramen,Pack,4.8
+1710,USA,Brand C,Miso Ramen Rich Sapporo Miso,Pack,5
+1711,USA,Brand D,Miso Ramen - Mild,Pack,4
+1712,USA,Brand E,Shio Ramen Seafood Mild,Pack,4.5
+1713,IDN,Brand F,GoBang,Pack,5
+1714,KOR,Brand G,Rice Noodle With Hot & Spicy,Tray,3.3
+1715,CHN,Brand A,KORn Style Seafood,Cup,2.8
+1716,KOR,Brand B,Rice Topokki,Bowl,5
+1717,USA,Brand C,Top Ramen Short Cuts Lime Chili,Pack,3.8
+1718,USA,Brand D,Shin Bowl (New),Bowl,4.3
+1719,IDN,Brand E,Soto Koya Pedasss,Pack,3.3
+1720,THA,Brand F,Artificial Chicken Rice Vermicelli,Bowl,2.5
+1721,JPN,Brand A,Nabeyaki Udon,Bowl,3.5
+1722,VNM,Brand B,Viet Rice Noodles Chicken,Pack,3.5
+1723,USA,Brand C,Chapagetti,Bowl,5
+1724,CHN,Brand D,Artificial Hot & Sour Shrimp,Pack,4
+1725,IDN,Brand E,Mi Keriting Rasa Ayam Bawang,Pack,3.8
+1726,VNM,Brand F,Good Chicken Bean Vermicelli,Pack,3.3
+1727,KOR,Brand G,Katsuobushi Udon,Bowl,3.8
+1728,IDN,Brand A,Rasa Coto Makassar,Pack,4
+1729,CHN,Brand B,Mianba,Pack,4
+1730,THA,Brand C,Stewed Duck,Cup,3
+1731,TWN,Brand D,Chinese Spices Tong Tsai Bean Vermicelli,Pack,3.5
+1732,IDN,Brand E,Special Fried Curly Noodle (Local),Pack,5
+1733,USA,Brand F,Top Ramen Short Cuts Roast Chicken,Pack,4.3
+1734,VNM,Brand G,Hao Hao Mi Chay Vegetarian,Pack,3.3
+1735,CHN,Brand A,Artificial Pickled Cabbage Fish,Pack,2.8
+1736,USA,Brand B,Imitation Chicken Vegetarian,Cup,3.8
+1737,IDN,Brand C,Rasa Mi Cakalang,Pack,4.5
+1738,KOR,Brand D,Seafood Vermicelli Anchovy,Bowl,4.3
+1739,THA,Brand E,Mushroom Vegetarian,Bowl,4.8
+1740,VNM,Brand F,Bestcook Hot & Sour Shrimp,Bowl,4.3
+1741,CHN,Brand A,Crystal Noodles Hot & Sour,Bowl,3.5
+1742,KOR,Brand B,RaUdong Unfried Noodle With Kimchi,Bowl,4.5
+1743,IDN,Brand C,Sedaaap Mi Kuah Rasa Kari Ayam,Pack,4
+1744,CHN,Brand D,Artificial Pork Ribs,Bowl,3.5
+1745,USA,Brand E,Top Ramen Short Cuts Chicken,Pack,4
+1746,USA,Brand F,Top Ramen Cucharealo Tomato Chicken,Pack,3.5
+1747,CHN,Brand G,KORn Style Spicy Pork,Cup,3.5
+1748,JPN,Brand A,Sansai Soba Edible Wld Plant,Bowl,3.3
+1749,VNM,Brand B,Mi Kim Chee,Pack,3.8
+1750,KOR,Brand C,Doong Ji Cold Noodle Chilled Broth,Pack,4.3
+1751,MYS,Brand D,2 Minute Noodles Perencah Asam Laksa,Pack,4
+1752,USA,Brand E,Top Ramen Short Cuts Beef,Pack,3.5
+1753,CHN,Brand F,Artificial Stew Beef,Bowl,3.8
+1754,KOR,Brand G,Chapagetti (KORn),Pack,4
+1755,CHN,Brand A,Stir Rice Vermicelli SGPan Laksa,Tray,3.8
+1756,KOR,Brand B,Mild Bean Curd Stew,Cup,2
+1757,IDN,Brand C,Soto Koya Gurih,Pack,4
+1758,USA,Brand D,Top Ramen Cucharealo Picante Chicken,Pack,4.5
+1759,VNM,Brand E,Mi Chay Vegetarian,Pack,3.5
+1760,CAN,Brand F,Shrimp,Pack,2.5
+1761,IDN,Brand A,Mi Goreng Kriuuk Pedas,Pack,3.8
+1762,THA,Brand B,Vegetarian,Pack,3.5
+1763,CHN,Brand C,Mee Goreng Dry Ramen Noodles,Pack,3.8
+1764,VNM,Brand D,Instant Porridge Chicken,Pack,3.3
+1765,JPN,Brand E,Seven & I Shoyu,Cup,4.5
+1766,KOR,Brand F,Kko Kko Myun King Cup,Bowl,4.8
+1767,KOR,Brand G,Seolleongtangmyeon,Pack,3.5
+1768,KOR,Brand A,Rabokki,Pack,4.8
+1769,KOR,Brand B,Namja,Pack,5
+1770,JPN,Brand C,Shoyu,Cup,3.3
+1771,KOR,Brand D,Bibim Men Cucumber,Pack,5
+1772,KOR,Brand E,Kokomen Spicy Chicken,Pack,5
+1773,KOR,Brand F,Speed King Bowl (Prototype),Bowl,3.5
+1774,CHN,Brand G,Potatoes & Stewed Beef,Pack,5
+1775,THA,Brand A,Tom Yum Shrimp Rice Stick,Bowl,3.8
+1776,JPN,Brand B,Tempura Soba,Pack,4
+1777,IDN,Brand C,Sedaaap Mi Kuah Rasa Soto,Pack,4
+1778,TWN,Brand D,Bowl Ramen Shrimp,Bowl,3.8
+1779,VNM,Brand E,Oh! Ricey Phnom Penh Rice Noodle,Pack,3.8
+1780,CHN,Brand F,Stewde Chicken Of Mushroom,Cup,3.3
+1781,IDN,Brand A,Beef,Pack,3.5
+1782,CAN,Brand B,Spicy Chicken,Pack,2
+1783,CHN,Brand C,Spicy Beef,Pack,3.8
+1784,CAN,Brand D,Vegetable,Pack,1.8
+1785,IDN,Brand E,Selera Pedas Mi Goreng Hot Chicken Lemon,Pack,4.3
+1786,KOR,Brand F,Neoguri Mild (KOR),Pack,4
+1787,THA,Brand G,Vegetarian Tom Yum,Bowl,3.5
+1788,IDN,Brand A,Super Rasa Ayam Bawang,Pack,4
+1789,KOR,Brand B,Hot Spicy Bowl With Soy Peptide,Bowl,3.5
+1790,JPN,Brand C,Super Big Ramen Soy Sauce,Bowl,1.3
+1791,THA,Brand D,Abalone Chicken,Cup,1.8
+1792,CHN,Brand E,Premium Taste Roasted Beef,Bowl,4
+1793,IDN,Brand F,Isi 2 Mi Goreng Rasa Ayam Kecap,Pack,4.5
+1794,VNM,Brand G,Hot Sour Shrimp,Pack,3.8
+1795,CAN,Brand A,Chicken,Pack,3
+1796,USA,Brand B,Bowl Noodle Savory Chicken (New),Bowl,4.3
+1797,CHN,Brand C,KORn Style Pork,Cup,3
+1798,ARE,Brand D,Vegetable,Pack,3.8
+1799,VNM,Brand E,Kingcook Vegetable,Pack,3
+1800,CHN,Brand F,Red Oil Dan Dan,Tray,2.8
+1801,IDN,Brand A,Soto Koya Jeruk Nipis,Pack,4.8
+1802,CAN,Brand B,Spicy Beef,Pack,1.8
+1803,USA,Brand C,Bowl Noodle Spicy Chicken (New),Bowl,4.5
+1804,JPN,Brand D,Super Big Ramen Tonkotsu,Bowl,1
+1805,THA,Brand E,Shiitake & Soy Sauce,Pack,1.5
+1806,IDN,Brand F,GoKar,Pack,4
+1807,TWN,Brand G,100 Beef With Sauerkraut,Pack,4.8
+1808,KOR,Brand A,Ramen E Ramen White Broth,Pack,5
+1809,CAN,Brand B,Beef,Pack,3
+1810,IDN,Brand C,Isi 2 Rasa Soto,Pack,3.5
+1811,CHN,Brand D,Cai Lin Ji Dry Noodles,Tray,3.3
+1812,USA,Brand E,Cup Noodles Salsa Picante Chicken,Cup,3
+1813,USA,Brand F,Bowl Noodle Savory Shrimp (New),Bowl,3.3
+1814,VNM,Brand G,Kingcook Beef,Pack,3
+1815,KOR,Brand A,Jin Ramen (Mild) (Import),Pack,3.5
+1816,IDN,Brand B,Mi Goreng Kriuuk Ayam,Pack,3.8
+1817,MYS,Brand C,Express Cup Curry,Cup,2.5
+1818,CAN,Brand D,Oriental,Pack,2.8
+1819,IDN,Brand E,Isi 2 Rasa Kari spesial,Pack,3.8
+1820,CHN,Brand F,Seafood,Bowl,3
+1821,IDN,Brand A,Rasa Sup Sayuran Vegan,Pack,2.3
+1822,THA,Brand B,TVP Stewed Pork,Bowl,3.5
+1823,USA,Brand C,Bowl Noodle Hot & Spicy Beef (New),Pack,3.5
+1824,IDN,Brand D,Mi Kuah Rasa Ayam Bawang,Pack,4
+1825,HKG,Brand E,Chicken,Pack,3.5
+1826,USA,Brand F,Cup Noodles Shrimp Picante Style,Cup,3.3
+1827,THA,Brand G,Oriental,Bowl,0.3
+1828,THA,Brand A,Mushroom Vegetarian,Bowl,1.8
+1829,THA,Brand B,Beef Pho,Bowl,3.8
+1830,IDN,Brand C,Kuah Rice Noodles,Pack,4.5
+1831,KOR,Brand D,Seafood Noodle Cup,Bowl,3.5
+1832,IDN,Brand E,2 Minute Noodles Tricky Tomato,Pack,3.3
+1833,TWN,Brand F,Kimchi Pickle Bean Vermicelli,Pack,1.5
+1834,USA,Brand G,Garlic Vegetable Rice Noodle,Pack,3.5
+1835,USA,Brand A,Big Cup Noodles Roast Chicken,Cup,3.3
+1836,USA,Brand B,Bowl Noodle Savory Lobster (New),Bowl,3.8
+1837,CHN,Brand C,Artificial Stew Pork,Bowl,3.3
+1838,IDN,Brand D,Mi Goreng Vegan,Pack,4.3
+1839,JPN,Brand E,Bikkuchigekara Big Chige,Bowl,3.8
+1840,KOR,Brand F,Udon ,Bowl,4.3
+1841,USA,Brand A,Ansungtangmyun (US Version),Pack,3.8
+1842,KOR,Brand B,Soba,Pack,4.3
+1843,USA,Brand C,Bowl Noodle Savory Tempura Udon,Bowl,3.5
+1844,KOR,Brand D,Shin Ramyun Black Onion,Cup,5
+1845,USA,Brand E,Bowl Noodle Spicy Kimchi (New),Bowl,3.8
+1846,USA,Brand F,Chow Mein (New),Pack,5
+1847,USA,Brand G,Naengmyeon Combo,Bowl,3.8
+1848,USA,Brand A,Spoon-it Chicken,Pack,3.5
+1849,CHN,Brand B,Artificial Mushroom Chicken,Bowl,1.3
+1850,KOR,Brand C,Jinjja Jinjja,Pack,5
+1851,PHL,Brand D,Instant Mami Beef,Pack,3.3
+1852,MYS,Brand E,Express Cup Tom Yum,Cup,3.8
+1853,ARE,Brand F,chicken,Pack,3.3
+1854,TWN,Brand G,Good Good Eat Super Ramen Vegetable,Pack,2.8
+1855,IDN,Brand A,Mi Goreng Sate (Local),Pack,5
+1856,CHN,Brand B,Artificial Spicy Beef,Bowl,3.5
+1857,JPN,Brand C,U.F.O. Yakiosoba,Bowl,3.8
+1858,VNM,Brand D,Chicken Shrimp,Pack,2.5
+1859,USA,Brand E,Yakisoba Spicy Vegetable,Tray,3.3
+1860,KOR,Brand F,Odongtong Myon Seafood,Bowl,2.8
+1861,IDN,Brand A,Mi Goreng Rasa Ayam Panggang Jumbo (Local),Pack,5
+1862,IDN,Brand B,Rasa Soto Betawi,Pack,4.5
+1863,IDN,Brand C,Curly Noodle With Chicken Chilli Paddi,Pack,4.3
+1864,IDN,Brand D,Rasa Mi Kocok Bandung,Pack,3.3
+1865,IDN,Brand E,Rasa Soto Banjar Limau Kulit,Pack,5
+1866,IDN,Brand F,Tom Yum Shrimp,Pack,5
+1867,IDN,Brand G,Cup Noodles Beef,Pack,5
+1868,IDN,Brand A,Cup Noodles Shrimp,Pack,4
+1869,IDN,Brand B,Oriental Kitchen Spicy Seafood,Pack,4
+1870,IDN,Brand C,Daily Hot & Spicy Tom Yun,Cup,5
+1871,IDN,Brand D,Curly Noodle With Laksa Chilli,Pack,3.5
+1872,IDN,Brand E,Mi Goreng Barbecue Chicken,Pack,5
+1873,JPN,Brand F,Seafood Ramen,Bowl,3.5
+1874,USA,Brand G,Bowl Noodle Savory Beef,Bowl,4
+1875,ARE,Brand A,Chicken Curry,Pack,3.8
+1876,USA,Brand B,Spoon-it Beef,Pack,3.3
+1877,KOR,Brand C,Kiss Myon,Pack,3.8
+1878,USA,Brand D,Ramen Bowl Spicy Chicken,Bowl,3.3
+1879,VNM,Brand E,Hu Tieu Ca Stewed Fish,Bowl,3.8
+1880,IDN,Brand F,Mi Goreng Rendang (Import),Pack,5
+1881,KOR,Brand A,Nature Is Delicious Spicy,Pack,3.8
+1882,USA,Brand B,Spoon-it Creamy Chicken,Pack,4
+1883,HKG,Brand C,Seaweed,Bowl,3.3
+1884,KOR,Brand D,Hearty Rice Noodle Beef,Pack,4.3
+1885,VNM,Brand E,Kung Fu Mixed Foods,Bowl,2.8
+1886,USA,Brand F,Chow Mein Spicy Chicken,Tray,3.3
+1887,TWN,Brand G,Pork Flavor Ramen,Pack,2.8
+1888,THA,Brand A,Noodle Soup Spicy Beef Garlic Onion,Bowl,3.3
+1889,TWN,Brand B,Man Han Feast Spring Onion Eel,Bowl,4.3
+1890,CHN,Brand C,KORn Style Beef,Cup,3.5
+1891,USA,Brand D,Chow Mein Chinese Chicken Vegetable,Tray,4
+1892,USA,Brand E,Spoon-it Rich Hearty Beef Stew,Pack,3.5
+1893,JPN,Brand F,Demae Ramen Black Garlic Oil Tonkotsu,Pack,4.5
+1894,USA,Brand G,Big Cup Noodles Lime Chili Shrimp,Cup,4
+1895,JPN,Brand A,Chikin Ramen (Local),Pack,5
+1896,USA,Brand B,Cup Noodles Salsa Picante Shrimp,Cup,3.5
+1897,USA,Brand C,Chow Mein Orange Chicken,Tray,4
+1898,USA,Brand D,Spoon-it Rich Hearty Savory Chicken,Pack,3.3
+1899,USA,Brand E,Big Cup Noodles Spicy Chicken,Cup,3.5
+1900,JPN,Brand F,JPNese Style Noodle Curry,Bowl,4.5
+1901,VNM,Brand A,Kingcook Chicken,Pack,3.5
+1902,CHN,Brand B,Stir Rice Vermicelli IDNn Gado Gado,Tray,2.3
+1903,KOR,Brand C,Tom Yum Shrimp,Pack,3.8
+1904,MYS,Brand D,Cup Noodles Beef,Cup,2
+1905,USA,Brand E,Cup Noodles Shrimp,Tray,3.8
+1906,THA,Brand F,Oriental Kitchen Spicy Seafood,Bowl,2.5
+1907,KOR,Brand G,Daily Hot & Spicy Tom Yun,Pack,3.8
+1908,HKG,Brand A,Cup Noodles Xo Sauce Seafood,Cup,3.8
+1909,IDN,Brand B,Mi Segera Mi Goreng Perisa Sambal Goreng,Pack,4.5
+1910,IDN,Brand C,Rasa Sup Buntut Oxtail Soup,Pack,2.8
+1911,CHN,Brand D,Artificial Seafood,Pack,3.8
+1912,KOR,Brand E,Udon Garlic Teriyaki,Pack,4.8
+1913,IDN,Brand F,Instant Cup Noodles Mi Goreng Satay,Cup,4.3
+1914,KOR,Brand G,Hearty Rice Noodle Black Bean Vegetable,Pack,3.8
+1915,VNM,Brand A,Kingcook Shrimp,Pack,2.8
+1916,MYS,Brand B,Express Cup Fried Onion Chicken,Cup,3.3
+1917,KOR,Brand C,Kitsune Udon,Bowl,4
+1918,CHN,Brand D,Shin Ramyun Shrimp,Pack,4.5
+1919,IDN,Brand E,Spicy Coconut Shrimp,Pack,4.8
+1920,KOR,Brand F,Nagasaki Jjampong,Pack,4.8
+1921,KOR,Brand A,Kko Kko Myun,Pack,5
+1922,KOR,Brand B,Hong Ramyun Soup Soy Peptide Mild,Pack,3.3
+1923,UK,Brand C,Chicken,Pack,3
+1924,UK,Brand D,Spicy Sweet & Sour,Pack,3
+1925,VNM,Brand E,Kung Fu Artificial Chicken Rice Noodle,Bowl,3.5
+1926,JPN,Brand F,Gozen Tempura,Bowl,4
+1927,VNM,Brand G,Kung Fu Vegetarian,Bowl,2
+1928,USA,Brand A,Ramen Bowl Kimchi,Bowl,3
+1929,TWN,Brand B,Black Rooster Chicken,Pack,1.5
+1930,THA,Brand C,Moo Nam Tok Rice Vermicelli,Pack,3.3
+1931,USA,Brand D,Bangkok Curry Rice Noodle,Pack,2.8
+1932,KOR,Brand E,Jjajangmen Black Bean,Pack,4
+1933,JPN,Brand F,Shokuh Kitsune Udon,Bowl,4.3
+1934,JPN,Brand G,Ponpoko Tempura Soba,Bowl,4.3
+1935,PHL,Brand A,Beef Na Beef,Pack,3.8
+1936,USA,Brand B,Ramen Bowl Spicy Shrimp,Bowl,3
+1937,KOR,Brand C,Hwa King Cup,Cup,3.5
+1938,CHN,Brand D,Onion,Pack,3.8
+1939,USA,Brand E,Ramen Bowl Hot & Spicy,Bowl,3.8
+1940,IDN,Brand F,Mie Telor Asli,Pack,3
+1941,THA,Brand A,Sour Spicy Chicken Tom Yum,Bowl,3.3
+1942,CHN,Brand B,Artificial Pork Ribs,Pack,4
+1943,JPN,Brand C,Shio,Pack,5
+1944,IDN,Brand D,Mi Segera Mi Sup Perisa Kari Ayam,Pack,4
+1945,CHN,Brand E,Artificial Chicken,Pack,4
+1946,UK,Brand F,Chicken & Mushroom,Cup,3.8
+1947,KOR,Brand G,Seafood Ramyun,Pack,3.8
+1948,THA,Brand A,Tom Yum Shrimp,Bowl,3.5
+1949,JPN,Brand B,Cup Noodles Beef,Bowl,4.3
+1950,KOR,Brand C,Cup Noodles Shrimp,Cup,3.8
+1951,KOR,Brand D,Oriental Kitchen Spicy Seafood,Bowl,3.8
+1952,TWN,Brand E,Daily Hot & Spicy Tom Yun,Pack,3.3
+1953,THA,Brand F,Spicy Beef,Cup,2.8
+1954,VNM,Brand G,Hao Hao Shrimp Onion,Pack,3
+1955,CHN,Brand A,Artificial Spicy Beef,Pack,4.3
+1956,JPN,Brand B,Gozen Kitsune Udon,Bowl,5
+1957,THA,Brand C,Yakisoba,Pack,3
+1958,SGP,Brand D,Chinese Mushroom Rice Noodle,Cup,2.5
+1959,JPN,Brand E,Tom Yam Ramen Pork,Pack,4.8
+1960,KOR,Brand F,Buckwheat Bibim Ramyon,Pack,1.1
+1961,CHN,Brand A,Sichuan Hot Pot Sweet Potato Thread,Bowl,0.5
+1962,KOR,Brand B,Seafood Selection,Pack,3.5
+1963,KOR,Brand C,JPNese Miso,Pack,2.8
+1964,THA,Brand D,XO Sauce,Bowl,1.3
+1965,TWN,Brand E,Kung Fu Artificial Mushroom Pork,Bowl,1.3
+1966,CHN,Brand F,Artificial Braised Beef,Pack,4.3
+1967,PHL,Brand G,Supreme La Paz Batchoy Beef Garlic,Bowl,3.5
+1968,VNM,Brand A,Spaghetti,Pack,3.8
+1969,KOR,Brand B,Yeul Hot Taste,Bowl,3.5
+1970,UK,Brand C,Bombay Bad Boy,Cup,4
+1971,CHN,Brand D,Artificial Pork,Pack,3.8
+1972,TWN,Brand E,"""A"" Series Vegetarian",Pack,3.3
+1973,JPN,Brand F,My Friend Vic Tanuki Udon,Bowl,4.8
+1974,KOR,Brand G,Jin Ramen Big Bowl (Hot),Bowl,3.5
+1975,VNM,Brand A,Phu Gia Bamboo Shoot Artificial Pork Bean Thread,Pack,1.3
+1976,JPN,Brand B,Ponpoko Tempura Udon,Bowl,4.8
+1977,KOR,Brand C,Cold Noodles By Dad,Pack,2.8
+1978,JPN,Brand D,Demae Iccho Sesame Oil Chicken Macaroni,Pack,3.8
+1979,IDN,Brand E,2 Minute Noodles Thrillin' Curry,Pack,2
+1980,JPN,Brand F,Tom Yam Prawn,Pack,4.5
+1981,HKG,Brand A,Superior Soup Rice Noodle,Pack,2.5
+1982,VNM,Brand B,Kung Fu Artificial Pork Flavor,Bowl,3
+1983,USA,Brand C,Tom Yum Shrimp,Tray,1.8
+1984,UK,Brand D,Cup Noodles Beef,Pack,2
+1985,TWN,Brand E,Cup Noodles Shrimp,Pack,3.3
+1986,TWN,Brand F,Oriental Kitchen Spicy Seafood,Pack,3.8
+1987,SGP,Brand G,Daily Hot & Spicy Tom Yun,Pack,5
+1988,UK,Brand A,Tom Yum Shrimp,Cup,1.5
+1989,KOR,Brand B,Cup Noodles Beef,Pack,4
+1990,THA,Brand C,Cup Noodles Shrimp,Cup,3.5
+1991,UK,Brand D,Oriental Kitchen Spicy Seafood,Pack,2
+1992,TWN,Brand E,Daily Hot & Spicy Tom Yun,Pack,3.8
+1993,KOR,Brand F,Oolongmen Artificial Seafood,Cup,3.5
+1994,TWN,Brand G,Tomato Vegetables,Pack,4
+1995,USA,Brand A,Ramen Noodle Soup Beef,Pack,3.3
+1996,PHL,Brand B,Pancit Canton Extra Hot Chili,Pack,4
+1997,THA,Brand C,Vegetarian,Cup,3.3
+1998,UK,Brand D,Super Noodles Sweet & sour,Pack,3.5
+1999,USA,Brand E,Lemongrass Chili Rice Noodle,Pack,1.5
+2000,USA,Brand F,Spring Onion Rice Noodle,Pack,3.8
+2001,KOR,Brand A,Asian Style Noodles Seafood,Bowl,3.5
+2002,KOR,Brand B,Chapagetti Chajang,Pack,4
+2003,UK,Brand C,Super Noodles Mild Curry,Pack,3.3
+2004,UK,Brand D,Super Noodles To Go Chinese Space Rib,Bowl,2.5
+2005,THA,Brand E,Chand Clear Soup,Bowl,3.5
+2006,VNM,Brand F,KORn Style Kim Chee,Bowl,4.3
+2007,VNM,Brand G,Tu Quy Pork,Pack,2.8
+2008,TWN,Brand A,Steam Vermicelli,Pack,2.1
+2009,TWN,Brand B,Bah Kut Tea Noodle For Vegetarians,Pack,3.3
+2010,TWN,Brand C,Artificial Onion Flavor Bean Thread,Bowl,1.5
+2011,CHN,Brand D,Single Noble Black Bone Chicken Sweet Potato Thread,Cup,0
+2012,VNM,Brand E,Phu Gia Cua Crab Bean Thread,Pack,2.3
+2013,USA,Brand F,Tofu & Miso,Pack,2.5
+2014,USA,Brand G,Mushroom,Pack,2.8
+2015,CHN,Brand A,Hot & Sour Casserole Stewed Rice Noodle,Pack,0
+2016,CHN,Brand B,Sichuan Pickled Sweet Potato Thread,Pack,1.8
+2017,KOR,Brand C,Shin Ramyun Black,Pack,4.8
+2018,UK,Brand D,Chinese Chow Mein,Cup,3
+2019,JPN,Brand E,Tempura Soba,Bowl,3.8
+2020,UK,Brand F,Tom Yum Shrimp,Pack,3.5
+2021,IDN,Brand A,Cup Noodles Beef,Pack,3.8
+2022,VNM,Brand B,Cup Noodles Shrimp,Bowl,2
+2023,USA,Brand C,Oriental Kitchen Spicy Seafood,Tray,3
+2024,JPN,Brand D,Daily Hot & Spicy Tom Yun,Pack,3.3
+2025,KOR,Brand E,Keopnurungji Rice Snack,Cup,2.5
+2026,VNM,Brand F,Kung Fu Suc Song Artificial Pork,Bowl,3
+2027,KOR,Brand G,Gomtang,Cup,4
+2028,JPN,Brand A,Soy Sauce,Bowl,3.5
+2029,KOR,Brand B,DJ DOC Jjolmyeon,Bowl,5
+2030,UK,Brand C,Super Noodles To Go Curry,Bowl,4
+2031,TWN,Brand D,One More Cup Kimchi,Cup,3.8
+2032,THA,Brand E,Duck,Pack,3.3
+2033,UK,Brand F,Super Noodles Bacon,Pack,4.3
+2034,KOR,Brand G,Vegetable,Pack,3.3
+2035,JPN,Brand A,Ippeichan Soy Sauce,Bowl,4
+2036,THA,Brand B,Quick Tom Yum Shrimp,Cup,3
+2037,CHN,Brand C,Crystal Noodles Vegetables,Bowl,1.5
+2038,UK,Brand D,Super Noodles Souther Fried Chicken,Pack,3.8
+2039,IDN,Brand E,Mi Goreng Perisa Asli,Pack,4.8
+2040,UK,Brand F,Super Noodles Chinese Chow Mein,Pack,2.8
+2041,THA,Brand A,Shrimp Tom Yum Flavor,Pack,3.5
+2042,KOR,Brand B,60 Ingredients,Cup,2.8
+2043,IDN,Brand C,Kuah Rasa Baso Sapi Rice Noodles,Pack,3
+2044,UK,Brand D,Super Noodles Chicken,Pack,3.3
+2045,JPN,Brand E,Taisho Fried Noodle Yakisoba,Pack,4.3
+2046,IDN,Brand F,Supreme Soto,Pack,4
+2047,UK,Brand G,Original Curry,Cup,3.8
+2048,PHL,Brand A,Pancit Canton Sweet Spicy,Pack,5
+2049,THA,Brand B,Vegetable,Pack,3.5
+2050,CHN,Brand C,KORn Style Spicy Beef,Pack,3.5
+2051,NLD,Brand D,Good Noodles Chicken,Pack,3.5
+2052,JPN,Brand E,Curry Udon,Bowl,4.8
+2053,IDN,Brand F,Mi SupArtificial Chicken Special,Pack,3
+2054,THA,Brand G,Chicken,Pack,3.5
+2055,USA,Brand A,Top Ramen Chicken,Pack,3.3
+2056,JPN,Brand B,Demae Ramen Chicken,Pack,3
+2057,PHL,Brand C,Lomi Seafood Vegetable,Pack,0.5
+2058,THA,Brand D,Pad Kee Mao Drunken,Pack,2
+2059,KOR,Brand E,Yeul Ramyun,Pack,4.3
+2060,THA,Brand F,Chicken Flavor,Pack,0.9
+2061,THA,Brand A,Pho Ga,Pack,3.1
+2062,KOR,Brand B,Gomtang,Pack,4.8
+2063,HKG,Brand C,Spicy Tomkotsu,Pack,4.3
+2064,THA,Brand D,Beef,Pack,3.3
+2065,THA,Brand E,Artificial Shrimp Tom yum,Bowl,3.5
+2066,USA,Brand F,Hot Spicy Chicken,Pack,2
+2067,NLD,Brand G,Tom Yum Shrimp,Pack,3.8
+2068,THA,Brand A,Cup Noodles Beef,Bowl,2.8
+2069,USA,Brand B,Cup Noodles Shrimp,Pack,1.5
+2070,CHN,Brand C,Oriental Kitchen Spicy Seafood,Pack,3.8
+2071,HKG,Brand D,Daily Hot & Spicy Tom Yun,Cup,3.8
+2072,CHN,Brand E,Artificial Hot & Sour Shrimp,Bowl,4.5
+2073,KOR,Brand F,Hot Beef,Pack,4.3
+2074,JPN,Brand G,Soy Sauce,Bowl,4.3
+2075,TWN,Brand A,Vegetarian Rice Noodles,Bowl,0.3
+2076,SGP,Brand B,Beijing Vegetable Rice Noodle,Cup,2
+2077,CHN,Brand C,Artificial Chicken,Bowl,4.5
+2078,USA,Brand D,Thai Ginger Rice Noodle,Pack,4.3
+2079,KOR,Brand E,Champong Spicy Seafood,Bowl,3.5
+2080,USA,Brand F,Imitation Beef,Cup,2.5
+2081,JPN,Brand A,Sanukiya Fresh Spicy Ramen,Bowl,3
+2082,CHN,Brand B,Artificial Onion,Bowl,4
+2083,KOR,Brand C,Big Bowl Noodle,Bowl,3.8
+2084,JPN,Brand D,Miso,Bowl,2.8
+2085,SGP,Brand E,KORn Kimchi Rice Noodle,Cup,3.8
+2086,TWN,Brand F,Kung Fu Shrimp,Bowl,4
+2087,KOR,Brand G,Beef,Cup,3.8
+2088,CHN,Brand A,Artificial Seafood,Bowl,3.8
+2089,KOR,Brand B,Oolongmen Beef,Cup,2.5
+2090,CHN,Brand C,Artificial Spicy Beef,Pack,3.5
+2091,PAK,Brand D,Pizza,Pack,3
+2092,THA,Brand E,Miso,Pack,1
+2093,THA,Brand F,Beef Rice Stick,Bowl,2
+2094,KOR,Brand G,Neoguri Mild,Pack,3.3
+2095,USA,Brand A,Soupless Ramen Shallot Teriyaki,Pack,2.5
+2096,CHN,Brand B,Artificial Beef,Bowl,4.8
+2097,TWN,Brand C,Tiny Noodle With Oyster Flavor,Pack,0
+2098,JPN,Brand D,Demae Iccho Seafood & Abalone Macaroni,Pack,4
+2099,USA,Brand E,Yakisoba Shrimp,Tray,2.8
+2100,KOR,Brand F,Jin Ramen (Mild),Pack,3.3
+2101,SGP,Brand A,Tomato Seafood Rice Noodle,Cup,3.5
+2102,KOR,Brand B,Fresh Ramen Spicy,Pack,3
+2103,VNM,Brand C,Phoya Rice Noodles Beef,Bowl,2.8
+2104,CHN,Brand D,Artificial Stew Beef,Pack,3.8
+2105,KOR,Brand E,DJ DOC Instant rice Ramen Topokki,Bowl,5
+2106,CHN,Brand F,Stew Pork,Pack,3.3
+2107,HKG,Brand G,Big Bowl Crab ,Bowl,3.5
+2108,HKG,Brand A,Big Bowl Artificial Chicken,Bowl,2.8
+2109,CHN,Brand B,JPNese U-Don Lobster Scallop,Pack,3
+2110,KOR,Brand C,Hot & Spicy Ramen,Cup,3
+2111,KOR,Brand D,Bekse Curry Myon,Cup,4.3
+2112,JPN,Brand E,Yellow Buckwheat,Bowl,4.5
+2113,JPN,Brand F,Shio,Bowl,4.5
+2114,USA,Brand G,Roasted Garlic Rice Noodle,Bowl,3.8
+2115,USA,Brand A,Mushroom Rice Noodle,Bowl,3.3
+2116,KOR,Brand B,Tom Yum Shrimp,Pack,3.8
+2117,TWN,Brand C,Cup Noodles Beef,Pack,1.8
+2118,KOR,Brand D,Cup Noodles Shrimp,Pack,3
+2119,USA,Brand E,Oriental Kitchen Spicy Seafood,Bowl,1.8
+2120,USA,Brand F,Daily Hot & Spicy Tom Yun,Pack,3.3
+2121,VNM,Brand A,Kung Fu Rice Noodle Shrimp Crab ,Bowl,3.8
+2122,JPN,Brand B,Ramen-Desse Miso Soybean Paste,Bowl,4.5
+2123,USA,Brand C,Spring Onion Rice Noodle,Bowl,3.8
+2124,USA,Brand D,Lemongrass ginger,Pack,1.5
+2125,USA,Brand E,Ramen Noodle Soup Chicken Mushroom,Pack,3.3
+2126,USA,Brand F,Chicken,Pack,3.5
+2127,KOR,Brand G,Snack Noodle slightly Hot,Pack,3.8
+2128,VNM,Brand A,Tu Quy Sour Spicy Shrimp,Pack,1.8
+2129,VNM,Brand B,Kung Fu Rice Noodle Artificial Beef,Bowl,3.5
+2130,USA,Brand C,Souper Meal Picante Shrimp Hot Spicy,Bowl,2.8
+2131,THA,Brand D,Vegetable,Pack,3.3
+2132,KOR,Brand E,Ppushu Ppushu Barbecue,Pack,3
+2133,USA,Brand F,Top Ramen Shrimp,Pack,3.5
+2134,KOR,Brand G,Sutah Hot Spicy Beef,Pack,3.5
+2135,JPN,Brand A,Tempura Udon,Bowl,5
+2136,USA,Brand B,Imitation Chicken Vegetarian,Pack,3
+2137,TWN,Brand C,Kung Fu Artificial Beef Rice Noodle,Bowl,3.8
+2138,MYS,Brand D,Harmee Mee goreng Prawn,Pack,4.5
+2139,TWN,Brand E,Kung Fu Artificial Szechuan Pork,Bowl,3.8
+2140,CHN,Brand F,Single Noble Pickled Radish & Duck,Cup,0.3
+2141,USA,Brand A,Asian Vegetable,Pack,1.5
+2142,USA,Brand B,Bowl Noodle Savory Chicken,Bowl,3.3
+2143,JPN,Brand C,Hyoubanya No Chukasoba Soy Sauce,Pack,4
+2144,JPN,Brand D,Ippeichan Soybean Paste,Bowl,4
+2145,KOR,Brand E,Ppushu Ppushu Tteobokki,Pack,3.3
+2146,TWN,Brand F,Beef Flavor Ramen,Pack,4.3
+2147,TWN,Brand G,Kung Fu Artificial Sesame Chicken,Bowl,3.8
+2148,VNM,Brand A,Little Prince Bacon,Pack,4.8
+2149,HKG,Brand B,Noodle King Hong Koing Style Wonton,Bowl,2.3
+2150,TWN,Brand C,TWN Style Chow Mein,Pack,2.3
+2151,KOR,Brand D,Chicken,Pack,3.3
+2152,PHL,Brand E,N-Rich Chicken Tinola,Pack,4
+2153,KOR,Brand F,Kalguksoo,Pack,4.5
+2154,KOR,Brand G,Spice Seafood,Pack,3.8
+2155,USA,Brand A,Instant Lunch Hot spicy Beef,Cup,2.8
+2156,THA,Brand B,Tom Yum Seafood Creamy,Bowl,3
+2157,KOR,Brand C,Beef,Bowl,3.8
+2158,KOR,Brand D,Big Bowl Spicy Kimchi,Bowl,3.3
+2159,TWN,Brand E,Tom Yum Shrimp,Bowl,3.8
+2160,IDN,Brand F,Cup Noodles Beef,Pack,4.3
+2161,IDN,Brand A,Cup Noodles Shrimp,Pack,4.5
+2162,PHL,Brand B,Oriental Kitchen Spicy Seafood,Bowl,3.3
+2163,TWN,Brand C,Daily Hot & Spicy Tom Yun,Bowl,2.5
+2164,TWN,Brand D,Chinese Onion Rice Noodle,Pack,2.8
+2165,PHL,Brand E,Pancit Canton toyo Mansi,Pack,5
+2166,PHL,Brand F,Chicken Mami,Pack,3.8
+2167,CHN,Brand G,E Menm Chicken,,3.8
+2168,SGP,Brand A,Mi Hai Cua Crab Flavor,Pack,5
+2169,VNM,Brand B,Tu quy Chicken,Pack,3
+2170,USA,Brand C,Shrimp Udon,Pack,4.5
+2171,TWN,Brand D,Noodle With Sesame Sauce,Pack,3.3
+2172,KOR,Brand E,Shin Cup,Cup,3
+2173,VNM,Brand F,Mi Lau Thai Thai Stle,Bowl,4
+2174,JPN,Brand G,Kakesoba Desse Soy Sauce,Bowl,2.8
+2175,USA,Brand A,Beef Flavorc,Cup,3.5
+2176,JPN,Brand B,Ramen Desse Shio,Bowl,4.3
+2177,TWN,Brand C,Udon Noodle Soup Oriental,Pack,3.8
+2178,VNM,Brand D,Tu Quy Spicy Beef,Pack,3.5
+2179,USA,Brand E,Chicken Flavor,Cup,3.8
+2180,TWN,Brand F,Artificial Classic Beef,Bowl,3.8
+2181,HKG,Brand A,Artificial Beef Flavor,Pack,2.5
+2182,TWN,Brand B,Alimentary Paste Chow Mein,Pack,4.3
+2183,JPN,Brand C,Midori No Tanuki,Bowl,4.2
+2184,THA,Brand D,Crab Vermicelli,Bowl,3.3
+2185,PHL,Brand E,Instant Bulalo Bone Marrow,Pack,3.8
+2186,PHL,Brand F,Instant Mami Chicken,Pack,4
+2187,VNM,Brand G,3 Mien Mi Tom Chua Cay Hot sour Shrimp,Pack,2.3
+2188,KOR,Brand A,Snack Ramyon,Cup,3.5
+2189,VNM,Brand B,Asian Style Instant Noodles Beef,Pack,3.8
+2190,MYS,Brand C,Harmee Prawn,Pack,3.3
+2191,VNM,Brand D,Hao Hao Sate Onion,Pack,3.8
+2192,USA,Brand E,Instant Lunch Lime Flavor with Shrimp,Cup,2.3
+2193,HKG,Brand F,Noodle King Scallop Thick,Bowl,3
+2194,JPN,Brand G,Suudon Desse Soy Sauce,Bowl,4.3
+2195,HKG,Brand A,Cup Noodles Seafood Curry,Cup,4.3
+2196,KOR,Brand B,Spicy Seafood,Cup,3.8
+2197,KOR,Brand C,Bowl Noodle Beef With Vegetables,Bowl,3.8
+2198,PHL,Brand D,Quickie Mami La Paz Batchoy,Cup,3
+2199,VNM,Brand E,Bestcook Hot spicy Tom Yum Shrimp,Bowl,4.3
+2200,KOR,Brand F,Jin Ramen (Mild),Cup,3
+2201,KOR,Brand A,Hwa Cup Hot Spicy,Cup,3.5
+2202,CHN,Brand B,Dried Mix Noodles XO Sauce,Tray,2
+2203,JPN,Brand C,Yakisoba Noodles Karashi,Tray,5
+2204,JPN,Brand D,Hyoubanya No Chukasoba Oriental,Pack,4.3
+2205,JPN,Brand E,Curry Soba,Bowl,4
+2206,THA,Brand F,Vegetarian Tom Yum,Pack,2.8
+2207,USA,Brand G,Instant Lunch Cheddar Cheese,Cup,2.8
+2208,USA,Brand A,Bowl Noodles Rich & Savory Beef,Bowl,3.8
+2209,USA,Brand B,Fu Chang Chinese Noodle Company Pork Seafood,Tray,0
+2210,TWN,Brand C,Hot Of Hots Artificial Black Peppered Beef,Bowl,1.3
+2211,JPN,Brand D,Demae Iccho Tom Yam Goong Macaroni,Pack,4
+2212,PHL,Brand E,Chicken Na Chicken,Pack,2.8
+2213,PHL,Brand F,N-Rich Artificial Chicken With Ginger,Pack,2.5
+2214,VNM,Brand G,Kung Fu Artificial Beef Rice Noodle,Pack,4.3
+2215,KOR,Brand A,Pho VNMese Noodle Soup,Tray,3.8
+2216,USA,Brand B,Chow Mein Thai Peanut,Tray,2.5
+2217,TWN,Brand C,Hot Of Hots Artificial Satay Beef,Bowl,3.8
+2218,HKG,Brand D,Ho Fan Abalone Chicken,Bowl,4
+2219,HKG,Brand E,Noodle King Lobster Thick,Bowl,2.8
+2220,VNM,Brand F,Pho Bo Beef Rice Noodle,Pack,0.5
+2221,VNM,Brand A,Asian Style Instant Noodles Shrimp,Pack,3.8
+2222,USA,Brand B,Cup Noodles Chicken Vegetable,Cup,2.8
+2223,CAN,Brand C,Spicy Thai,Bowl,0.5
+2224,USA,Brand D,Chow Noodles Alfredo,Tray,3.8
+2225,HKG,Brand E,Superior Soup,Pack,5
+2226,KOR,Brand F,Tofu Udon Dosirak,Tray,3.8
+2227,THA,Brand G,Chili Pork,Cup,3.5
+2228,VNM,Brand A,Kung Fu Artificial Chicken,Pack,3.3
+2229,PHL,Brand B,Pancit Shanghai,Pack,2.8
+2230,SGP,Brand C,Cup Noodles Prawn,Cup,3.3
+2231,HKG,Brand D,Noodle King Beef HKG Style,Bowl,2.5
+2232,JPN,Brand E,Demae Iccho Tonkotsu Macaroni,Pack,3.5
+2233,VNM,Brand F,Daily Hot & Sour With Shrimp,Pack,4.5
+2234,USA,Brand G,Vermicelli With Pork,Bowl,1.3
+2235,USA,Brand A,Cup Noodles Hearty Chicken,Cup,2.5
+2236,USA,Brand B,Bowl Noodles Hot & Spicy Beef,Bowl,3.8
+2237,HKG,Brand C,Spicy Artificial Pork,Pack,3.8
+2238,PHL,Brand D,Xtra Big Kalamansi Pancit Canton,Pack,4
+2239,USA,Brand E,Ramen Noodle Soup Roast Beef,Pack,2.8
+2240,KOR,Brand F,Noodle Lite 275 Udon Mushroom,Bowl,2.5
+2241,USA,Brand A,Instant Lunch Chicken 35% Less Sodium,Cup,3
+2242,USA,Brand B,Top Ramen Chili,Pack,3.3
+2243,USA,Brand C,Ramen Noodle Soup Chili,Pack,2.8
+2244,USA,Brand D,Top Ramen Picante Beef,Pack,3
+2245,USA,Brand E,Souper Meal Tomato Garlic Shrimp,Bowl,3.5
+2246,KOR,Brand F,Ramen Bokki,Bowl,3.3
+2247,KOR,Brand G,Bowl Noodle Kimchi,Bowl,3.5
+2248,TWN,Brand A,Mi Chay Vegetarian,Pack,1.8
+2249,KOR,Brand B,Bowl Noodle Spicy Artificial Chicken,Bowl,3.2
+2250,JPN,Brand C,Charumera Shoyu,Pack,3.5
+2251,KOR,Brand D,Stirfried Kimchi,Pack,3.8
+2252,IDN,Brand E,Goreng Rice Noodles,Pack,4.5
+2253,KOR,Brand F,Shin Big Bowl,Bowl,3.5
+2254,VNM,Brand G,Daily Vegetarian,Pack,3.8
+2255,JPN,Brand A,JPNese Style Tokusen Shoyu,Pack,4
+2256,PHL,Brand B,Xtra Big Chilimansi Pancit Canton,Pack,4.5
+2257,USA,Brand C,Big Cup Noodles Chicken,Cup,2.3
+2258,USA,Brand D,Ramen Noodle Soup Creamy Chicken,Pack,5
+2259,KOR,Brand E,Instant Noodles With Soup,Pack,3.5
+2260,JPN,Brand F,Hot & Spicy Beef,Bowl,3.5
+2261,USA,Brand A,Big Cup Noodles Beef,Cup,2.2
+2262,USA,Brand B,Big Cup Noodles Shrimp,Cup,2.3
+2263,KOR,Brand C,Champong Oriental Noodles,Cup,3.8
+2264,THA,Brand D,Crab Noodle,Bowl,4.5
+2265,VNM,Brand E,Phu Gia Instant Bean Thread Chicken,Pack,3.3
+2266,THA,Brand F,Artificial Beef Flavor,Bowl,3.5
+2267,KOR,Brand G,Big Bowl Udon,Bowl,4.5
+2268,VNM,Brand A,3 Mien Mi Tom Hum Lobster,Pack,3.5
+2269,THA,Brand B,TVP Curry Chicken,Bowl,4
+2270,THA,Brand C,Artificial Pork,Bowl,3.5
+2271,KOR,Brand D,Big Bowl Spicy Shrimp,Bowl,3.5
+2272,KOR,Brand E,Jin Ramen (Hot),Cup,3.5
+2273,TWN,Brand F,Shrimp Fish,Bowl,3.8
+2274,THA,Brand G,TVP Spicy Beef,Bowl,4.8
+2275,USA,Brand A,Ramen Noodle Soup Spicy Picante Chicken,Pack,4
+2276,USA,Brand B,Ramen Noodle Soup Oriental,Pack,3.8
+2277,TWN,Brand C,Tom Yum Shrimp,Bowl,3.3
+2278,USA,Brand D,Cup Noodles Beef,Tray,4
+2279,TWN,Brand E,Cup Noodles Shrimp,Bowl,3.5
+2280,TWN,Brand F,Oriental Kitchen Spicy Seafood,Bowl,2.8
+2281,KOR,Brand A,Daily Hot & Spicy Tom Yun,Tray,2.5
+2282,KOR,Brand B,Dosirac Shrimp,Tray,4.3
+2283,PHL,Brand C,Supreme Bulalo Artificial Bone Marrow,Bowl,1.8
+2284,VNM,Brand D,Tasty Mushroom,Pack,2
+2285,PHL,Brand E,La Paz Batchoy Beef,Pack,2.5
+2286,KOR,Brand F,Dosirac Beef,Tray,3.8
+2287,USA,Brand G,Imitation Chicken Vegetarian,Pack,3.8
+2288,THA,Brand A,Vegetarian Tom Yum,Cup,2.8
+2289,KOR,Brand B,Rice Noodle Anchovy Flavor,Tray,3.8
+2290,PHL,Brand C,Supreme Special Beef Carne De Vaca,Bowl,3.8
+2291,THA,Brand D,Pho Bo Rice Noodle Artificial Beef,Bowl,3.5
+2292,KOR,Brand E,Dosirac Artificial Chicken,Tray,3.3
+2293,KOR,Brand F,Bowl Noodle Picante Beef,Bowl,3.8
+2294,CHN,Brand G,Guilin Style Rice Vermicelli,Bowl,4.5
+2295,TWN,Brand A,Steam Spinach Ramen With Onion,Pack,5
+2296,PHL,Brand B,Supreme Sotanghon Artificial Chicken Vermicelli ,Bowl,3.8
+2297,KOR,Brand C,Hearty Rice Noodle Spicy Veggie Consomme,Pack,2.8
+2298,KOR,Brand D,Rice Noodle Hot & Spicy Kimchi,Tray,3.3
+2299,HKG,Brand E,Cup Noodles Crab,Cup,3.3
+2300,JPN,Brand F,Soybean Paste,Bowl,4.5
+2301,KOR,Brand A,Tom Yum Shrimp,Pack,3.8
+2302,TWN,Brand B,Cup Noodles Beef,Bowl,0
+2303,KOR,Brand C,Cup Noodles Shrimp,Pack,3.8
+2304,KOR,Brand D,Oriental Kitchen Spicy Seafood,Bowl,3
+2305,HKG,Brand E,Daily Hot & Spicy Tom Yun,Pack,3
+2306,KOR,Brand F,Cup Noodles Shrimp,Pack,2
+2307,KOR,Brand G,Oriental Kitchen Spicy Seafood,Pack,3.3
+2308,KOR,Brand A,Daily Hot & Spicy Tom Yun,Cup,3.8
+2309,JPN,Brand B,Hyoubanya No Yakisoba Oriental,Tray,4
+2310,HKG,Brand C,Artificial Chicken,Pack,4.5
+2311,HKG,Brand D,Cup Noodles Seafood,Cup,4.5
+2312,KOR,Brand E,King Cup Kimchi Pot Stew,Cup,4
+2313,HKG,Brand F,Pickled Vegetable,Pack,4.3
+2314,THA,Brand G,Oriental Kitchen Hot Spicy,Cup,3
+2315,KOR,Brand A,Rice Noodle Katsuo,Tray,4
+2316,KOR,Brand B,Rice Noodles Seafood,Tray,3.8
+2317,USA,Brand C,Udon Mushroom,Pack,3
+2318,VNM,Brand D,Oh! Ricey Beef Rice Noodles,Pack,4
+2319,THA,Brand E,Chili Paste Tom Yum,Pack,3.3
+2320,THA,Brand F,Cup Shrimp Tom Yum Flavor,Cup,3.8
+2321,TWN,Brand A,Kung Fu Artificial Soybean Paste,Pack,4
+2322,THA,Brand B,Minced Pork Tom Yum,Pack,2.5
+2323,VNM,Brand C,Mi Lau Thai Artificial Chicken,Pack,3.5
+2324,KOR,Brand D,KORn Noodle Kimchi Flavor,Pack,3.5
+2325,TWN,Brand E,Dried Noodle With BBQ Pork,Pack,2
+2326,KOR,Brand F,Spicy Shrimp Bowl,Bowl,3.5
+2327,USA,Brand G,Cup Noodles Spicy Chile Chicken,Cup,3.5
+2328,THA,Brand A,Pork,Cup,2
+2329,VNM,Brand B,Mi Lau Thai Shrimp,Pack,4
+2330,USA,Brand C,Cup Noodles Chicken,Cup,3.5
+2331,VNM,Brand D,Hao Hao Sour Hot Shrimp,Pack,3.8
+2332,USA,Brand E,Chow Mein Kung Pao Chicken,Tray,1.5
+2333,VNM,Brand F,Daily Beef Ball,Pack,3.8
+2334,VNM,Brand G,Oh! Ricey Chicken,Pack,3.8
+2335,USA,Brand A,Bowl Noodles Hot & Spicy Shrimp,Bowl,3.5
+2336,VNM,Brand B,Mi Lau Thai Seafood,Pack,4
+2337,THA,Brand C,Tom Yum Shrimp,Cup,3.3
+2338,USA,Brand D,Cup Noodles Beef,Cup,3.5
+2339,USA,Brand E,Cup Noodles Shrimp,Cup,3.5
+2340,THA,Brand F,Oriental Kitchen Spicy Seafood,Cup,3.8
+2341,VNM,Brand A,Daily Hot & Spicy Tom Yun,Pack,4
+2342,USA,Brand B,Bowl Noodle Spicy Seafood,Bowl,4.3
+2343,USA,Brand C,Udon Chicken,Pack,3.3
+2344,USA,Brand D,Seaweed Instant Noodle,Pack,3.5
+2345,TWN,Brand E,Beef Ramen,Pack,3.8
+2346,TWN,Brand F,Chicken Ramen,Pack,3.8
+2347,SGP,Brand G,Shoyu Ramen,Pack,4.8
+2348,JPN,Brand A,Miso Ramen,Pack,3
+2349,THA,Brand B,Curry Ramen,Pack,3
+2350,KOR,Brand C,Tom Yum Ramen,Pack,3.8
+2351,JPN,Brand D,Chicken Instant Noodle,,4.8
+2352,JPN,Brand E,Mushroom Instant Noodle,,4.5
+2353,THA,Brand F,Beef and Mushroom Instant Noodle,,2
+2354,USA,Brand G,Kimchi Ramen,,4
+2355,JPN,Brand A,Shoyu Ramen,,4.5
+2356,KOR,Brand B,Shoyu Ramen,,1.8
+2357,USA,Brand C,Shoyu Ramen,Bowl,4
+2358,SGP,Brand D,Spicy Seafood Marinara,Bowl,3
+2359,SGP,Brand E,Spicy Sesame,Pack,5
+2360,SGP,Brand F,Curry,Pack,4.3
+2361,JPN,Brand A,Udon Shrimp,Pack,3.8
+2362,SGP,Brand B,Tom Yum Rice Noodles,Bowl,3.5
+2363,IDN,Brand C,Mi Goreng Jumbo Beef,Pack,5
+2364,IDN,Brand D,Onion Chicken,Pack,4.5
+2365,PHL,Brand E,Supreme Instant Mami Noodles With Free Crackers,Bowl,3.8
+2366,JPN,Brand F,Udon Chicken,Pack,3.8
+2367,VNM,Brand G,Pho Ga Instant rice Noodle,Bowl,2
+2368,PHL,Brand A,Bihon Guisado Rice Noodle,Pack,1.8
+2369,USA,Brand B,Chow Noodles Cheddar Cheese,Tray,4
+2370,KOR,Brand C,Snack Ramyon,Pack,3.8
+2371,THA,Brand D,Instant Bowl Noodles Artificial Pork,Bowl,2.8
+2372,SGP,Brand E,Laksa Singapura,Bowl,4.3
+2373,JPN,Brand F,Udon Crab,Pack,3
+2374,USA,Brand G,Top Ramen Beef,Pack,3.8
+2375,TWN,Brand A,Good Good Eat Super Ramen Original,Pack,3
+2376,KOR,Brand B,Tom Yam Instant soup Noodle,Pack,2.8
+2377,USA,Brand C,Yakisoba Sweet & Sour Chicken,Tray,3
+2378,KOR,Brand D,Bowl Noodle Kimchi,Bowl,4
+2379,USA,Brand E,Instant Lunch Roast Chicken Flavor,Cup,2.8
+2380,USA,Brand F,Seaweed Instant Noodle,Tray,2
+2381,USA,Brand A,Beef Ramen,Tray,2
+2382,USA,Brand B,Chicken Ramen,Bowl,4
+2383,USA,Brand C,Shoyu Ramen,Tray,3.8
+2384,VNM,Brand D,Miso Ramen,Tray,3.5
+2385,CHN,Brand E,Curry Ramen,Pack,2.5
+2386,USA,Brand F,Tom Yum Ramen,Bowl,3
+2387,CHN,Brand G,Chicken Instant Noodle,Pack,4.3
+2388,USA,Brand A,Mushroom Instant Noodle,Pack,3.5
+2389,KOR,Brand B,Beef and Mushroom Instant Noodle,Bowl,3
+2390,USA,Brand C,Kimchi Ramen,Pack,4.5
+2391,USA,Brand D,Shoyu Ramen,Bowl,2.5
+2392,USA,Brand E,Shoyu Ramen,Bowl,2
+2393,USA,Brand F,Shoyu Ramen,Bowl,3.3
+2394,USA,Brand G,Bowl Noodle Beef Ginger,Bowl,3.5
+2395,USA,Brand A,Bowl Noodle Spicy Chicken,Bowl,4.5
+2396,KOR,Brand B,Chinese Soybean Paste,Pack,2
+2397,JPN,Brand C,Sanukiya Somen,Bowl,4.3
+2398,KOR,Brand D,Rice Noodle With Spicy Flavored Soup,Tray,2.3
+2399,IDN,Brand E,Cup Noodles Pani Puri,Cup,1.5
+2400,JPN,Brand F,Chukazanmai Served Cool Sesame Flavored Rice Vinegar Sesame,Pack,3
+2401,VNM,Brand A,Kung Fu Instant Rice Noodles Artificial Chicken,Pack,3.5
+2402,THA,Brand B,Shrimp Tom Yum Flavor,Bowl,2.5
+2403,KOR,Brand C,Soy Flavor Noodle,Pack,4.3
+2404,TWN,Brand D,Steamed Noodle Chinese Herbs,Pack,3.3
+2405,MYS,Brand E,Perencah Tom Yam,Pack,2.9
+2406,IDN,Brand F,Cup Noodles Manchurian,Cup,3
+2407,KOR,Brand G,Udon,Pack,4
+2408,KOR,Brand A,Hwa Ramyun Soy Peptide,Pack,4
+2409,KOR,Brand B,Teumsae Ramyun,Pack,3.5
+2410,JPN,Brand C,Sanukiya Udon,Bowl,3.8
+2411,JPN,Brand D,Chukazanmai Soy Sauce,Pack,3.8
+2412,USA,Brand E,Bowl Noodles Hot & Spicy Chicken,Bowl,2
+2413,JPN,Brand F,Chukazanmai Soy Sauce chili Oil,Pack,3.3
+2414,CHN,Brand G,Noodle King Thin Wonton,Pack,2
+2415,JPN,Brand A,Hyobanya No Yakisoba Sauce Flavor,Tray,4.8
+2416,THA,Brand B,Kimchi,Pack,3
+2417,THA,Brand C,Oriental Style Clear Soup,Pack,2
+2418,VNM,Brand D,Hu Tieu Bo Kho An Lien Beef,Pack,3.8
+2419,KOR,Brand E,Dosirac Pork,Tray,4.2
+2420,KOR,Brand F,Cold Ramen With Ponytail Radish,Pack,3
+2421,PHL,Brand A,Sotanghon Artificial Chicken,Pack,0.3
+2422,TWN,Brand B,Instant Bean Vermicelli Shrimp,Pack,1.5
+2423,THA,Brand C,Flat Noodle Tom Yum,Pack,3.8
+2424,KOR,Brand D,JPNese Seafood Flavor Udon,Pack,3.8
+2425,JPN,Brand E,Chukazanmai Soybean Paste,Pack,3.5
+2426,KOR,Brand F,Seafood Party,Pack,2.3
+2427,JPN,Brand G,JPNese Style Noodle Fresh Udon,Bowl,3.8
+2428,THA,Brand A,Crab Instant Rice Vermicelli,Pack,2.5
+2429,USA,Brand B,Garlic Pepper,Pack,3.3
+2430,HKG,Brand C,Seaweed Instant Noodle,Pack,
+2431,TWN,Brand D,Beef Ramen,Pack,
+2432,VNM,Brand E,Chicken Ramen,Pack,
+2433,JPN,Brand F,Shoyu Ramen,Pack,
+2434,KOR,Brand G,Miso Ramen,Pack,
+2435,JPN,Brand A,Curry Ramen,Bowl,
+2436,THA,Brand B,Tom Yum Ramen,Pack,1.8
+2437,THA,Brand C,Chicken Instant Noodle,Cup,2.5
+2438,PHL,Brand D,Mushroom Instant Noodle,Cup,2
+2439,USA,Brand E,Beef and Mushroom Instant Noodle,Cup,3
+2440,PHL,Brand F,Kimchi Ramen,Pack,4.8
+2441,USA,Brand A,Shoyu Ramen,Cup,1.8
+2442,USA,Brand B,Shoyu Ramen,Cup,1.8
+2443,TWN,Brand C,Shoyu Ramen,Pack,4.5
+2444,JPN,Brand D,Chicken Ramen,Pack,3
+2445,KOR,Brand E,Shoyu Ramen,Bowl,4.3
+2446,JPN,Brand F,Miso Ramen,Bowl,4
+2447,JPN,Brand G,Curry Ramen,Pack,3.8
+2448,JPN,Brand A,Tom Yum Ramen,Pack,5
+2449,THA,Brand B,Chicken Instant Noodle,Pack,2.5
+2450,JPN,Brand C,Mushroom Instant Noodle,Pack,3.5
+2451,KOR,Brand D,Beef and Mushroom Instant Noodle,Pack,3.5
+2452,THA,Brand E,Kimchi Ramen,Pack,2.8
+2453,USA,Brand F,Shoyu Ramen,Tray,4.5
+2454,KOR,Brand G,Shoyu Ramen,Pack,2.5
+2455,THA,Brand A,Shoyu Ramen,Pack,5
+2456,CHN,Brand B,Noodle King Beef,Pack,1.8
+2457,TWN,Brand C,100 Furong Shrimp,,3
+2458,USA,Brand D,Bowl Noodles Rich & Savory Chicken,Bowl,1.8
+2459,THA,Brand E,Shrimp Creamy Tom Yum,Pack,5
+2460,TWN,Brand F,Fresh Shrimp,Pack,3.3
+2461,KOR,Brand A,Gyeong-Gi-Do Rice,Bowl,2.3
+2462,CHN,Brand B,Hot & Sour Rice Noodle,Pack,0
+2463,TWN,Brand C,Artificial Peppered Beef,Pack,3.5
+2464,TWN,Brand D,100 Artificial Shallot Chicken,Pack,3.3
+2465,JPN,Brand E,Miso Soybean Paste,Pack,3.5
+2466,KOR,Brand F,Mupama Tang Myun,Pack,3.5
+2467,THA,Brand G,Artificial PA-LO Duck,Pack,0.1
+2468,VNM,Brand A,Mi Chay Vegetarian,Pack,2.8
+2469,THA,Brand B,Tom Yam Koong Rice Vermicelli,Pack,1.5
+2470,JPN,Brand C,Seaweed Instant Noodle,Pack,3
+2471,JPN,Brand D,Beef Ramen,Tray,5
+2472,THA,Brand E,Chicken Ramen,Pack,3.7
+2473,HKG,Brand F,Shoyu Ramen,Pack,4
+2474,KOR,Brand G,Miso Ramen,Pack,4
+2475,KOR,Brand A,Curry Ramen,Pack,4
+2476,TWN,Brand B,Tom Yum Ramen,Pack,3.4
+2477,KOR,Brand C,Chicken Instant Noodle,Pack,3.8
+2478,KOR,Brand D,Mushroom Instant Noodle,Pack,4
+2479,THA,Brand E,Beef and Mushroom Instant Noodle,Pack,3.6
+2480,KOR,Brand F,Kimchi Ramen,Pack,2.8
+2481,KOR,Brand A,Shoyu Ramen,Pack,2.9
+2482,KOR,Brand B,,Pack,4
+2483,KOR,Brand C,,Pack,3.8
+2484,KOR,Brand D,,Pack,3.3
+2485,PHL,Brand E,,Pack,1.5
+2486,THA,Brand F,,Pack,3.1
+2487,USA,Brand G,,Bowl,2
+2488,KOR,Brand A,,Pack,1.1
+2489,THA,Brand B,,Pack,0.5
+2490,IDN,Brand C,,Pack,5
+2491,USA,Brand D,,Pack,2
+2492,TWN,Brand E,,Pack,3
+2493,IDN,Brand F,,Pack,1.5
+2494,TWN,Brand G,,Pack,4.3
+2495,TWN,Brand A,Seaweed Instant Noodle,Pack,2.9
+2496,TWN,Brand B,Beef Ramen,Pack,2.8
+2497,TWN,Brand C,Chicken Ramen,Pack,2.5
+2498,VNM,Brand D,Shoyu Ramen,Pack,2.5
+2499,VNM,Brand E,Miso Ramen,Pack,3.8
+2500,TWN,Brand F,Curry Ramen,Pack,1
+2501,THA,Brand A,Tom Yum Ramen,Pack,2.5
+2502,PHL,Brand B,Chicken Instant Noodle,Pack,4.5
+2503,THA,Brand C,Mushroom Instant Noodle,Bowl,2
+2504,VNM,Brand D,Beef and Mushroom Instant Noodle,Pack,2.8
+2505,CHN,Brand E,Kimchi Ramen,Pack,2.3
+2506,TWN,Brand F,Shoyu Ramen,Pack,3.2
+2507,KOR,Brand G,Shoyu Ramen,Pack,3.3
+2508,THA,Brand A,Shoyu Ramen,Pack,2.8
+2509,TWN,Brand B,Onion Flavor,Pack,3.7
+2510,JPN,Brand C,Demae Ramen Sesame,Pack,3.8
+2511,KOR,Brand D,Kalgug-Su Assorted Clam,Pack,1.8
+2512,JPN,Brand E,Demae Ramen Spicy Flavor,Pack,2
+2513,JPN,Brand F,Demae Ramen Miso,Pack,2.8
+2514,TWN,Brand G,Artificial Spicy Beef,Pack,3.5
+2515,TWN,Brand A,Artificial Chicken,Pack,3.5
+2516,JPN,Brand B,Kitsune Udon,Pack,3.3
+2517,JPN,Brand C,Demae Ramen Seafood,Pack,2.5
+2518,JPN,Brand D,Demae Ramen Prawn,Pack,3.3
+2519,IDN,Brand E,Meatball Flavor,Pack,2.5
+2520,IDN,Brand F,Mi Goreng Rendang,Pack,4.5
+2521,JPN,Brand A,Demae Ramen Shoyu,Pack,4
+2522,JPN,Brand B,Demae Ramen Five Spices Artificial Beef,Pack,3.5
+2523,JPN,Brand C,Demae Ramen Tonkatsu Artificial Pork,Pack,3.5
+2524,JPN,Brand D,Demae Ramen Satay,Pack,2.5
+2525,JPN,Brand E,Demae Ramen XO Sauce Seafood,Pack,4
+2526,CHN,Brand F,Spicy Fei- Chang Sweet Potato Noodle,Pack,1.8
+2527,TWN,Brand G,Jah Jan Mien Instant Noodle With Fried Soybean Paste,Pack,4
+2528,USA,Brand A,Ramen Noodle Soup Lime Chili Shrimp,Pack,2
+2529,USA,Brand B,Ramen Noodle Soup Pork,Pack,4
+2530,USA,Brand C,Top Ramen Oriental,Pack,2.5
+2531,USA,Brand D,Chicken Flavor,Pack,3.5
+2532,JPN,Brand E,Souper Meal Chicken Flavor With Vegetable Medley,Bowl,3
+2533,IDN,Brand F,Rice Noodle Mania Lemon Masala,Pack,1.5
+2534,IDN,Brand G,2 Minute Noodles Curry,Pack,2.5
+2535,IDN,Brand A,Vegetable Atta Noodles Masala,Pack,2
+2536,IDN,Brand B,Chinese Noodles Lemon Chicken Flavor,Pack,3.5
+2537,TWN,Brand C,A-One Bun Tom Shrimp,Pack,3
+2538,HKG,Brand D,Instant Fried Noodles With Chili Sauce,Tray,3
+2539,HKG,Brand E,Instant Noodles With Sesame Oil & Soup Base,Pack,1
+2540,CHN,Brand F,Favoury Pork Flavor,Pack,1
+2541,CHN,Brand A,Spicy Seafood Flavor,Pack,3
+2542,IDN,Brand B,Chicken,Cup,2
+2543,IDN,Brand C,Chicken Curry,Pack,4
+2544,IDN,Brand D,Curly Noodles With Grilled Chicken,Pack,5
+2545,IDN,Brand E,Mi Goreng,Pack,5
+2546,IDN,Brand F,Mi Goreng Pedas Hot,Pack,4.5
+2547,IDN,Brand G,Shrimp Flavor,Pack,3
+2548,IDN,Brand A,Mi Goreng Jumbo Barbecue Chicken,Pack,5
+2549,IDN,Brand B,Seaweed Instant Noodle,Pack,3
+2550,IDN,Brand C,Beef Ramen,Pack,5
+2551,IDN,Brand D,Chicken Ramen,Pack,4.3
+2552,TWN,Brand E,Shoyu Ramen,Bowl,0
+2553,VNM,Brand F,Miso Ramen,Pack,2.8
+2554,THA,Brand G,Curry Ramen,Bowl,0.5
+2555,PHL,Brand A,Tom Yum Ramen,Pack,3
+2556,PHL,Brand B,Chicken Instant Noodle,Bowl,3
+2557,PHL,Brand C,Mushroom Instant Noodle,Pack,3
+2558,PHL,Brand D,Beef and Mushroom Instant Noodle,Pack,3
+2559,PHL,Brand E,Kimchi Ramen,Pack,3
+2560,THA,Brand F,Shoyu Ramen,Pack,3
+2561,USA,Brand A,Shoyu Ramen,Pack,2
+2562,SGP,Brand B,Shoyu Ramen,Pack,3.8
+2563,SGP,Brand C,Mi Hai Cua Crab Flavor,Pack,3.5
+2564,JPN,Brand D,Ippeichan Yakisoba,Tray,4
+2565,JPN,Brand E,Special Duck,Pack,1
+2566,THA,Brand F,Tom Yum Shrimp,Bowl,3.5
+2567,JPN,Brand G,Chikin Ramen,Pack,5
+2568,JPN,Brand A,Demae Ramen Curry Flavor,Pack,4
+2569,JPN,Brand B,Soba Noodles With Mayo Mustard Squirt,Pack,4
+2570,JPN,Brand C,Demae Ramen Spicy Flavor,Pack,3
+2571,JPN,Brand D,Demae Ramen Spicy Seafood With Chili Pepper,Pack,2
+2572,USA,Brand E,Top Ramen Creamy Chicken,Pack,4.5
+2573,KOR,Brand F,Ansungtangmyun Noodle Soup,Pack,3.8
+2574,KOR,Brand G,Seaweed Instant Noodle,Pack,4
+2575,KOR,Brand A,Beef Ramen,Pack,3.5
+2576,KOR,Brand B,Chicken Ramen,Pack,4
+2577,KOR,Brand C,Shoyu Ramen,Pack,3.5
+2578,PHL,Brand D,Miso Ramen,Pack,2.5
+2579,KOR,Brand E,Curry Ramen,Pack,3.5
+2580,KOR,Brand F,Tom Yum Ramen,Pack,2.5
+2581,KOR,Brand A,Chicken Instant Noodle,Pack,3.5
+2582,JPN,Brand B,Mushroom Instant Noodle,Pack,5
+2583,JPN,Brand C,Beef and Mushroom Instant Noodle,Pack,2.5
+2584,KOR,Brand D,Kimchi Ramen,Pack,2
+2585,USA,Brand E,Shoyu Ramen,Pack,1.5
+2586,KOR,Brand F,Shoyu Ramen,Cup,2
+2587,TWN,Brand G,Shoyu Ramen,Pack,3
+2588,VNM,Brand A,Mushroom Pork,Pack,1
+2589,VNM,Brand B,Nam Vang,Pack,2.5
+2590,VNM,Brand C,"Hu Tiu Nam Vang [""Phnom Penh"" style] Asian Style Instant Rice Noodles",Bowl,3.5
+2591,THA,Brand D,Oriental Style Instant Noodles,Pack,1
+2592,THA,Brand E,Tom Yum Shrimp,Pack,2
+2593,THA,Brand F,Tom Yum Chili Flavor,Pack,2
+2594,USA,Brand G,Miso Ramen,Pack,0.5
+2595,KOR,Brand M,,Cup,
+2596,USA,Brand M,,Pack,
+2597,KOR,Brand M,,Pack,
+2598,TWN,Brand M,,Pack,
+2599,VNM,Brand M,,Bowl,
+2600,VNM,Brand M,,Pack,
+2601,VNM,Brand M,,Pack,
+2601,THA,Brand M,,Pack,
+2601,THA,Brand M,,Pack,
+2601,THA,Brand M,,Pack,
+2601,USA,Brand M,,Pack,
+2601,THA,Brand F,Shoyu Ramen,Pack,3
+2601,USA,Brand A,Shoyu Ramen,Pack,2
+2601,SGP,Brand B,Shoyu Ramen,Pack,3.8
+2601,SGP,Brand C,Mi Hai Cua Crab Flavor,Pack,3.5
+2601,JPN,Brand D,Ippeichan Yakisoba,Tray,4
+2601,JPN,Brand E,Special Duck,Pack,1
+2601,THA,Brand F,Tom Yum Shrimp,Bowl,3.5
+2601,JPN,Brand G,Chikin Ramen,Pack,5
+2601,JPN,Brand A,Demae Ramen Curry Flavor,Pack,4
+2601,JPN,Brand B,Soba Noodles With Mayo Mustard Squirt,Pack,4
